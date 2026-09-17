@@ -69,7 +69,7 @@ mark{background:#f4ddb2;padding:0 .08em}
 </div></div>
 <main class="main wrap">
 <div class="toolbar">
-<div><span id="count"></span><div class="help" id="hint">Podés tocar cualquier materia para buscar ponencias relacionadas.</div></div>
+<div><span id="count"></span><div class="help" id="hint">Podés tocar cualquier materia para ver ponencias relacionadas.</div></div>
 <div class="views" aria-label="Modo de consulta">
 <button class="viewbtn active" data-v="records">Ponencias</button>
 <button class="viewbtn" data-v="authors">Autores</button>
@@ -88,16 +88,60 @@ mark{background:#f4ddb2;padding:0 .08em}
 <script src="data5.js"></script>
 <script>
 const DATA=window.DATA;
-let congress='all', view='records';
+let congress='all', view='records', selection=null;
 const q=document.getElementById('q'), results=document.getElementById('results'), count=document.getElementById('count'), hint=document.getElementById('hint');
-const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const esc=s=>String(s??'').replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]));
 const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 const bnUrl=id=>`https://catalogo.bn.gov.ar/F/?func=direct&doc_number=${String(id).padStart(9,'0')}&local_base=GENER`;
-const filtered=()=>{let x=DATA;if(congress!=='all')x=x.filter(r=>String(r.congressNo)===congress);const term=norm(q.value.trim());if(term)x=x.filter(r=>norm([r.title,r.statement,...r.authors,...r.subjects,...r.contents,...r.alternateTitles,r.congress,r.pages].join(' ')).includes(term));return x;};
+
+function searchRows(term){
+ const t=norm(term);
+ if(!t)return DATA;
+ return DATA.filter(r=>norm([r.title,r.statement,...r.authors,...r.subjects,...r.contents,...r.alternateTitles,r.congress,r.pages].join(' ')).includes(t));
+}
+function recordRows(){
+ if(selection){
+  if(selection.kind==='authors') return DATA.filter(r=>r.authors.includes(selection.name));
+  return DATA.filter(r=>r.subjects.includes(selection.name));
+ }
+ const term=q.value.trim();
+ if(term)return searchRows(term);
+ if(congress!=='all')return DATA.filter(r=>String(r.congressNo)===congress);
+ return DATA;
+}
 function congressLabel(r){return `${r.congressNo}.º Congreso · ${r.year}${r.pages?' · '+r.pages:''}`;}
+function syncFilters(){document.querySelectorAll('.filter').forEach(b=>b.classList.toggle('active',b.dataset.c===congress));}
+function syncViews(){document.querySelectorAll('.viewbtn').forEach(b=>b.classList.toggle('active',b.dataset.v===view));}
+function resetToGlobal(){
+ congress='all';
+ q.value='';
+ selection=null;
+ syncFilters();
+}
+function chooseSelection(kind,name){
+ q.value='';
+ congress='all';
+ selection={kind,name};
+ view='records';
+ syncFilters();
+ syncViews();
+ render();
+ window.scrollTo({top:0,behavior:'smooth'});
+}
+
 function renderRecords(rows){
  count.textContent=`${rows.length} ${rows.length===1?'ponencia':'ponencias'}`;
- hint.textContent='Podés tocar cualquier materia para buscar ponencias relacionadas.';
+ if(selection){
+  hint.textContent=selection.kind==='authors'
+   ? `Ponencias de ${selection.name}.`
+   : `Ponencias relacionadas con ${selection.name}.`;
+ }else if(congress!=='all'){
+  hint.textContent=`Contenido completo del ${congress}.º Congreso.`;
+ }else if(q.value.trim()){
+  hint.textContent='Resultados de búsqueda en los 107 registros.';
+ }else{
+  hint.textContent='Podés tocar cualquier materia para ver ponencias relacionadas.';
+ }
  if(!rows.length){results.innerHTML='<div class="empty">No se encontraron resultados. Probá con otro término o con “Todos”.</div>';return;}
  results.innerHTML=rows.map(r=>`<article class="card">
   <h2>${esc(r.title)}</h2>
@@ -114,24 +158,50 @@ function renderRecords(rows){
    <p><span class="label">N.º de sistema:</span> ${esc(r.id)}</p>
   </div></details>
  </article>`).join('');
- results.querySelectorAll('[data-subject]').forEach(b=>b.addEventListener('click',()=>{q.value=b.dataset.subject;view='records';syncViews();render();window.scrollTo({top:0,behavior:'smooth'});}));
+ results.querySelectorAll('[data-subject]').forEach(b=>b.addEventListener('click',()=>chooseSelection('subjects',b.dataset.subject)));
 }
-function renderIndex(rows,kind){
+function renderIndex(kind){
  const map=new Map();
- if(kind==='authors') rows.forEach(r=>r.authors.forEach(v=>map.set(v,(map.get(v)||0)+1)));
- else rows.forEach(r=>r.subjects.forEach(v=>map.set(v,(map.get(v)||0)+1)));
+ if(kind==='authors') DATA.forEach(r=>r.authors.forEach(v=>map.set(v,(map.get(v)||0)+1)));
+ else DATA.forEach(r=>r.subjects.forEach(v=>map.set(v,(map.get(v)||0)+1)));
  const arr=[...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],'es',{sensitivity:'base'}));
  count.textContent=`${arr.length} ${kind==='authors'?'autores':'temas'}`;
- hint.textContent=`Tocá un ${kind==='authors'?'autor':'tema'} para ver sus ponencias.`;
- if(!arr.length){results.innerHTML='<div class="empty">No se encontraron entradas para este filtro.</div>';return;}
+ hint.textContent=`Índice global. Tocá un ${kind==='authors'?'autor':'tema'} para ver sus ponencias.`;
+ if(!arr.length){results.innerHTML='<div class="empty">No se encontraron entradas.</div>';return;}
  results.innerHTML='<div class="indexbox">'+arr.map(([name,n])=>`<div class="indexitem"><button data-index="${esc(name)}"><span>${esc(name)}</span><span class="badge">${n} ${n===1?'ponencia':'ponencias'}</span></button></div>`).join('')+'</div>';
- results.querySelectorAll('[data-index]').forEach(b=>b.addEventListener('click',()=>{q.value=b.dataset.index;view='records';syncViews();render();window.scrollTo({top:0,behavior:'smooth'});}));
+ results.querySelectorAll('[data-index]').forEach(b=>b.addEventListener('click',()=>chooseSelection(kind,b.dataset.index)));
 }
-function syncViews(){document.querySelectorAll('.viewbtn').forEach(b=>b.classList.toggle('active',b.dataset.v===view));}
-function render(){const rows=filtered(); if(view==='records')renderRecords(rows); else renderIndex(rows,view);}
-q.addEventListener('input',render);
-document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{congress=b.dataset.c;document.querySelectorAll('.filter').forEach(x=>x.classList.toggle('active',x===b));render();}));
-document.querySelectorAll('.viewbtn').forEach(b=>b.addEventListener('click',()=>{view=b.dataset.v;syncViews();render();}));
+function render(){
+ if(view==='records')renderRecords(recordRows());
+ else renderIndex(view);
+}
+
+q.addEventListener('input',()=>{
+ congress='all';
+ selection=null;
+ view='records';
+ syncFilters();
+ syncViews();
+ render();
+});
+
+document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{
+ q.value='';
+ selection=null;
+ congress=b.dataset.c;
+ view='records';
+ syncFilters();
+ syncViews();
+ render();
+}));
+
+document.querySelectorAll('.viewbtn').forEach(b=>b.addEventListener('click',()=>{
+ resetToGlobal();
+ view=b.dataset.v;
+ syncViews();
+ render();
+}));
+
 render();
 </script>
 </body></html>
