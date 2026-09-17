@@ -1,0 +1,2191 @@
+001674097 FMT   L BK
+001674097 LDR   L 00000naa^a22^^^^^^a^4500
+001674097 001   L 001674097
+001674097 005   L 20260911190918.0
+001674097 007   L ta
+001674097 008   L 260908s1992^^^^ag^o^^^grb^^^^000^0^spa^^
+001674097 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674097 043   L $$as-ag---
+001674097 1001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
+001674097 24510 L $$aHistoria de la fotografía en Mendoza :$$betapa del daguerrotipo /$$cAbel José Alexander.
+001674097 504   L $$aBibliografía: p. 20.
+001674097 5050  L $$aAdolfo Alexander, padre de la fotografía mendocina -- Bartolomé Bossi, marino y daguerrotipista -- La muerte de un daguerrotipista -- Un daguerrotipista anónimo -- Desiderio Aguiar en el escenario mendocino -- Un francés en Mendoza -- El último ambrotipista -- Vistas fotográficas.
+001674097 650 4 L $$aFotografía$$zMendoza (Provincia)$$xHistoria$$ySiglo XIX
+001674097 650 4 L $$aDaguerrotipo$$zArgentina$$xHistoria
+001674097 650 4 L $$aFotógrafos argentinos$$xHistoria$$ySiglo XIX
+001674097 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 13-20$$w(AR-BaBN)001314540
+001674097 LKR   L $$aDN$$b001314540$$lBNA01$$mHistoria de la fotografía en Mendoza : etapa del daguerrotipo / Abel José Alexander$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 13-20
+001674097 OWN   L $$aCAT_FOTO
+001674097 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1729
+001674097 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1554
+001674097 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674270 FMT   L BK
+001674270 LDR   L 00000naa^a22^^^^^^a^4500
+001674270 001   L 001674270
+001674270 005   L 20260909161852.0
+001674270 007   L ta
+001674270 008   L 260909s1992^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674270 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674270 1001  L $$aAlonso de Rocha, Aurora,$$d1937-2021$$eautora$$4aut
+001674270 24513 L $$aLa fotografía como fuente histórica /$$cAurora Alonso de Rocha.
+001674270 650 4 L $$aFotografía$$xFilosofía
+001674270 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 39-42$$w(AR-BaBN)001314540
+001674270 LKR   L $$aDN$$b001314540$$lBNA01$$mLa fotografía como fuente histórica / Aurora Alonso de Rocha$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 39-42
+001674270 OWN   L $$aCAT_FOTO
+001674270 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1618
+001674271 FMT   L BK
+001674271 LDR   L 00000naa^a22^^^^^^a^4500
+001674271 001   L 001674271
+001674271 005   L 20260917154613.0
+001674271 007   L ta
+001674271 008   L 260909s1992^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674271 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674271 043   L $$as-ag---
+001674271 1001  L $$aÁlvarez, Rafael Alejandro$$eautor$$4aut
+001674271 24513 L $$aLa fotografía más antigua de Mendoza /$$cRafael Alejandro Álvarez.
+001674271 5050  L $$aLa convocatoria -- Los aportes -- Verificación -- Reflexión final.
+001674271 650 4 L $$aFotografía$$zMendoza (Provincia)$$xHistoria$$ySiglo XIX
+001674271 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 43-46$$w(AR-BaBN)001314540
+001674271 LKR   L $$aDN$$b001314540$$lBNA01$$mLa fotografía más antigua de Mendoza / Rafael Alejandro Álvarez$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 43-46
+001674271 OWN   L $$aCAT_FOTO
+001674271 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1623
+001674271 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1624
+001674271 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674273 FMT   L BK
+001674273 LDR   L 00000naa^a22^^^^^^a^4500
+001674273 001   L 001674273
+001674273 005   L 20260911190939.0
+001674273 007   L ta
+001674273 008   L 260909s1992^^^^ag^o^^^grb^^^^000^0^spa^^
+001674273 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674273 1001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
+001674273 24510 L $$aEugenio A. Cardini, fotógrafo y cinematografista aficionado, 1879-1962 /$$cCarlos Barrios Barón.
+001674273 504   L $$aBibliografía: p. 52-53.
+001674273 5050  L $$aAntecedentes -- El impacto del kinetoscopio -- La filmadora de 1896 -- El aparato Lumière -- Los premios fotográficos -- Nuevos viajes. Entrevista en Londres, 1901 -- Las "lecturas" -- La primera película argentina de argumento y otras filmaciones -- La obra fotográfica -- Más aparatos y películas de cine -- Su fallecimiento. Remate de sus pertenencias -- Importancia de Cardini.
+001674273 60014 L $$aCardini, Eugenio Alejandro,$$d1879-1962
+001674273 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 47-53$$w(AR-BaBN)001314540
+001674273 LKR   L $$aDN$$b001314540$$lBNA01$$mEugenio A. Cardini, fotógrafo y cinematografista aficionado, 1879-1962 / Carlos Barrios Barón$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 47-53
+001674273 OWN   L $$aCAT_FOTO
+001674273 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1634
+001674273 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674290 FMT   L BK
+001674290 LDR   L 00000naa^a22^^^^^^a^4500
+001674290 001   L 001674290
+001674290 005   L 20260909182639.0
+001674290 007   L ta
+001674290 008   L 260909s1992^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674290 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674290 043   L $$as-ag---
+001674290 1001  L $$aBischoff, Efraín U.$$q(Efraín Urbano),$$d1912-2013$$eautor$$4aut
+001674290 24510 L $$aFotógrafos de Córdoba /$$cEfraín U. Bischoff.
+001674290 5050  L $$a¡A retratarse!... -- Corregé-Paganelli... -- El doctor Gould y la Luna -- "...los días nublados..." -- El catalán Félix A. Tey, y muchos otros.
+001674290 650 4 L $$aFotógrafos argentinos$$zCórdoba (Provincia)$$xHistoria$$ySiglo XIX
+001674290 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 111-115$$w(AR-BaBN)001314540
+001674290 LKR   L $$aDN$$b001314540$$lBNA01$$mFotógrafos de Córdoba / Efraín U. Bischoff$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 111-115
+001674290 OWN   L $$aCAT_FOTO
+001674290 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1826
+001674100 FMT   L BK
+001674100 LDR   L 00000naa^a22^^^^^^a^4500
+001674100 001   L 001674100
+001674100 005   L 20260911190935.0
+001674100 007   L ta
+001674100 008   L 260908s1992^^^^ag^o^^^grb^^^^000^0^spa^^
+001674100 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674100 043   L $$as-ag---
+001674100 1001  L $$aButtori, Nidia$$eautora$$4aut
+001674100 24510 L $$aY los autochromes quedaron :$$bfotografía antropológica /$$cNidia Buttori, Laura R. Piaggio, María E. Ramognini.
+001674100 504   L $$aBibliografía: p. 26.
+001674100 650 4 L $$aMacás$$xHistoria
+001674100 650 4 L $$aAutocromos$$xHistoria
+001674100 7001  L $$aPiaggio, Laura Raquel$$eautora$$4aut
+001674100 7001  L $$aRamognini, María E.$$eautora$$4aut
+001674100 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 23-26$$w(AR-BaBN)001314540
+001674100 LKR   L $$aDN$$b001314540$$lBNA01$$mY los autochromes quedaron : fotografía antropológica / Nidia Buttori, Laura R. Piaggio, María E. Ramognini$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 23-26
+001674100 OWN   L $$aCAT_FOTO
+001674100 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1751
+001674100 CAT   L $$aNZEBALLOS$$b20$$c20260909$$lBNA01$$h1412
+001674100 CAT   L $$aNZEBALLOS$$b20$$c20260909$$lBNA01$$h1427
+001674100 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1852
+001674100 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674284 FMT   L BK
+001674284 LDR   L 00000naa^a22^^^^^^a^4500
+001674284 001   L 001674284
+001674284 005   L 20260909180026.0
+001674284 007   L ta
+001674284 008   L 260909s1992^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674284 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674284 043   L $$as-ag---
+001674284 1001  L $$aConde, Roberto$$eautor$$4aut
+001674284 24513 L $$aEl partido de San Martín en la fotografía /$$cRoberto Conde.
+001674284 650 4 L $$aFotografía$$zBuenos Aires (Provincia)$$zSan Martín$$xHistoria
+001674284 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 89-91$$w(AR-BaBN)001314540
+001674284 LKR   L $$aDN$$b001314540$$lBNA01$$mEl partido de San Martín en la fotografía / Roberto Conde$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 89-91
+001674284 OWN   L $$aCAT_FOTO
+001674284 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1800
+001314540 FMT   L BK
+001314540 LDR   L 00000aam^a22^^^^^^a^4500
+001314540 001   L 001314540
+001314540 003   L AR-BaBN
+001314540 005   L 20260917154637.0
+001314540 007   L ta
+001314540 008   L 140807s1992^^^^ag^co^^fr^^^^^101^0^spa^^
+001314540 015   L $$aAR-1992
+001314540 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001314540 043   L $$as-ag---
+001314540 044   L $$aag$$car-c
+001314540 0801  L $$a77(091)(062.537)$$22016
+001314540 1112  L $$aCongreso de Historia de la Fotografía$$n(1o :$$d1992 mayo 23-24 :$$cFlorida, Buenos Aires)$$jorganizador$$4orm
+001314540 24510 L $$a1º Congreso de Historia de la Fotografía :$$b23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina.
+001314540 2463  L $$aPrimer Congreso de Historia de la Fotografía
+001314540 2463  L $$aPrimera Jornada sobre Medicina y Fotografía en la Argentina
+001314540 260   L $$aBuenos Aires :$$bFederación Argentina de Fotografía,$$c1992.
+001314540 300   L $$a136 p. :$$bfot. byn, retrs. ;$$c22 cm.
+001314540 504   L $$aIncluye referencias bibliográficas al final de cada capítulo.
+001314540 650 4 L $$aFotografía$$zArgentina$$xHistoria$$vDocumentos de congresos, conferencias, etc.
+001314540 655 4 L $$aDocumentos de congresos, conferencias, etc.
+001314540 7001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
+001314540 7001  L $$aAlexander, Axel,$$d1970-$$eautor$$4aut
+001314540 7001  L $$aAlonso de Rocha, Aurora,$$d1937-2021$$eautora$$4aut
+001314540 7001  L $$aÁlvarez, Rafael Alejandro$$eautor$$4aut
+001314540 7001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
+001314540 7001  L $$aBischoff, Efraín U.$$q(Efraín Urbano),$$d1912-2013$$eautor$$4aut
+001314540 7001  L $$aButtori, Nidia$$eautora$$4aut
+001314540 7001  L $$aConde, Roberto$$eautor$$4aut
+001314540 7001  L $$aCorrea, Rubén David$$eautor$$4aut
+001314540 7001  L $$aCuarterolo, Miguel Angel,$$d1950-2002$$eautor$$4aut
+001314540 7001  L $$aCunietti-Ferrando, Arnaldo J.,$$d1936-2018$$eautor$$4aut
+001314540 7001  L $$aDelgado, Carmen$$eautora$$4aut
+001314540 7001  L $$aDodd, Stella Maris$$eautora$$4aut
+001314540 7001  L $$aEpifanio, Haydée$$eautora$$4aut
+001314540 7001  L $$aFerrari, Roberto A.$$eautor$$4aut
+001314540 7001  L $$aGallardo, Guillermo$$eautor$$4aut
+001314540 7001  L $$aGesualdo, Vicente,$$d1922-1999$$eautor$$4aut
+001314540 7001  L $$aGómez, Juan,$$d1932-2018$$eautor$$4aut
+001314540 7001  L $$aIaconis, Héctor José$$eautor$$4aut
+001314540 7001  L $$aIglesia, Alicia Irene de la$$eautora$$4aut
+001314540 7001  L $$aLópez Sansac, Eleonora$$eautora$$4aut
+001314540 7001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001314540 7001  L $$aMerlo, Marcelo$$eautor$$4aut
+001314540 7001  L $$aMirabelli, Cristina$$eautora$$4aut
+001314540 7001  L $$aPadrón Toro, Antonio,$$d1941-$$eautor$$4aut
+001314540 7001  L $$aParacampo Filho, Luiz Antonio$$eautor$$4aut
+001314540 7001  L $$aParola, Publio G.$$eautor$$4aut
+001314540 7001  L $$aPiaggio, Laura Raquel$$eautora$$4aut
+001314540 7001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+001314540 7001  L $$aPujol, Marcelo J.$$eautor$$4aut
+001314540 7001  L $$aPérez Bayo, Antonia$$eautora$$4aut
+001314540 7001  L $$aRaggi, Carlos$$eautor$$4aut
+001314540 7001  L $$aRamognini, María E.$$eautora$$4aut
+001314540 7112  L $$aJornada sobre Medicina y Fotografía en la Argentina$$n(1o :$$d1992 mayo 23-24 :$$cFlorida, Buenos Aires)$$jorganizador$$4orm
+001314540 OWN   L $$aCAT_LIBRO
+001314540 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1412
+001314540 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1433
+001314540 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1447
+001314540 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1449
+001314540 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1450
+001314540 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1457
+001314540 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1506
+001314540 CAT   L $$aKRODRIGUEZ$$b20$$c20140909$$lBNA01$$h1535
+001314540 CAT   L $$aCATAU$$b20$$c20141003$$lBNA01$$h1839
+001314540 CAT   L $$aBATCH-UPD$$b20$$c20141003$$lBNA01$$h1839
+001314540 CAT   L $$aCATAU$$b20$$c20160624$$lBNA01$$h1537
+001314540 CAT   L $$aBATCH-UPD$$b20$$c20170612$$lBNA01$$h1459
+001314540 CAT   L $$aBATCH-UPD$$b20$$c20180223$$lBNA01$$h1739
+001314540 CAT   L $$aCATAU$$b20$$c20181011$$lBNA01$$h1116
+001314540 CAT   L $$aCATAU$$b20$$c20210625$$lBNA01$$h1949
+001314540 CAT   L $$aBATCH-UPD$$b20$$c20211223$$lBNA01$$h0306
+001314540 CAT   L $$aCATAU$$b20$$c20230712$$lBNA01$$h1051
+001314540 CAT   L $$aCATAU$$b20$$c20230916$$lBNA01$$h2303
+001314540 CAT   L $$aCATAU$$b20$$c20240619$$lBNA01$$h1806
+001314540 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1533
+001314540 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1925
+001314540 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1928
+001314540 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1605
+001314540 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1749
+001314540 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1609
+001314540 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001314540 Z30-1 L $$lBNA01$$LBNA01$$mLIBRO$$1FOTO$$AFototeca$$2LIBRO$$BColección Libros$$3FOES052112$$600943550$$500943550$$420140700$$820140807$$f13$$FPréstamo común en sala$$s01$$n022$$q000010$$o001314540
+001674285 FMT   L BK
+001674285 LDR   L 00000naa^a22^^^^^^a^4500
+001674285 001   L 001674285
+001674285 005   L 20260909180341.0
+001674285 007   L ta
+001674285 008   L 260909s1992^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674285 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674285 1001  L $$aCorrea, Rubén David$$eautor$$4aut
+001674285 24510 L $$aAcerca de una antigua disertación sobre fotografía /$$cRubén David Correa.
+001674285 650 4 L $$aFotografía$$xFilosofía
+001674285 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 93-94$$w(AR-BaBN)001314540
+001674285 LKR   L $$aDN$$b001314540$$lBNA01$$mAcerca de una antigua disertación sobre fotografía / Rubén David Correa$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 93-94
+001674285 OWN   L $$aCAT_FOTO
+001674285 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1803
+001674274 FMT   L BK
+001674274 LDR   L 00000naa^a22^^^^^^a^4500
+001674274 001   L 001674274
+001674274 005   L 20260909163830.0
+001674274 007   L ta
+001674274 008   L 260909s1992^^^^ag^o^^^grb^^^^000^0^spa^^
+001674274 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674274 043   L $$as-ag---$$as-bl---$$as-uy---$$as-py---
+001674274 1001  L $$aCuarterolo, Miguel Angel,$$d1950-2002$$eautor$$4aut
+001674274 24510 L $$aIconografía de guerra :$$bfotografías de la Triple Alianza 1865-1870 /$$cMiguel Angel Cuarterolo.
+001674274 504   L $$aBibliografía: p. 60.
+001674274 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XIX
+001674274 650 4 L $$aGuerra del Paraguay, 1865-1870
+001674274 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 55-60$$w(AR-BaBN)001314540
+001674274 LKR   L $$aDN$$b001314540$$lBNA01$$mIconografía de guerra : fotografías de la Triple Alianza 1865-1870 / Miguel Angel Cuarterolo$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 55-60
+001674274 OWN   L $$aCAT_FOTO
+001674274 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1638
+001674269 FMT   L BK
+001674269 LDR   L 00000naa^a22^^^^^^a^4500
+001674269 001   L 001674269
+001674269 005   L 20260909160447.0
+001674269 007   L ta
+001674269 008   L 260909s1992^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674269 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674269 043   L $$as-ag---
+001674269 1001  L $$aCunietti-Ferrando, Arnaldo J.,$$d1936-2018$$eautor$$4aut
+001674269 24510 L $$aMedallas y diplomas en la fotografía argentina del siglo XIX /$$cArnaldo J. Cunietti-Ferrando.
+001674269 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XIX
+001674269 650 4 L $$aMedallas
+001674269 650 4 L $$aPremios
+001674269 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 35-37$$w(AR-BaBN)001314540
+001674269 LKR   L $$aDN$$b001314540$$lBNA01$$mMedallas y diplomas en la fotografía argentina del siglo XIX / Arnaldo J. Cunietti-Ferrando$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 35-37
+001674269 OWN   L $$aCAT_FOTO
+001674269 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1604
+001674269 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1604
+001674287 FMT   L BK
+001674287 LDR   L 00000naa^a22^^^^^^a^4500
+001674287 001   L 001674287
+001674287 005   L 20260909185232.0
+001674287 007   L ta
+001674287 008   L 260909s1992^^^^ag^^^^^grb^^^^000^0^spa^^
+001674287 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674287 043   L $$as-ag---
+001674287 1001  L $$aDelgado, Carmen$$eautora$$4aut
+001674287 24510 L $$aVicente y Santiago Pusso :$$bfotógrafos amateurs de Rosario /$$cCarmen Delgado.
+001674287 504   L $$aBibliografía: p. 97.
+001674287 60014 L $$aPusso, Santiago,$$d1856-1923
+001674287 60014 L $$aPusso, Vicente,$$d1857-1904
+001674287 650 4 L $$aFotógrafos argentinos$$zRosario (Santa Fe)$$xHistoria
+001674287 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 95-97$$w(AR-BaBN)001314540
+001674287 LKR   L $$aDN$$b001314540$$lBNA01$$mVicente y Santiago Pusso : fotógrafos amateurs de Rosario / Carmen Delgado$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 95-97
+001674287 OWN   L $$aCAT_FOTO
+001674287 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1807
+001674287 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1852
+001674276 FMT   L BK
+001674276 LDR   L 00000naa^a22^^^^^^a^4500
+001674276 001   L 001674276
+001674276 005   L 20260909170144.0
+001674276 007   L ta
+001674276 008   L 260909s1992^^^^ag^^^^^grb^^^^000^0^spa^^
+001674276 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674276 043   L $$as-ag---$$ae-uk-wl
+001674276 1001  L $$aDodd, Stella Maris$$eautora$$4aut
+001674276 24513 L $$aEl intento de guardar el alma en una foto /$$cStella Maris Dodd.
+001674276 504   L $$aBibliografía: p. 71.
+001674276 650 4 L $$aInmigrantes galeses$$zChubut (Provincia)$$xHistoria
+001674276 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 69-71$$w(AR-BaBN)001314540
+001674276 LKR   L $$aDN$$b001314540$$lBNA01$$mEl intento de guardar el alma en una foto / Stella Maris Dodd$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 69-71
+001674276 OWN   L $$aCAT_FOTO
+001674276 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1700
+001674276 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1700
+001674276 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1701
+001674283 FMT   L BK
+001674283 LDR   L 00000naa^a22^^^^^^a^4500
+001674283 001   L 001674283
+001674283 005   L 20260911190932.0
+001674283 007   L ta
+001674283 008   L 260909s1992^^^^ag^a^^^grb^^^^000^0^spa^^
+001674283 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674283 043   L $$as-ag---
+001674283 1001  L $$aFerrari, Roberto A.$$eautor$$4aut
+001674283 24514 L $$aLos primeros ensayos con rayos X en la Argentina /$$cRoberto A. Ferrari.
+001674283 504   L $$aBibliografía: p. 87.
+001674283 650 4 L $$aRadiografía$$zArgentina$$xHistoria
+001674283 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 85-88$$w(AR-BaBN)001314540
+001674283 LKR   L $$aDN$$b001314540$$lBNA01$$mLos primeros ensayos con rayos X en la Argentina / Roberto A. Ferrari$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 85-88
+001674283 OWN   L $$aCAT_FOTO
+001674283 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1757
+001674283 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674288 FMT   L BK
+001674288 LDR   L 00000naa^a22^^^^^^a^4500
+001674288 001   L 001674288
+001674288 005   L 20260909181145.0
+001674288 007   L ta
+001674288 008   L 260909s1992^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674288 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674288 1001  L $$aGallardo, Guillermo$$eautor$$4aut
+001674288 24510 L $$aWalter Roil, una historia de vida, 1904-1989 /$$cGuillermo Gallardo.
+001674288 5050  L $$aIntroducción -- Las cámaras de Walter Roil -- Los viajes de Walter Roil.
+001674288 60014 L $$aRoil, Walter,$$d1904-1989
+001674288 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 99-104$$w(AR-BaBN)001314540
+001674288 LKR   L $$aDN$$b001314540$$lBNA01$$mWalter Roil, una historia de vida, 1904-1989 / Guillermo Gallardo$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 99-104
+001674288 OWN   L $$aCAT_FOTO
+001674288 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1811
+001674289 FMT   L BK
+001674289 LDR   L 00000naa^a22^^^^^^a^4500
+001674289 001   L 001674289
+001674289 005   L 20260909181657.0
+001674289 007   L ta
+001674289 008   L 260909s1992^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674289 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674289 1001  L $$aGesualdo, Vicente,$$d1922-1999$$eautor$$4aut
+001674289 24510 L $$aBenito Panunzi, patriota garibaldino, pintor, arquitecto y fotógrafo en China y las pampas argentinas /$$cVicente Gesualdo.
+001674289 60014 L $$aPanunzi, Benito,$$d1819-1894
+001674289 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 105-109$$w(AR-BaBN)001314540
+001674289 LKR   L $$aDN$$b001314540$$lBNA01$$mBenito Panunzi, patriota garibaldino, pintor, arquitecto y fotógrafo en China y las pampas argentinas / Vicente Gesualdo$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 105-109
+001674289 OWN   L $$aCAT_FOTO
+001674289 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1816
+001674275 FMT   L BK
+001674275 LDR   L 00000naa^a22^^^^^^a^4500
+001674275 001   L 001674275
+001674275 005   L 20260911190924.0
+001674275 007   L ta
+001674275 008   L 260909s1992^^^^ag^o^^^grb^^^^000^0^spa^^
+001674275 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674275 1001  L $$aGómez, Juan,$$d1932-2018$$eautor$$4aut
+001674275 24510 L $$aFlorencio Varela :$$bun indiscutible pionero de la fotografía argentina /$$cJuan Gómez.
+001674275 504   L $$aBibliografía: p. 66.
+001674275 5050  L $$aFlorencio Varela, el hombre -- Florencio Varela y su vinculación con la fotografía -- Varela, pionero también en Brasil -- El regreso al Uruguay -- Su viaje a Europa y la fotografía -- Florencio Varela, periodista y fotoamateur.
+001674275 60014 L $$aVarela, Florencio,$$d1807-1848
+001674275 650 4 L $$aDaguerrotipo$$zAmérica del Sur$$xHistoria
+001674275 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 61-67$$w(AR-BaBN)001314540
+001674275 LKR   L $$aDN$$b001314540$$lBNA01$$mFlorencio Varela : un indiscutible pionero de la fotografía argentina / Juan Gómez$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 61-67
+001674275 OWN   L $$aCAT_FOTO
+001674275 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1649
+001674275 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1750
+001674275 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674103 FMT   L BK
+001674103 LDR   L 00000naa^a22^^^^^^a^4500
+001674103 001   L 001674103
+001674103 005   L 20260911190929.0
+001674103 007   L ta
+001674103 008   L 260908s1992^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674103 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674103 043   L $$as-ag---
+001674103 1001  L $$aIaconis, Héctor José$$eautor$$4aut
+001674103 24510 L $$aHistoria de la fotografía en 9 de Julio /$$cHéctor J. Iaconis.
+001674103 5050  L $$aIntroducción -- Primeros fotógrafos -- Mecanismos y proceso -- Comercios fotográficos y fotógrafos -- Fotografía Derosa -- Estradé Valls -- Pedro Epphere -- Fotografía Buenos Aires -- Fotografía Adobato y sus costumbres -- Formatos y tipos de presentación -- Descripción de una fotografía tomada en los estudios Adobato -- Formatos típicos de los porta-fotografías de la firma Adobato y Divito -- Adobato y Divito -- Fotografía relámpago -- Nuevos estudios -- La fotografía mortuoria.
+001674103 650 4 L $$aFotografía$$zBuenos Aires (Provincia)$$z9 de Julio [Buenos Aires (Provincia)]$$xHistoria
+001674103 650 4 L $$aFotógrafos argentinos$$xHistoria
+001674103 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 27-29$$w(AR-BaBN)001314540
+001674103 LKR   L $$aDN$$b001314540$$lBNA01$$mHistoria de la fotografía en 9 de Julio / Héctor J. Iaconis$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 27-29
+001674103 OWN   L $$aCAT_FOTO
+001674103 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1800
+001674103 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1554
+001674103 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1609
+001674103 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674291 FMT   L BK
+001674291 LDR   L 00000naa^a22^^^^^^a^4500
+001674291 001   L 001674291
+001674291 005   L 20260911190914.0
+001674291 007   L ta
+001674291 008   L 260909s1992^^^^ag^^^^^grb^^^^000^0^spa^^
+001674291 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674291 1001  L $$aLópez Sansac, Eleonora$$eautora$$4aut
+001674291 24513 L $$aUn extraño retrato /$$cEleonora López Sansac.
+001674291 60014 L $$aPilcher, Jorge Briscoe,$$d1841-1909
+001674291 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 117-118$$w(AR-BaBN)001314540
+001674291 LKR   L $$aDN$$b001314540$$lBNA01$$mUn extraño retrato / Eleonora López Sansac$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 117-118
+001674291 OWN   L $$aCAT_FOTO
+001674291 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1833
+001674291 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674094 FMT   L BK
+001674094 LDR   L 00000naa^a22^^^^^^a^4500
+001674094 001   L 001674094
+001674094 005   L 20260917154629.0
+001674094 007   L ta
+001674094 008   L 260908s1992^^^^ag^o^^^grb^^^^000^0^spa^^
+001674094 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674094 043   L $$as-ag---
+001674094 1001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001674094 24510 L $$aEn torno a un álbum fotográfico sobre el ferrocarril de Buenos Aires a Campana /$$cEduardo Luis Marcet, Haydée Epifanio.
+001674094 504   L $$aBibliografía: p. 11.
+001674094 5050  L $$aIntroducción -- Antecedentes -- El ferrocarril de Buenos Aires a Campana -- Descripción del álbum -- Análisis de la dedicatoria -- Las evidencias del "progreso" -- A manera de conclusión.
+001674094 650 4 L $$aFerrocarriles$$zArgentina$$xHistoria$$ySiglo XIX
+001674094 650 4 L $$aÁlbumes de fotografías$$zArgentina$$xHistoria$$ySiglo XIX
+001674094 7001  L $$aEpifanio, Haydée$$eautora$$4aut
+001674094 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 7-11$$w(AR-BaBN)001314540
+001674094 LKR   L $$aDN$$b001314540$$lBNA01$$mEn torno a un álbum fotográfico sobre el ferrocarril de Buenos Aires a Campana / Eduardo Luis Marcet, Haydée Epifanio$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 7-11
+001674094 OWN   L $$aCAT_FOTO
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1704
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1704
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1705
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1705
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1705
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1713
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1715
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1718
+001674094 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1729
+001674094 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1554
+001674094 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674267 FMT   L BK
+001674267 LDR   L 00000naa^a22^^^^^^a^4500
+001674267 001   L 001674267
+001674267 005   L 20260909155926.0
+001674267 007   L ta
+001674267 008   L 260909s1992^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674267 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674267 1001  L $$aMerlo, Marcelo$$eautor$$4aut
+001674267 24510 L $$aJosé Peisner, un fotógrafo en La Plata a principios de siglo /$$cMarcelo Merlo.
+001674267 5050  L $$aLa circunstancia -- El hombre -- José Peisner en La Plata -- A modo de conclusión -- La técnica empleada -- En lugar de bibliografía.
+001674267 60014 L $$aPeisner, José,$$d1892-1941
+001674267 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 31-33$$w(AR-BaBN)001314540
+001674267 LKR   L $$aDN$$b001314540$$lBNA01$$mJosé Peisner, un fotógrafo en La Plata a principios de siglo / Marcelo Merlo$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 31-33
+001674267 OWN   L $$aCAT_FOTO
+001674267 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1559
+001674099 FMT   L BK
+001674099 LDR   L 00000naa^a22^^^^^^a^4500
+001674099 001   L 001674099
+001674099 005   L 20260909155431.0
+001674099 007   L ta
+001674099 008   L 260908s1992^^^^ag^^^^^grb^^^^000^0^spa^^
+001674099 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674099 043   L $$as-ag---
+001674099 1001  L $$aMirabelli, Cristina$$eautora$$4aut
+001674099 24513 L $$aLa fotografía en el cine /$$cCristina Andrés de Mirabelli, Alicia Irene de la Iglesia.
+001674099 504   L $$aBibliografía: p. 22.
+001674099 5050  L $$aEl departamento de fotografía en la industria cinematográfica -- La fotografía en los Estudios Cinematográficos Lumiton.
+001674099 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XX
+001674099 7001  L $$aIglesia, Alicia Irene de la$$eautora$$4aut
+001674099 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 21-22$$w(AR-BaBN)001314540
+001674099 LKR   L $$aDN$$b001314540$$lBNA01$$mLa fotografía en el cine / Cristina Andrés de Mirabelli, Alicia Irene de la Iglesia$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 21-22
+001674099 OWN   L $$aCAT_FOTO
+001674099 CAT   L $$aFORTIZ$$b20$$c20260908$$lBNA01$$h1735
+001674099 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1554
+001674279 FMT   L BK
+001674279 LDR   L 00000naa^a22^^^^^^a^4500
+001674279 001   L 001674279
+001674279 005   L 20260917154610.0
+001674279 007   L ta
+001674279 008   L 260909s1992^^^^ag^o^^^grb^^^^000^0^spa^^
+001674279 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674279 1001  L $$aPadrón Toro, Antonio,$$d1941-$$eautor$$4aut
+001674279 24513 L $$aEl caso Páez /$$cAntonio Padrón Toro.
+001674279 504   L $$aBibliografía: p. 79.
+001674279 5050  L $$aJosé Antonio Páez, algunos datos biográficos -- La fotografía en Venezuela, algunas referencias sobre sus primeras noticias y actividades -- Páez y la fotografía -- Anónimo, ca. 1863 -- Coe, ca. 1865 -- Christiano Junior, 1871 -- El Páez de Charles Fredricks -- Conclusión.
+001674279 60014 L $$aPáez, José Antonio,$$d1790-1873$$xRetratos
+001674279 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 77-79$$w(AR-BaBN)001314540
+001674279 LKR   L $$aDN$$b001314540$$lBNA01$$mEl caso Páez / Antonio Padrón Toro$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 77-79
+001674279 OWN   L $$aCAT_FOTO
+001674279 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1722
+001674279 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1723
+001674279 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674279 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674304 FMT   L BK
+001674304 LDR   L 00000naa^a22^^^^^^a^4500
+001674304 001   L 001674304
+001674304 005   L 20260909191407.0
+001674304 007   L ta
+001674304 008   L 260909s1992^^^^ag^o^^^grb^^^^000^0^spa^^
+001674304 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674304 1001  L $$aParacampo Filho, Luiz Antonio$$eautor$$4aut
+001674304 24510 L $$aDaguerrotipos de ayer y hoy /$$cLuiz Antonio Paracampo Filho, Axel Alexander.
+001674304 650 4 L $$aDaguerrotipo$$xHistoria
+001674304 7001  L $$aAlexander, Axel,$$d1970-$$eautor$$4aut
+001674304 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 131-133$$w(AR-BaBN)001314540
+001674304 LKR   L $$aDN$$b001314540$$lBNA01$$mDaguerrotipos de ayer y hoy / Luiz Antonio Paracampo Filho, Axel Alexander$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 131-133
+001674304 OWN   L $$aCAT_FOTO
+001674304 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1914
+001674302 FMT   L BK
+001674302 LDR   L 00000naa^a22^^^^^^a^4500
+001674302 001   L 001674302
+001674302 005   L 20260909190826.0
+001674302 007   L ta
+001674302 008   L 260909s1992^^^^ag^^^^^grb^^^^000^0^spa^^
+001674302 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674302 043   L $$as-ag---
+001674302 1001  L $$aParola, Publio G.$$eautor$$4aut
+001674302 24513 L $$aLa fotografía y el periodismo argentino a principios de siglo /$$cPublio G. Parola.
+001674302 504   L $$aBibliografía: p. 130.
+001674302 650 4 L $$aPeriodismo gráfico$$zArgentina$$xHistoria
+001674302 650 4 L $$aFotografía periodística$$zArgentina$$xHistoria
+001674302 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 127-130$$w(AR-BaBN)001314540
+001674302 LKR   L $$aDN$$b001314540$$lBNA01$$mLa fotografía y el periodismo argentino a principios de siglo / Publio G. Parola$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 127-130
+001674302 OWN   L $$aCAT_FOTO
+001674302 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1908
+001674281 FMT   L BK
+001674281 LDR   L 00000naa^a22^^^^^^a^4500
+001674281 001   L 001674281
+001674281 005   L 20260911190422.0
+001674281 007   L ta
+001674281 008   L 260909s1992^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674281 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674281 043   L $$as-ag---
+001674281 1001  L $$aPérez Bayo, Antonia$$eautora$$4aut
+001674281 24510 L $$aSan Juan en imágenes /$$cAntonia Pérez Bayo.
+001674281 650 4 L $$aÁlbumes de fotografías$$zSan Juan (Provincia)
+001674281 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 81-83$$w(AR-BaBN)001314540
+001674281 LKR   L $$aDN$$b001314540$$lBNA01$$mSan Juan en imágenes / Antonia Pérez Bayo$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 81-83
+001674281 OWN   L $$aCAT_FOTO
+001674281 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1753
+001674281 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1754
+001674281 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1904
+001674278 FMT   L BK
+001674278 LDR   L 00000naa^a22^^^^^^a^4500
+001674278 001   L 001674278
+001674278 005   L 20260911165741.0
+001674278 007   L ta
+001674278 008   L 260909s1992^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674278 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674278 1001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+001674278 24510 L $$aInvestigar y conservar /$$cLuis Priamo.
+001674278 650 4 L $$aColecciones de fotografías$$xConservación y restauración
+001674278 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 73-75$$w(AR-BaBN)001314540
+001674278 LKR   L $$aDN$$b001314540$$lBNA01$$mInvestigar y conservar / Luis Priamo$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 73-75
+001674278 OWN   L $$aCAT_FOTO
+001674278 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1707
+001674278 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1657
+001674300 FMT   L BK
+001674300 LDR   L 00000naa^a22^^^^^^a^4500
+001674300 001   L 001674300
+001674300 005   L 20260911190921.0
+001674300 007   L ta
+001674300 008   L 260909s1992^^^^ag^^^^^grb^^^^000^0^spa^^
+001674300 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674300 1001  L $$aPujol, Marcelo J.$$eautor$$4aut
+001674300 24510 L $$aDr. Juan Pujol y Grau, 1849-1917 :$$bsu contribución al espíritu de la época /$$cMarcelo J. Pujol.
+001674300 504   L $$aBibliografía: p. 121.
+001674300 60014 L $$aPujol y Grau, Juan,$$d1849-1917
+001674300 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 119-121$$w(AR-BaBN)001314540
+001674300 LKR   L $$aDN$$b001314540$$lBNA01$$mDr. Juan Pujol y Grau, 1849-1917 : su contribución al espíritu de la época / Marcelo J. Pujol$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 119-121
+001674300 OWN   L $$aCAT_FOTO
+001674300 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1901
+001674300 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1909
+001674301 FMT   L BK
+001674301 LDR   L 00000naa^a22^^^^^^a^4500
+001674301 001   L 001674301
+001674301 005   L 20260909190417.0
+001674301 007   L ta
+001674301 008   L 260909s1992^^^^ag^^^^^grb^^^^000^0^spa^^
+001674301 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674301 043   L $$as-ag---
+001674301 1001  L $$aRaggi, Carlos$$eautor$$4aut
+001674301 24510 L $$aFotógrafos que registraron el fin del siglo XIX y principios del siglo XX en Rosario /$$cCarlos Raggi.
+001674301 504   L $$aBibliografía: p. 125.
+001674301 650 4 L $$aFotógrafos argentinos$$zRosario (Santa Fe)$$xHistoria
+001674301 7731  L $$aCongreso de Historia de la Fotografía (1o : 1992 mayo 23-24 : Florida, Buenos Aires)$$t1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina$$gp. 123-125$$w(AR-BaBN)001314540
+001674301 LKR   L $$aDN$$b001314540$$lBNA01$$mFotógrafos que registraron el fin del siglo XIX y principios del siglo XX en Rosario / Carlos Raggi$$n1º Congreso de Historia de la Fotografía : 23-24 de mayo de 1992, Florida, Pdo. de Vicente López, Argentina, p. 123-125
+001674301 OWN   L $$aCAT_FOTO
+001674301 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1904
+001674301 CAT   L $$aFORTIZ$$b20$$c20260909$$lBNA01$$h1904
+001674589 FMT   L BK
+001674589 LDR   L 00000naa^a22^^^^^^a^4500
+001674589 001   L 001674589
+001674589 005   L 20260911185549.0
+001674589 007   L ta
+001674589 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674589 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674589 043   L $$as-ag---
+001674589 1001  L $$aAlbornoz, C. Darío$$eautor$$4aut
+001674589 24513 L $$aLa fotografía y la arqueología. Aportes de la antropología, 1890-1907 /$$cC. Darío Albornoz.
+001674589 504   L $$aBibliografía: p. 181.
+001674589 5050  L $$aIntroducción -- Marco histórico -- Los hombres -- Fotografía y ciencia -- El valor documental de la fotografía arqueológica de principios de siglo.
+001674589 650 4 L $$aArqueología$$zArgentina$$xHistoria
+001674589 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 177-181$$w(AR-BaBN)000363856
+001674589 LKR   L $$aDN$$b000363856$$lBNA01$$mLa fotografía y la arqueología. Aportes de la antropología, 1890-1907 / C. Darío Albornoz$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 177-181
+001674589 OWN   L $$aCAT_FOTO
+001674589 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1822
+001674589 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1822
+001674589 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1855
+001674450 FMT   L BK
+001674450 LDR   L 00000naa^a22^^^^^^a^4500
+001674450 001   L 001674450
+001674450 005   L 20260911185258.0
+001674450 007   L ta
+001674450 008   L 260910s1994^^^^ag^ao^^grb^^^^000^0^spa^^
+001674450 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674450 043   L $$as-ag---
+001674450 1001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
+001674450 24513 L $$aEl gran fotógrafo Christiano Junior en Mendoza /$$cAbel Alexander.
+001674450 504   L $$aBibliografía: p. 48.
+001674450 5050  L $$aUn portugués en Mendoza -- La cámara viajera -- Un genio de la publicidad -- Retratista de la sociedad mendocina.
+001674450 60004 L $$aChristiano Junior,$$d1832-1902
+001674450 650 4 L $$aFotografía$$zMendoza (Provincia)$$xHistoria$$ySiglo XIX
+001674450 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 41-48$$w(AR-BaBN)000363856
+001674450 LKR   L $$aDN$$b000363856$$lBNA01$$mEl gran fotógrafo Christiano Junior en Mendoza / Abel Alexander$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 41-48
+001674450 OWN   L $$aCAT_FOTO
+001674450 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1741
+001674450 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1852
+001674581 FMT   L BK
+001674581 LDR   L 00000naa^a22^^^^^^a^4500
+001674581 001   L 001674581
+001674581 005   L 20260911173722.0
+001674581 007   L ta
+001674581 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674581 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674581 043   L $$as-ag---
+001674581 1001  L $$aArean, Olga$$eautora$$4aut
+001674581 24510 L $$aBerazategui :$$bun pasado que revive /$$cpor Olga Arean y María Inés Criado.
+001674581 504   L $$aBibliografía: p. 144.
+001674581 5050  L $$aA modo de presentación -- Objetivos de esta presentación -- Las verdaderas protagonistas -- Conclusiones.
+001674581 650 4 L $$aFotografía$$xFilosofía
+001674581 651 4 L $$aBerazategui$$xHistoria
+001674581 7001  L $$aCriado, María Inés$$eautora$$4aut
+001674581 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 141-144$$w(AR-BaBN)000363856
+001674581 LKR   L $$aDN$$b000363856$$lBNA01$$mBerazategui : un pasado que revive / por Olga Arean y María Inés Criado$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 141-144
+001674581 OWN   L $$aCAT_FOTO
+001674581 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1737
+001674580 FMT   L BK
+001674580 LDR   L 00000naa^a22^^^^^^a^4500
+001674580 001   L 001674580
+001674580 005   L 20260911173243.0
+001674580 007   L ta
+001674580 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674580 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674580 043   L $$acl-----$$ae-sp---
+001674580 1001  L $$aBaldani Cámara, María Ana$$eautora$$4aut
+001674580 24510 L $$aImagen de Latinoamérica en la visión de Rafael Castro y Ordóñez :$$bComisión Científica del Pacífico, 1862-1866 /$$cMaría Ana Baldani Cámara.
+001674580 504   L $$aBibliografía: p. 140.
+001674580 60014 L $$aCastro Ordóñez, Rafael,$$d1830 o 1834-1865
+001674580 61024 L $$aComisión científica del Pacífico (1862-1866)
+001674580 650 4 L $$aExpediciones científicas$$zAmérica Latina
+001674580 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 135-140$$w(AR-BaBN)000363856
+001674580 LKR   L $$aDN$$b000363856$$lBNA01$$mImagen de Latinoamérica en la visión de Rafael Castro y Ordóñez : Comisión Científica del Pacífico, 1862-1866 / María Ana Baldani Cámara$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 135-140
+001674580 OWN   L $$aCAT_FOTO
+001674580 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1732
+001674465 FMT   L BK
+001674465 LDR   L 00000naa^a22^^^^^^a^4500
+001674465 001   L 001674465
+001674465 005   L 20260911185615.0
+001674465 007   L ta
+001674465 008   L 260910s1994^^^^ag^ao^^grb^^^^000^0^spa^^
+001674465 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674465 043   L $$as-ag---
+001674465 1001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
+001674465 24513 L $$aLa fotografía en un pueblo :$$bAmérica, Provincia de Buenos Aires /$$cCarlos Barrios Barón.
+001674465 504   L $$aBibliografía: p. 81.
+001674465 5050  L $$aAntecedentes -- Fotógrafos de otros partidos -- Fotógrafos de América -- Alberto Rombolotti. Primer fotógrafo de América -- J. Cortés. Su "Fotografía Eléctrica" -- Ricardo Cueto (1885-1964). Y su dinastía -- Almidevar Martínez. Su hipotética biografía -- Leopoldo Pérez (1887-1974). El "doctor" entre sus pares -- Hugo E. Johansen. "El iluminador" -- Bazares, jugueterías, librerías y... fotografías -- Los hermanos José y Rodolfo Cavazzoli -- Héctor Sarmiento. El funcionario -- Amílcar José Cortesi -- Fotógrafos en otros pueblos del partido de Rivadavia -- Epílogo.
+001674465 650 4 L $$aFotógrafos argentinos$$zBuenos Aires (Provincia)$$zRivadavia [Buenos Aires (Provincia)]$$xHistoria$$ySiglo XIX
+001674465 651 4 L $$aAmérica [Rivadavia, Buenos Aires (Provincia)]$$xHistoria$$ySiglo XIX
+001674465 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 75-81$$w(AR-BaBN)000363856
+001674465 LKR   L $$aDN$$b000363856$$lBNA01$$mLa fotografía en un pueblo : América, Provincia de Buenos Aires / Carlos Barrios Barón.$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 75-81
+001674465 OWN   L $$aCAT_FOTO
+001674465 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1852
+001674465 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1853
+001674465 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1854
+001674465 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1855
+001674465 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1856
+001674593 FMT   L BK
+001674593 LDR   L 00000naa^a22^^^^^^a^4500
+001674593 001   L 001674593
+001674593 005   L 20260911190032.0
+001674593 007   L ta
+001674593 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674593 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674593 1001  L $$aBarrios Medina, Ariel,$$d1948-$$eautor$$4aut
+001674593 24513 L $$aLa historia de la ciencia y el argumento fotográfico /$$cpor Ariel Barrios Medina.
+001674593 504   L $$aBibliografía: p. 187.
+001674593 650 4 L $$aFotografía científica
+001674593 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 185-187$$w(AR-BaBN)000363856
+001674593 LKR   L $$aDN$$b000363856$$lBNA01$$mLa historia de la ciencia y el argumento fotográfico / por Ariel Barrios Medina$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 185-187
+001674593 OWN   L $$aCAT_FOTO
+001674593 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1831
+001674593 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1900
+001674464 FMT   L BK
+001674464 LDR   L 00000naa^a22^^^^^^a^4500
+001674464 001   L 001674464
+001674464 005   L 20260911190035.0
+001674464 007   L ta
+001674464 008   L 260910s1994^^^^ag^a^^^grb^^^^000^0^spa^^
+001674464 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674464 1001  L $$aBlidner, Eduardo,$$d1959-2015$$eautor$$4aut
+001674464 24510 L $$aPrimer Salón Internacional de Arte Fotográfico de Buenos Aires, 1930 /$$cpor Eduardo Blidner.
+001674464 504   L $$aBibliografía: p. 73.
+001674464 61124 L $$aSalón Internacional de Arte Fotográfico$$n(1º :$$d1930 :$$cBuenos Aires)
+001674464 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 69-73$$w(AR-BaBN)000363856
+001674464 LKR   L $$aDN$$b000363856$$lBNA01$$mPrimer Salón Internacional de Arte Fotográfico de Buenos Aires, 1930 / por Eduardo Blidner$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 69-73
+001674464 OWN   L $$aCAT_FOTO
+001674464 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1843
+001674464 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1844
+001674464 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1900
+001674584 FMT   L BK
+001674584 LDR   L 00000naa^a22^^^^^^a^4500
+001674584 001   L 001674584
+001674584 005   L 20260911175027.0
+001674584 007   L ta
+001674584 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674584 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674584 043   L $$as-ag---
+001674584 1001  L $$aCáceres Freyre, Julián,$$d1916-1999$$eautor$$4aut
+001674584 24510 L $$aLibros argentinos de arqueología con ilustraciones fotográficas /$$cJulián Cáceres Freyre.
+001674584 504   L $$aBibliografía: p. 157.
+001674584 5050  L $$aIntroducción -- El álbum de Liberani y Hernández -- Florentino Ameghino, noticias sobre antigüedades indias en la Banda Oriental -- Catálogo de la colección Zavaleta.
+001674584 650 4 L $$aArqueología$$zArgentina$$xHistoria
+001674584 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 155-157$$w(AR-BaBN)000363856
+001674584 LKR   L $$aDN$$b000363856$$lBNA01$$mLibros argentinos de arqueología con ilustraciones fotográficas / Julián Cáceres Freyre$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 155-157
+001674584 OWN   L $$aCAT_FOTO
+001674584 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1750
+000363856 FMT   L BK
+000363856 LDR   L 00000aam^a22^^^^^^a^4500
+000363856 001   L 000363856
+000363856 003   L AR-BaBN
+000363856 005   L 20260916183946.0
+000363856 007   L ta
+000363856 008   L 140807s1994^^^^ag^co^^fr^^^^^101^0^spa^^
+000363856 015   L $$aAR-1994
+000363856 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+000363856 043   L $$as-ag---
+000363856 044   L $$aag$$car-c
+000363856 0801  L $$a77(091)(062.537)$$22016
+000363856 1112  L $$aCongreso de Historia de la Fotografía$$n(2o :$$d1993 jul. 9-11 :$$cFlorida, Buenos Aires)$$jorganizador$$4orm
+000363856 24510 L $$aIIº Congreso de Historia de la Fotografía :$$ben adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina /$$corganizado por el Comité Ejecutivo permanente de Congresos de Historia de la Fotografía.
+000363856 2463  L $$aSegundo Congreso de Historia de la Fotografía
+000363856 260   L $$aBuenos Aires :$$bFederación Argentina de Fotografía,$$c1994.
+000363856 300   L $$a192 p. :$$bfot. byn, retrs. ;$$c29 cm.
+000363856 504   L $$aIncluye referencias bibliográficas al final de cada capítulo.
+000363856 650 4 L $$aFotografía$$zArgentina$$xHistoria$$vDocumentos de congresos, conferencias, etc.
+000363856 655 4 L $$aDocumentos de congresos, conferencias, etc.
+000363856 7001  L $$aLuna, Félix,$$d1925-2009$$eprologuista$$4aui
+000363856 7001  L $$aAlbornoz, C. Dario$$eautor$$4aut
+000363856 7001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
+000363856 7001  L $$aArean, Olga$$eautora$$4aut
+000363856 7001  L $$aBaldani Cámara, María Ana$$eautora$$4aut
+000363856 7001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
+000363856 7001  L $$aBarrios Medina, Ariel,$$d1948-$$eautor$$4aut
+000363856 7001  L $$aBlidner, Eduardo,$$d1959-2015$$eautor$$4aut
+000363856 7001  L $$aCriado, María Inés$$eautora$$4aut
+000363856 7001  L $$aCuarterolo, Miguel Angel,$$d1950-2002$$eautor$$4aut
+000363856 7001  L $$aCuffia, Eduardo S.$$eautor$$4aut
+000363856 7001  L $$aCáceres Freyre, Julián,$$d1916-1999$$eautor$$4aut
+000363856 7001  L $$aD'Alessandro de Brandi, Hilda,$$d1937-$$eautora$$4aut
+000363856 7001  L $$aDaró, Delmo Francisco Miguel,$$d1924-2013$$eautor$$4aut
+000363856 7001  L $$aDelgado, Carmen$$eautora$$4aut
+000363856 7001  L $$aDodd, Stella Maris$$eautora$$4aut
+000363856 7001  L $$aDorronsoro, Josune,$$d1946-1995$$eautor$$4aut
+000363856 7001  L $$aEpifanio, Haydeé$$eautora$$4aut
+000363856 7001  L $$aFaure, Patricia$$eautora$$4aut
+000363856 7001  L $$aFavier Dubois, Cristian M.,$$d1965-$$eautor$$4aut
+000363856 7001  L $$aFerrari, Roberto A.$$eautor$$4aut
+000363856 7001  L $$aGesualdo, Vicente,$$d1922-1999$$eautor$$4aut
+000363856 7001  L $$aGrasso, Pablo$$eautor$$4aut
+000363856 7001  L $$aGómez, Juan,$$d1932-2018$$eautor$$4aut
+000363856 7001  L $$aIaconis, Héctor José$$eautor$$4aut
+000363856 7001  L $$aKailbourn, Thomas, R.$$eautor$$4aut
+000363856 7001  L $$aKirbus, Federico B.,$$d1931-2015$$eautor$$4aut
+000363856 7001  L $$aLarrandart de Lux-Wurm, Mirta S.$$eautora$$4aut
+000363856 7001  L $$aLugo, Sergio$$eautor$$4aut
+000363856 7001  L $$aLuqui-Lagleyze, Julio Angel,$$d1922-1994$$eautor$$4aut
+000363856 7001  L $$aLuqui-Lagleyze, Julio Mario,$$d1959-$$eautor$$4aut
+000363856 7001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+000363856 7001  L $$aMerlo, Marcelo$$eautor$$4aut
+000363856 7001  L $$aMirabelli, Cristina$$eautora$$4aut
+000363856 7001  L $$aMiranda, Ana María$$eautora$$4aut
+000363856 7001  L $$aMüller, Roberto D.,$$d1945-$$eautor$$4aut
+000363856 7001  L $$aParacampo Filho, Luiz Antonio$$eautor$$4aut
+000363856 7001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+000363856 7001  L $$aRaggi, Carlos$$eautor$$4aut
+000363856 7001  L $$aRiobó, Julio B.$$eautor$$4aut
+000363856 7001  L $$aRogers, Enrique$$eautor$$4aut
+000363856 7001  L $$aTroya, Liliana$$eautora$$4aut
+000363856 7001  L $$aVarese, Juan Antonio,$$d1942-$$eautor$$4aut
+000363856 OWN   L $$aCAT_FOTO
+000363856 CAT   L $$aGSL$$b00$$c20110915$$lBNA01$$h1952
+000363856 CAT   L $$aGSL$$b$$c20130614$$lBNA01$$h1543
+000363856 CAT   L $$aCATAU$$b20$$c20140515$$lBNA01$$h0916
+000363856 CAT   L $$aCATAU$$b20$$c20140515$$lBNA01$$h0916
+000363856 CAT   L $$aCATAU$$b20$$c20140515$$lBNA01$$h0924
+000363856 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1620
+000363856 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1624
+000363856 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1839
+000363856 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1840
+000363856 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1839
+000363856 Z30-1 L $$lBNA01$$LBNA01$$mLIBRO$$1FOTO$$AFototeca$$2LIBRO$$BColección Libros$$3FOES061334$$600844216$$500844216$$4Abel Alexander, 20080513$$7B$$820110912$$f15$$FPréstamo común en sala$$s02$$n033$$q000010$$o000363856
+001674443 FMT   L BK
+001674443 LDR   L 00000naa^a22^^^^^^a^4500
+001674443 001   L 001674443
+001674443 005   L 20260910171020.0
+001674443 007   L ta
+001674443 008   L 260910s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674443 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674443 043   L $$acl-----$$an------
+001674443 1001  L $$aCuarterolo, Miguel Angel,$$d1950-2002$$eautor$$4aut
+001674443 24510 L $$aCharles DeForest Fredricks, una aventura americana /$$cMiguel A. Cuarterolo.
+001674443 504   L $$aBibliografía: p. 27.
+001674443 5050  L $$aVenezuela -- En el Río de la Plata -- Brasil -- Buenos Aires -- En Nueva York -- Cuba.
+001674443 60014 L $$aFredricks, Charles DeForest,$$d1823-1894
+001674443 650 4 L $$aDaguerrotipo$$zAmérica$$xHistoria
+001674443 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 23-27$$w(AR-BaBN)000363856
+001674443 LKR   L $$aDN$$b000363856$$lBNA01$$mCharles DeForest Fredricks, una aventura americana / Miguel A. Cuarterolo$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 23-27
+001674443 OWN   L $$aCAT_FOTO
+001674443 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1709
+001674443 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1710
+001674562 FMT   L BK
+001674562 LDR   L 00000naa^a22^^^^^^a^4500
+001674562 001   L 001674562
+001674562 005   L 20260911184757.0
+001674562 007   L ta
+001674562 008   L 260911s1994^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674562 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674562 043   L $$as-ag---
+001674562 1001  L $$aCuffia, Eduardo S.$$eautor$$4aut
+001674562 24510 L $$aArmstrong y sus fotógrafos, 1884-1939 /$$cEduardo S. Cuffia, Delmo F. M. Daró.
+001674562 5050  L $$aRosa Mauri (1843-????) -- Federico Neuhaus (1869-1922) -- Andrés Monserrat (1890-1968) -- Casim Gader (1898-1956) -- Amador Alarcón (1893-1931) -- Antonio Vadell (1871-1950) -- Jorge Santi (1884-1941) -- Colofón.
+001674562 650 4 L $$aFotografía$$zSanta Fe (Provincia)$$zArmstrong$$xHistoria
+001674562 650 4 L $$aFotógrafos argentinos$$xHistoria
+001674562 7001  L $$aDaró, Delmo Francisco Miguel,$$d1924-2013$$eautor$$4aut
+001674562 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 91-96$$w(AR-BaBN)000363856
+001674562 LKR   L $$aDN$$b000363856$$lBNA01$$mArmstrong y sus fotógrafos, 1884-1939 / Eduardo S. Cuffia, Delmo F. M. Daró$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 91-96
+001674562 OWN   L $$aCAT_FOTO
+001674562 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1556
+001674562 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1557
+001674562 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1847
+001674569 FMT   L BK
+001674569 LDR   L 00000naa^a22^^^^^^a^4500
+001674569 001   L 001674569
+001674569 005   L 20260917154616.0
+001674569 007   L ta
+001674569 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674569 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674569 043   L $$as-ag---
+001674569 1001  L $$aD'Alessandro de Brandi, Hilda,$$d1937-$$eautora$$4aut
+001674569 24510 L $$aApuntes para la historia de Justa Lapalma y su hijo Victorino /$$cHilda D'Alessandro de Brandi.
+001674569 504   L $$aBibliografía: p. 105.
+001674569 60014 L $$aLapalma, Justa
+001674569 60014 L $$aAlday, Victorino,$$d1840-1923
+001674569 651 4 L $$aArgentina$$xHistoria$$ySiglo XIX
+001674569 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 103-105$$w(AR-BaBN)000363856
+001674569 LKR   L $$aDN$$b000363856$$lBNA01$$mApuntes para la historia de Justa Lapalma y su hijo Victorino / Hilda D'Alessandro de Brandi$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 103-105
+001674569 OWN   L $$aCAT_FOTO
+001674569 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1625
+001674569 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1625
+001674569 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1840
+001674569 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674574 FMT   L BK
+001674574 LDR   L 00000naa^a22^^^^^^a^4500
+001674574 001   L 001674574
+001674574 005   L 20260911190118.0
+001674574 007   L ta
+001674574 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674574 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674574 043   L $$as-ag---$$ae-uk-wl
+001674574 1001  L $$aDodd, Stella Maris$$eautora$$4aut
+001674574 24513 L $$aEl valle que floreció en el desierto /$$cStella Maris Dodd.
+001674574 504   L $$aBibliografía: p. 116.
+001674574 650 4 L $$aInmigrantes galeses$$zChubut (Provincia)$$xHistoria
+001674574 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 113-116$$w(AR-BaBN)000363856
+001674574 LKR   L $$aDN$$b000363856$$lBNA01$$mEl valle que floreció en el desierto / Stella Maris Dodd$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 113-116
+001674574 OWN   L $$aCAT_FOTO
+001674574 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1651
+001674574 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1850
+001674574 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1901
+001674576 FMT   L BK
+001674576 LDR   L 00000naa^a22^^^^^^a^4500
+001674576 001   L 001674576
+001674576 005   L 20260911185733.0
+001674576 007   L ta
+001674576 008   L 260911s1994^^^^ag^^^^^grb^^^^000^0^spa^^
+001674576 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674576 1001  L $$aDorronsoro, Josune,$$d1946-1995$$eautora$$4aut
+001674576 24510 L $$aApuntes sobre el coleccionismo fotográfico /$$cpor Josune Dorronsoro.
+001674576 504   L $$aBibliografía: p. 122.
+001674576 5050  L $$aCrónica familiar -- Coleccionismo informal. La fotografía en el objeto -- La postal y el álbum como historia del deseo -- El coleccionismo.
+001674576 650 4 L $$aColeccionistas y colecciones
+001674576 650 4 L $$aColecciones de fotografías
+001674576 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 119-122$$w(AR-BaBN)000363856
+001674576 LKR   L $$aDN$$b000363856$$lBNA01$$mApuntes sobre el coleccionismo fotográfico / por Josune Dorronsoro$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 119-122
+001674576 OWN   L $$aCAT_FOTO
+001674576 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1658
+001674576 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1857
+001674445 FMT   L BK
+001674445 LDR   L 00000naa^a22^^^^^^a^4500
+001674445 001   L 001674445
+001674445 005   L 20260917154627.0
+001674445 007   L ta
+001674445 008   L 260910s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674445 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674445 043   L $$as-ag---
+001674445 1001  L $$aEpifanio, Haydée$$eautora$$4aut
+001674445 24514 L $$aLos retratos al daguerrotipo en el Buenos Aires de 1854 a través de un censo poco conocido /$$cHaydée Epifanio y Eduardo Luis Marcet.
+001674445 500   L $$aIncluye listado de fotógrafos y direcciones.
+001674445 504   L $$aBibliografía: p. 32.
+001674445 5050  L $$aIntroducción -- El censo de 1854 en la Ciudad de Buenos Aires -- Retratistas al daguerrotipo -- Ubicación de los retratistas y litógrafos -- Conclusiones.
+001674445 650 4 L $$aFotógrafos argentinos$$xHistoria$$ySiglo XIX
+001674445 7001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001674445 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 29-32$$w(AR-BaBN)000363856
+001674445 LKR   L $$aDN$$b000363856$$lBNA01$$mLos retratos al daguerrotipo en el Buenos Aires de 1854 a través de un censo poco conocido / Haydeé Epifanio y Eduardo Luis Marcet$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 29-32
+001674445 OWN   L $$aCAT_FOTO
+001674445 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1717
+001674445 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1722
+001674445 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1849
+001674445 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674557 FMT   L BK
+001674557 LDR   L 00000naa^a22^^^^^^a^4500
+001674557 001   L 001674557
+001674557 005   L 20260911184937.0
+001674557 007   L ta
+001674557 008   L 260911s1994^^^^ag^^^^^grb^^^^000^0^spa^^
+001674557 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674557 1001  L $$aFaure, Patricia$$eautora$$4aut
+001674557 24510 L $$aLeopoldo Mannucci :$$bun fotógrafo de pueblos /$$cPatricia Faure.
+001674557 504   L $$aBibliografía: p. 90.
+001674557 5050  L $$aNace la vocación en Florencia, Italia -- Mannucci en Argentina. En la Ciudad de Buenos Aires -- En Pergamino, provincia de Buenos Aires -- En San Cristóbal, Provincia de Santa Fe -- En Monte Grande, provincia de Buenos Aires -- Reflexión final.
+001674557 60014 L $$aMannucci, Leopoldo,$$d1873-1959
+001674557 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 87-90$$w(AR-BaBN)000363856
+001674557 LKR   L $$aDN$$b000363856$$lBNA01$$mLeopoldo Mannucci : un fotógrafo de pueblos / Patricia Faure$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 87-90
+001674557 OWN   L $$aCAT_FOTO
+001674557 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1546
+001674557 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1849
+001674591 FMT   L BK
+001674591 LDR   L 00000naa^a22^^^^^^a^4500
+001674591 001   L 001674591
+001674591 005   L 20260917154658.0
+001674591 007   L ta
+001674591 008   L 260911s1994^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674591 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674591 043   L $$as-ag---
+001674591 1001  L $$aFavier Dubois, Cristian M.,$$d1965-$$eautor$$4aut
+001674591 24510 L $$aFotos antiguas y arqueología :$$bun archivo de la Sociedad Fotográfica Argentina de Aficionados que se libra del polvo /$$cCristian M. Favier Dubois.
+001674591 5050  L $$aIntroducción -- Una pequeña historia -- La colección -- Comentario final -- Agradecimientos.
+001674591 61024 L $$aSociedad Fotográfica Argentina de Aficionados
+001674591 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 183-184$$w(AR-BaBN)000363856
+001674591 LKR   L $$aDN$$b000363856$$lBNA01$$mFotos antiguas y arqueología : un archivo de la Sociedad Fotográfica Argentina de Aficionados que se libra del polvo / Cristian M. Favier Dubois$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 183-184
+001674591 OWN   L $$aCAT_FOTO
+001674591 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1827
+001674591 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674585 FMT   L BK
+001674585 LDR   L 00000naa^a22^^^^^^a^4500
+001674585 001   L 001674585
+001674585 005   L 20260911184948.0
+001674585 007   L ta
+001674585 008   L 260911s1994^^^^ag^^^^^grb^^^^000^0^spa^^
+001674585 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674585 043   L $$as-ag---
+001674585 1001  L $$aFerrari, Roberto A.$$eautor$$4aut
+001674585 24514 L $$aLos inicios de la fotografía científica y técnica en la Argentina, 1864-1900 /$$cRoberto A. Ferrari.
+001674585 504   L $$aBibliografía: p. 163.
+001674585 5050  L $$aAstronomía -- Antropología, arqueología y viajes de exploración -- Medicina -- Microfotografía -- Ingeniería y Obras Públicas -- Topografía -- Química -- Radiología.
+001674585 650 4 L $$aFotografía científica$$zArgentina$$xHistoria
+001674585 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 159-163$$w(AR-BaBN)000363856
+001674585 LKR   L $$aDN$$b000363856$$lBNA01$$mLos inicios de la fotografía científica y técnica en la Argentina, 1864-1900 / Roberto A. Ferrari$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 159-163
+001674585 OWN   L $$aCAT_FOTO
+001674585 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1756
+001674585 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1849
+001674439 FMT   L BK
+001674439 LDR   L 00000naa^a22^^^^^^a^4500
+001674439 001   L 001674439
+001674439 005   L 20260917154649.0
+001674439 007   L ta
+001674439 008   L 260910s1994^^^^ag^a^^^grb^^^^000^0^spa^^
+001674439 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674439 043   L $$as-ag---$$ae-uk-en
+001674439 1001  L $$aGesualdo, Vicente,$$d1922-1999$$eautor$$4aut
+001674439 24510 L $$aRobert Leys, un fotógrafo olvidado, en 1843 anunció en el Río de la Plata "retratos fotográficos" /$$cpor Vicente Gesualdo.
+001674439 60014 L $$aLeys, Robert,$$d1816-1877
+001674439 650 4 L $$aInmigrantes ingleses$$zArgentina
+001674439 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 15-17$$w(AR-BaBN)000363856
+001674439 LKR   L $$aDN$$b000363856$$lBNA01$$mRobert Leys, un fotógrafo olvidado, en 1843 anunció en el Río de la Plata "retratos fotográficos" / por Vicente Gesualdo.$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 15-17
+001674439 OWN   L $$aCAT_FOTO
+001674439 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1655
+001674439 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1840
+001674439 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1900
+001674439 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674452 FMT   L BK
+001674452 LDR   L 00000naa^a22^^^^^^a^4500
+001674452 001   L 001674452
+001674452 005   L 20260910175301.0
+001674452 007   L ta
+001674452 008   L 260910s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674452 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674452 1001  L $$aGómez, Juan,$$d1932-2018$$eautor$$4aut
+001674452 24510 L $$aBartolomé Loudet, 1823-1887 :$$bun notable aporte francés a la fotografía argentina /$$cJuan Gómez.
+001674452 504   L $$aBibliografía: p. 54.
+001674452 5050  L $$aLa actividad fotográfica de Bartolomé Loudet en Buenos Aires -- El afianzamiento de una trayectoria.
+001674452 60014 L $$aLoudet, Bartolomé,$$d1823-1887
+001674452 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 49-54$$w(AR-BaBN)000363856
+001674452 LKR   L $$aDN$$b000363856$$lBNA01$$mBartolomé Loudet, 1823-1887 : un notable aporte francés a la fotografía argentina / Juan Gómez$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 49-54
+001674452 OWN   L $$aCAT_FOTO
+001674452 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1753
+001674566 FMT   L BK
+001674566 LDR   L 00000naa^a22^^^^^^a^4500
+001674566 001   L 001674566
+001674566 005   L 20260911185001.0
+001674566 007   L ta
+001674566 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674566 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674566 043   L $$as-ag---
+001674566 1001  L $$aIaconis, Héctor José$$eautor$$4aut
+001674566 24514 L $$aLos Adobato y la fotografía /$$cHéctor Iaconis.
+001674566 504   L $$aBibliografía: p. 101.
+001674566 5050  L $$aIntroducción -- Origen familiar y llegada a Nueve de Julio -- La llegada a Nueve de Julio -- Breve biografía del fundador -- Primeros años de Fotografía "Adobato" -- Biografía de Emilio Adobato -- Un álbum para la historia.
+001674566 60034 L $$aAdobato (Familia)
+001674566 60014 L $$aAdobato, Emilio,$$d1892-1948
+001674566 651 4 L $$a9 de Julio [Buenos Aires (Provincia)]$$xHistoria
+001674566 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 99-101$$w(AR-BaBN)000363856
+001674566 LKR   L $$aDN$$b000363856$$lBNA01$$mLos Adobato y la fotografía / Héctor Iaconis$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 99-101
+001674566 OWN   L $$aCAT_FOTO
+001674566 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1617
+001674566 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1618
+001674566 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1850
+001674442 FMT   L BK
+001674442 LDR   L 00000naa^a22^^^^^^a^4500
+001674442 001   L 001674442
+001674442 005   L 20260917154703.0
+001674442 007   L ta
+001674442 008   L 260910s1994^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674442 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674442 1001  L $$aKailbourn, Thomas R.$$eautor$$4aut
+001674442 24510 L $$aGeorge Noessel :$$bun daguerrotipista alemán-estadounidense en Veracruz, México /$$cThomas R. Kailbourn.
+001674442 60014 L $$aNoessel, George,$$d1813-1870
+001674442 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 19-21$$w(AR-BaBN)000363856
+001674442 LKR   L $$aDN$$b000363856$$lBNA01$$mGeorge Noessel : un daguerrotipista alemán-estadounidense en Veracruz, México / Thomas R. Kailbourn$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 19-21
+001674442 OWN   L $$aCAT_FOTO
+001674442 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1704
+001674442 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1547
+001674586 FMT   L BK
+001674586 LDR   L 00000naa^a22^^^^^^a^4500
+001674586 001   L 001674586
+001674586 005   L 20260911180148.0
+001674586 007   L ta
+001674586 008   L 260911s1994^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674586 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674586 043   L $$acl-----
+001674586 1001  L $$aKirbus, Federico B.,$$d1931-2015$$eautor$$4aut
+001674586 24513 L $$aEl primer relevamiento fotográfico de la cordillera de los Andes /$$cpor Federico B. Kirbus.
+001674586 60014 L $$aGüssfeldt, Paul,$$d1840-1920
+001674586 651 4 L $$aCordillera de los Andes$$xDescubrimiento y exploraciones
+001674586 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 165-168$$w(AR-BaBN)000363856
+001674586 LKR   L $$aDN$$b000363856$$lBNA01$$mEl primer relevamiento fotográfico de la cordillera de los Andes / por Federico B. Kirbus$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 165-168
+001674586 OWN   L $$aCAT_FOTO
+001674586 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1801
+001674586 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1801
+001674578 FMT   L BK
+001674578 LDR   L 00000naa^a22^^^^^^a^4500
+001674578 001   L 001674578
+001674578 005   L 20260914194618.0
+001674578 007   L ta
+001674578 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674578 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674578 043   L $$as-uy---
+001674578 1001  L $$aLarrandart de Lux-Wurm, Mirta S.$$eautora$$4aut
+001674578 24513 L $$aEl álbum del bombardeo de Paysandú de la colección del Comodoro D. José Murature, 1864-1865 /$$cMirta S. Larrandart de Lux-Wurm, Julio M. Luqui Lagleyze.
+001674578 504   L $$aBibliografía: p. 134.
+001674578 5050  L $$aIntroducción -- Prólogo -- El comandante naval argentino don José Murature (1804-1880) -- El brigadier general D. Venancio Flores (1808-1868) -- El general defensor de Paysandú d. Leandro Gómez (1811-1865) -- Desarrollo del álbum del sitio de Paysandú -- Epílogo.
+001674578 650 4 L $$aDefensa de Paysandú, 1864-1865
+001674578 7001  L $$aLuqui-Lagleyze, Julio Mario,$$d1959-$$eautor$$4aut
+001674578 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 129-134$$w(AR-BaBN)000363856
+001674578 LKR   L $$aDN$$b000363856$$lBNA01$$mEl álbum del bombardeo de Paysandú de la colección del Comodoro D. José Murature, 1864-1865 / Mirta S. Larrandart de Lux-Wurm, Julio M. Luqui Lagleyze$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 129-134
+001674578 OWN   L $$aCAT_FOTO
+001674578 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1721
+001674578 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1721
+001674578 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1946
+001674582 FMT   L BK
+001674582 LDR   L 00000naa^a22^^^^^^a^4500
+001674582 001   L 001674582
+001674582 005   L 20260911174155.0
+001674582 007   L ta
+001674582 008   L 260911s1994^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674582 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674582 1001  L $$aLugo, Sergio$$eautor$$4aut
+001674582 24510 L $$aHomenaje al único y auténtico fotógrafo de la radiología /$$cSergio Lugo.
+001674582 60014 L $$aAbreu, Manuel de,$$d1892-1962
+001674582 650 4 L $$aRadiología
+001674582 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 147-148$$w(AR-BaBN)000363856
+001674582 LKR   L $$aDN$$b000363856$$lBNA01$$mHomenaje al único y auténtico fotógrafo de la radiología / Sergio Lugo$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 147-148
+001674582 OWN   L $$aCAT_FOTO
+001674582 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1741
+001674588 FMT   L BK
+001674588 LDR   L 00000naa^a22^^^^^^a^4500
+001674588 001   L 001674588
+001674588 005   L 20260911185028.0
+001674588 007   L ta
+001674588 008   L 260911s1994^^^^ag^^^^^grb^^^^000^0^spa^^
+001674588 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674588 043   L $$as-ag---
+001674588 1001  L $$aLuqui-Lagleyze, Julio Angel,$$d1922-1994$$eautor$$4aut
+001674588 24510 L $$aApuntes sobre aerofotografía en la Argentina /$$cpor Julio Angel Luqui-Lagleyze.
+001674588 500   L $$aFuentes consultadas: p. 176.
+001674588 5050  L $$aJean Francois Pilatre du Rozier -- Las litografías de Buenos Aires a vuelo de pájaro -- El primer vuelo de un argentino -- El Congreso de la Plaza de Mayo -- Cándido López -- El primer "nido de cóndores" en la pampa. Aeródromo de Villa Lugano -- Exposición ferroviaria -- Belgrano -- La Plaza de Mayo -- Plaza y Monumento a los Dos Congresos -- Recoleta, Balvanera y Palermo -- Aeródromo de San Isidro -- Núñez -- Aeródromo de San Fernando -- Aeródromo de Morón -- El Plus Ultra -- Plaza Colón y Casa de Gobierno -- Vista nocturna de Plaza de Mayo -- Mataderos -- Serie de Aeroposta en la Patagonia -- Pacheco -- Trelew -- San Julián -- Río Gallegos -- Relevamientos aéreos -- Buenos Aires a vuelo de pájaro -- Gunter Pluschow sobre la Tierra del Fuego.
+001674588 650 4 L $$aFotografía aérea$$zArgentina$$xHistoria
+001674588 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 173-176$$w(AR-BaBN)000363856
+001674588 LKR   L $$aDN$$b000363856$$lBNA01$$mApuntes sobre aerofotografía en la Argentina / por Julio Angel Luqui-Lagleyze$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 173-176
+001674588 OWN   L $$aCAT_FOTO
+001674588 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1818
+001674588 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1850
+001674583 FMT   L BK
+001674583 LDR   L 00000naa^a22^^^^^^a^4500
+001674583 001   L 001674583
+001674583 005   L 20260911174652.0
+001674583 007   L ta
+001674583 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674583 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674583 043   L $$as-ag---
+001674583 1001  L $$aLuqui-Lagleyze, Julio Mario,$$d1959-$$eautor$$4aut
+001674583 24510 L $$aUniformología y fotografía antigua :$$buna feliz alianza recíproca /$$cpor Julio M. Luqui-Lagleyze.
+001674583 504   L $$aBibliografía: p. 154.
+001674583 5050  L $$aIntroducción -- Breve historia de la fotografía militar -- La fotografía militar en la Argentina -- Uniformología y fotografía, sus relaciones recíprocas -- La reconstrucción de uniformes argentinos en base a fotografía.
+001674583 650 4 L $$aUniformes militares$$zArgentina$$xHistoria
+001674583 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 149-154$$w(AR-BaBN)000363856
+001674583 LKR   L $$aDN$$b000363856$$lBNA01$$mUniformología y fotografía antigua : una feliz alianza recíproca / por Julio M. Luqui-Lagleyze$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 149-154
+001674583 OWN   L $$aCAT_FOTO
+001674583 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1746
+001674447 FMT   L BK
+001674447 LDR   L 00000naa^a22^^^^^^a^4500
+001674447 001   L 001674447
+001674447 005   L 20260917154625.0
+001674447 007   L ta
+001674447 008   L 260910s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674447 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674447 043   L $$as-ag---
+001674447 1001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001674447 24514 L $$aLas primeras "vistas fotográficas" ferroviarias :$$bun misterio que empieza a revelarse /$$cEduardo L. Marcet y Haydée Epifanio.
+001674447 504   L $$aBibliografía: p. 36.
+001674447 5050  L $$aIntroducción -- Inauguración del Ferrocarril Oeste -- Las vistas fotográficas -- Las "tradiciones" de Pastor Servando Obligado -- Conclusiones.
+001674447 61024 L $$aFerrocarril al Oeste de Buenos Aires$$xHistoria
+001674447 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XIX
+001674447 7001  L $$aEpifanio, Haydée$$eautora$$4aut
+001674447 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 33-36$$w(AR-BaBN)000363856
+001674447 LKR   L $$aDN$$b000363856$$lBNA01$$mLas primeras "vistas fotográficas" ferroviarias : un misterio que empieza a revelarse / Eduardo L. Marcet y Haydée Epifanio$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 33-36
+001674447 OWN   L $$aCAT_FOTO
+001674447 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1729
+001674447 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674456 FMT   L BK
+001674456 LDR   L 00000naa^a22^^^^^^a^4500
+001674456 001   L 001674456
+001674456 005   L 20260911185243.0
+001674456 007   L ta
+001674456 008   L 260910s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674456 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674456 043   L $$as-ag---
+001674456 1001  L $$aMerlo, Marcelo$$eautor$$4aut
+001674456 24510 L $$aMontajes sí... pero algunos /$$cpor Marcelo Merlo.
+001674456 504   L $$aBibliografía: p. 64.
+001674456 5050  L $$aBradley comienza su tarea -- No todos estaban de acuerdo -- Ahora viene lo bueno -- La travesura de Quincio Cenni -- Unas pocas conclusiones sencillas.
+001674456 60014 L $$aBradley, Tomás,$$d1844-1933
+001674456 60014 L $$aCenni, Quincio
+001674456 651 4 L $$aLa Plata [Buenos Aires (Provincia)]$$xEn el arte
+001674456 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 61-64$$w(AR-BaBN)000363856
+001674456 LKR   L $$aDN$$b000363856$$lBNA01$$mMontajes sí... pero algunos / por Marcelo Merlo$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 61-64
+001674456 OWN   L $$aCAT_FOTO
+001674456 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1817
+001674456 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1818
+001674456 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1818
+001674456 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1852
+001674456 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1852
+001674573 FMT   L BK
+001674573 LDR   L 00000naa^a22^^^^^^a^4500
+001674573 001   L 001674573
+001674573 005   L 20260911184818.0
+001674573 007   L ta
+001674573 008   L 260911s1994^^^^ag^^^^^grb^^^^000^0^spa^^
+001674573 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674573 043   L $$as-ag---
+001674573 1001  L $$aMirabelli, Cristina$$eautora$$4aut
+001674573 24513 L $$aEl director de fotografía en la filmación de una película en la época de oro del cine argentino /$$cCristina Andrés de Mirabelli.
+001674573 504   L $$aBibliografía: p. 112.
+001674573 5050  L $$aSu tarea -- Antonio Merayo, Director de Fotografía en el Cine Argentino -- Desde su nacimiento ligado al cine -- Cinematográfica Valle -- Debut con la cámara -- Etapa del diario Crítica como fotógrafo -- Un aporte logrado para la industria del cine -- Se inicia una nueva productora -- Argentina Sono Film -- "Viento Norte" -- Su carrera continúa -- Sus compañeros y amigos.
+001674573 60014 L $$aMerayo, Antonio,$$d1909-1989
+001674573 650 4 L $$aDirectores de fotografía
+001674573 650 4 L $$aCine argentino$$xHistoria
+001674573 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 109-112$$w(AR-BaBN)000363856
+001674573 LKR   L $$aDN$$b000363856$$lBNA01$$mEl director de fotografía en la filmación de una película en la época de oro del cine argentino / Cristina Andrés de Mirabelli$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 109-112
+001674573 OWN   L $$aCAT_FOTO
+001674573 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1647
+001674573 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1647
+001674573 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1648
+001674573 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1848
+001674570 FMT   L BK
+001674570 LDR   L 00000naa^a22^^^^^^a^4500
+001674570 001   L 001674570
+001674570 005   L 20260911163516.0
+001674570 007   L ta
+001674570 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674570 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674570 1001  L $$aMiranda, Ana María$$eautora$$4aut
+001674570 24510 L $$aAquella imagen /$$cAna María Miranda.
+001674570 504   L $$aBibliografía: p. 108.
+001674570 650 4 L $$aFotografía post mórtem
+001674570 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 107-108$$w(AR-BaBN)000363856
+001674570 LKR   L $$aDN$$b000363856$$lBNA01$$mAquella imagen / Ana María Miranda$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 107-108
+001674570 OWN   L $$aCAT_FOTO
+001674570 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1635
+001674577 FMT   L BK
+001674577 LDR   L 00000naa^a22^^^^^^a^4500
+001674577 001   L 001674577
+001674577 005   L 20260917154644.0
+001674577 007   L ta
+001674577 008   L 260911s1994^^^^ag^o^^^grb^^^^000^0^spa^^
+001674577 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674577 043   L $$as-ag---
+001674577 1001  L $$aMüller, Roberto D.,$$d1945-$$eautor$$4aut
+001674577 24510 L $$aImágenes de un palacio porteño :$$bla antigua sede del Jockey Club de la calle Florida a través de dos álbumes de José de Freitas Henriques, 1909 y 1913 /$$cRoberto D. Müller.
+001674577 504   L $$aBibliografía: p. 127.
+001674577 5050  L $$aIntroducción -- El palacio del Jockey Club -- Descripción de los álbumes -- Un recorrido a través de las imágenes.
+001674577 60014 L $$aFreitas Henriques, José Virginio,$$d1851-1928
+001674577 61024 L $$aJockey Club (Buenos Aires)$$xEdificios
+001674577 650 4 L $$aÁlbumes de fotografías
+001674577 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 123-127$$w(AR-BaBN)000363856
+001674577 LKR   L $$aDN$$b000363856$$lBNA01$$mImágenes de un palacio porteño : la antigua sede del Jockey Club de la calle Florida a través de dos álbumes de José de Freitas Henriques, 1909 y 1913 / Roberto D. Müller.$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 123-127
+001674577 OWN   L $$aCAT_FOTO
+001674577 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1707
+001674577 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1852
+001674577 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1900
+001674577 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674449 FMT   L BK
+001674449 LDR   L 00000naa^a22^^^^^^a^4500
+001674449 001   L 001674449
+001674449 005   L 20260911184832.0
+001674449 007   L ta
+001674449 008   L 260910s1994^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674449 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674449 1001  L $$aParacampo Filho, Luiz Antonio$$eautor$$4aut
+001674449 24510 L $$a¿Daguerrotipos contemporáneos y en colores? /$$cLuiz Antonio Paracampo Filho.
+001674449 650 4 L $$aDaguerrotipo
+001674449 650 4 L $$aFotografía en color
+001674449 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 37$$w(AR-BaBN)000363856
+001674449 LKR   L $$aDN$$b000363856$$lBNA01$$m¿Daguerrotipos contemporáneos y en colores? / Luiz Antonio Paracampo Filho$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 37
+001674449 OWN   L $$aCAT_FOTO
+001674449 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1734
+001674449 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1848
+001674453 FMT   L BK
+001674453 LDR   L 00000naa^a22^^^^^^a^4500
+001674453 001   L 001674453
+001674453 005   L 20260910175812.0
+001674453 007   L ta
+001674453 008   L 260910s1994^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674453 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674453 1001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+001674453 24514 L $$aLos gauchos de Ayerza /$$cLuis Priamo.
+001674453 60014 L $$aAyerza, Francisco,$$d1860-1901
+001674453 650 4 L $$aGauchos$$xEn el arte
+001674453 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 55-60$$w(AR-BaBN)000363856
+001674453 LKR   L $$aDN$$b000363856$$lBNA01$$mLos gauchos de Ayerza / Luis Priamo$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 55-60
+001674453 OWN   L $$aCAT_FOTO
+001674453 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1758
+001674461 FMT   L BK
+001674461 LDR   L 00000naa^a22^^^^^^a^4500
+001674461 001   L 001674461
+001674461 005   L 20260911190022.0
+001674461 007   L ta
+001674461 008   L 260910s1994^^^^ag^^^^^gr^^^^^000^0^spa^^
+001674461 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674461 1001  L $$aRaggi, Carlos$$eautor$$4aut
+001674461 24510 L $$aFerrazini :$$bálbumes fotográficos del siglo XIX /$$cCarlos Raggi, Carmen Delgado, Pablo Grasso.
+001674461 5050  L $$aIntroducción -- Origen de la investigación -- El álbum de vistas. Búsqueda del significado del álbum fotográfico impreso -- Análisis de los álbumes -- ¿Un autor o varios autores? -- La técnica empleada -- La empresa impresora -- Características de las obras analizadas.
+001674461 60014 L $$aPusso, Vicente,$$d1857-1904
+001674461 650 4 L $$aÁlbumes de fotografías
+001674461 7001  L $$aDelgado, Carmen$$eautora$$4aut
+001674461 7001  L $$aGrasso, Pablo$$eautor$$4aut
+001674461 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 65-68$$w(AR-BaBN)000363856
+001674461 LKR   L $$aDN$$b000363856$$lBNA01$$mFerrazini : álbumes fotográficos del siglo XIX / Carlos Raggi, Carmen Delgado, Pablo Grasso$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 65-68
+001674461 OWN   L $$aCAT_FOTO
+001674461 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1836
+001674461 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1837
+001674461 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1900
+001674436 FMT   L BK
+001674436 LDR   L 00000naa^a22^^^^^^a^4500
+001674436 001   L 001674436
+001674436 005   L 20260911184906.0
+001674436 007   L ta
+001674436 008   L 260910s1994^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674436 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674436 1001  L $$aRiobó, Julio B.$$eautor$$4aut
+001674436 24510 L $$aCorrespondencia Newhall - Riobó, 1946-1949 /$$cpor Julio B. Riobó.
+001674436 5050  L $$aIntroducción -- Traducción de la carta precedente -- Anexo I, Beaumont Newhall, su fallecimiento -- Anexo II, Retrato de Don Miguel Otero -- Anexo II, Traducción de un borrador.
+001674436 60014 L $$aRiobó, Julio Felipe,$$d1883-1966$$xCorrespondencia
+001674436 60014 L $$aNewhall, Beaumont,$$d1908-1993$$xCorrespondencia
+001674436 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 9-14$$w(AR-BaBN)000363856
+001674436 LKR   L $$aDN$$b000363856$$lBNA01$$mCorrespondencia Newhall - Riobó, 1946-1949 / por Julio B. Riobó$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 9-14
+001674436 OWN   L $$aCAT_FOTO
+001674436 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1646
+001674436 CAT   L $$aFORTIZ$$b20$$c20260910$$lBNA01$$h1647
+001674436 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1848
+001674436 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1849
+001674587 FMT   L BK
+001674587 LDR   L 00000naa^a22^^^^^^a^4500
+001674587 001   L 001674587
+001674587 005   L 20260911180741.0
+001674587 007   L ta
+001674587 008   L 260911s1994^^^^ag^^^^^grb^^^^000^0^spa^^
+001674587 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674587 1001  L $$aRogers, Enrique$$eautor$$4aut
+001674587 24510 L $$aFotocolografía, el proceso olvidado /$$cEnrique Rogers.
+001674587 504   L $$aBibliografía: p. 172.
+001674587 5050  L $$aPrincipios de la fotocolografía -- Instrucciones prácticas para el procedimiento de la fotocolografía -- Las imágenes.
+001674587 650 4 L $$aFotograbado$$xTécnicas
+001674587 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 169-172$$w(AR-BaBN)000363856
+001674587 LKR   L $$aDN$$b000363856$$lBNA01$$mFotocolografía, el proceso olvidado / Enrique Rogers$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 169-172
+001674587 OWN   L $$aCAT_FOTO
+001674587 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1807
+001674564 FMT   L BK
+001674564 LDR   L 00000naa^a22^^^^^^a^4500
+001674564 001   L 001674564
+001674564 005   L 20260911160707.0
+001674564 007   L ta
+001674564 008   L 260911s1994^^^^ag^^^^^grb^^^^000^0^spa^^
+001674564 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674564 1001  L $$aTroya, Liliana$$eautora$$4aut
+001674564 24510 L $$aEstudio fotográfico "Lumiere" de Avellaneda /$$cLiliana Troya.
+001674564 504   L $$aBibliografía: p. 98.
+001674564 60014 L $$aRoitberg, David,$$d1899-1957
+001674564 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 97-98$$w(AR-BaBN)000363856
+001674564 LKR   L $$aDN$$b000363856$$lBNA01$$mEstudio fotográfico "Lumiere" de Avellaneda / Liliana Troya$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 97-98
+001674564 OWN   L $$aCAT_FOTO
+001674564 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1607
+001674553 FMT   L BK
+001674553 LDR   L 00000naa^a22^^^^^^a^4500
+001674553 001   L 001674553
+001674553 005   L 20260911153007.0
+001674553 007   L ta
+001674553 008   L 260911s1994^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674553 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674553 043   L $$as-ag---$$as-uy---
+001674553 1001  L $$aVarese, Juan Antonio,$$d1942-$$eautor$$4aut
+001674553 24513 L $$aLa tragedia del "Poitou" :$$bun reportaje fotográfico de principios de siglo /$$cpor Juan Antonio Varese.
+001674553 5050  L $$aLos hechos -- Las fotos -- Vamos a analizar algunas -- La revista Caras y Caretas -- El fotógrafo José Lorenzo Adami Bonatti.
+001674553 60014 L $$aAdami Bonatti, José Lorenzo,$$d1885-1967
+001674553 650 4 L $$aNaufragios$$zRío de la Plata (Argentina y Uruguay)$$xHistoria
+001674553 7731  L $$aCongreso de Historia de la Fotografía (2o : 1993 jul. 9-11 : Florida, Buenos Aires)$$tIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina$$gp. 83-86$$w(AR-BaBN)000363856
+001674553 LKR   L $$aDN$$b000363856$$lBNA01$$mLa tragedia del "Poitou" : un reportaje fotográfico de principios de siglo / por Juan Antonio Varese$$nIIº Congreso de Historia de la Fotografía : en adhesión al 150º aniversario de la fotografía argentina, 9, 10, 11 de julio de 1993, Florida, Pdo. de Vicente López, Argentina, p. 83-86
+001674553 OWN   L $$aCAT_FOTO
+001674553 CAT   L $$aFORTIZ$$b20$$c20260911$$lBNA01$$h1530
+001675019 FMT   L BK
+001675019 LDR   L 00000naa^a22^^^^^^a^4500
+001675019 001   L 001675019
+001675019 005   L 20260916183118.0
+001675019 007   L ta
+001675019 008   L 260916s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001675019 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675019 043   L $$as-ag---
+001675019 1001  L $$aAlbornoz, C. Darío$$eautor$$4aut
+001675019 24513 L $$aLa fotografía en Tucumán, impresión de dos fotógrafos /$$cC. Darío Albornoz.
+001675019 60014 L $$aBachur, Abud José,$$d1883-1955
+001675019 60014 L $$aGore, Dipiel,$$dm. 1951
+001675019 650 4 L $$aFotógrafos argentinos$$xHistoria
+001675019 651 4 L $$aTucumán (Provincia)$$xHistoria
+001675019 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 133-136$$w(AR-BaBN)001314547
+001675019 LKR   L $$aDN$$b001314547$$lBNA01$$mLa fotografía en Tucumán, impresión de dos fotógrafos / C. Darío Albornoz$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 133-136
+001675019 OWN   L $$aCAT_FOTO
+001675019 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1623
+001675019 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1623
+001675019 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1831
+001674722 FMT   L BK
+001674722 LDR   L 00000naa^a22^^^^^^a^4500
+001674722 001   L 001674722
+001674722 005   L 20260916183113.0
+001674722 007   L ta
+001674722 008   L 260914s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001674722 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674722 043   L $$as-ag---
+001674722 1001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
+001674722 24513 L $$aEl poeta José Hernández o el daguerrotipo más singular de la Argentina /$$cAbel Alexander.
+001674722 504   L $$aBibliografía: p. 28.
+001674722 60014 L $$aHernández, José,$$d1834-1886$$xRetratos
+001674722 650 4 L $$aDaguerrotipo$$zArgentina$$xHistoria
+001674722 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 23-28$$w(AR-BaBN)001314547
+001674722 LKR   L $$aDN$$b001314547$$lBNA01$$mEl poeta José Hernández o el daguerrotipo más singular de la Argentina / Abel Alexander$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 23-28
+001674722 OWN   L $$aCAT_FOTO
+001674722 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1719
+001674722 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1725
+001674722 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1831
+001675006 FMT   L BK
+001675006 LDR   L 00000naa^a22^^^^^^a^4500
+001675006 001   L 001675006
+001675006 005   L 20260916184151.0
+001675006 007   L ta
+001675006 008   L 260916s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001675006 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675006 043   L $$as-ag---
+001675006 1001  L $$aArean, Olga$$eautora$$4aut
+001675006 24510 L $$aRigolleau S.A. :$$bcuando las historias y los personajes se escapan de un álbum /$$cOlga Arean y María Inés Criado.
+001675006 61024 L $$aCristalería Rigolleau (Firma comercial)$$xHistoria
+001675006 651 4 L $$aBerazategui$$xHistoria
+001675006 7001  L $$aCriado, María Inés$$eautora$$4aut
+001675006 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 113-116$$w(AR-BaBN)001314547
+001675006 LKR   L $$aDN$$b001314547$$lBNA01$$mRigolleau S.A. : cuando las historias y los personajes se escapan de un álbum / Olga Arean y María Inés Criado$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 113-116
+001675006 OWN   L $$aCAT_FOTO
+001675006 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1558
+001675006 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1831
+001675006 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001675038 FMT   L BK
+001675038 LDR   L 00000naa^a22^^^^^^a^4500
+001675038 001   L 001675038
+001675038 005   L 20260916183059.0
+001675038 007   L ta
+001675038 008   L 260916s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001675038 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675038 043   L $$as-ag---
+001675038 1001  L $$aArean, Olga$$eautora$$4aut
+001675038 24510 L $$aVoluntarias para un museo /$$cOlga Arean, María Gabriela de Antueno.
+001675038 61024 L $$aMuseo Histórico Nacional (Argentina)$$xColecciones de fotografías
+001675038 7001  L $$aAntueno, María Gabriela de$$eautora$$4aut
+001675038 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 187-188$$w(AR-BaBN)001314547
+001675038 LKR   L $$aDN$$b001314547$$lBNA01$$mVoluntarias para un museo / Olga Arean, María Gabriela de Antueno$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 187-188
+001675038 OWN   L $$aCAT_FOTO
+001675038 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1743
+001675038 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1830
+001675031 FMT   L BK
+001675031 LDR   L 00000naa^a22^^^^^^a^4500
+001675031 001   L 001675031
+001675031 005   L 20260916183052.0
+001675031 007   L ta
+001675031 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675031 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675031 1001  L $$aArslanian, Rita$$eautora$$4aut
+001675031 24513 L $$aLa imagen fotográfica como una forma de relato /$$cRita Arslanian.
+001675031 504   L $$aBibliografía: p. 174.
+001675031 5050  L $$aConsideraciones generales -- El retrato -- El documental -- Cómo se hace la América -- Conclusiones.
+001675031 650 4 L $$aFotografía$$xFilosofía
+001675031 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 171-174$$w(AR-BaBN)001314547
+001675031 LKR   L $$aDN$$b001314547$$lBNA01$$mLa imagen fotográfica como una forma de relato / Rita Arslanian$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 171-174
+001675031 OWN   L $$aCAT_FOTO
+001675031 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1726
+001675031 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1830
+001674846 FMT   L BK
+001674846 LDR   L 00000naa^a22^^^^^^a^4500
+001674846 001   L 001674846
+001674846 005   L 20260916184143.0
+001674846 007   L ta
+001674846 008   L 260915s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674846 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674846 043   L $$as-ag---
+001674846 1001  L $$aBaldani Cámara, María Ana$$eautora$$4aut
+001674846 24510 L $$aPresencia del fotógrafo aficionado Arístides Mondelli en La fotografía /$$cMaría Ana Baldani Cámara.
+001674846 5050  L $$a1. Fotografías publicadas -- 2. Artículo sobre Arístides Mondelli -- 3. Noticias -- 4. Correspondencia particular.
+001674846 60014 L $$aMondelli, Arístides
+001674846 63034 L $$aLa Fotografía (Revista : Madrid)
+001674846 650 4 L $$aFotógrafos argentinos$$xHistoria
+001674846 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 59-62$$w(AR-BaBN)001314547
+001674846 LKR   L $$aDN$$b001314547$$lBNA01$$mPresencia del fotógrafo aficionado Arístides Mondelli en La fotografía / María Ana Baldani Cámara$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 59-62
+001674846 OWN   L $$aCAT_FOTO
+001674846 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1613
+001674846 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1613
+001674846 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1830
+001674846 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001675015 FMT   L BK
+001675015 LDR   L 00000naa^a22^^^^^^a^4500
+001675015 001   L 001675015
+001675015 005   L 20260916184200.0
+001675015 007   L ta
+001675015 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675015 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675015 043   L $$as-ag---
+001675015 1001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
+001675015 24513 L $$aLa fotografía en colonias de La Pampa /$$cCarlos Barrios Barón.
+001675015 504   L $$aBibliografía: p. 131.
+001675015 5050  L $$aLa conquista del desierto -- La Argentina en 1906 -- Las colonias pampeanas de Mirasol, San José y Barón -- Los fotógrafos en Villa Mirasol -- Los Leduc -- Otros fotógrafos en Villa Mirasol -- Los fotógrafos en Colonia San José -- Los fotógrafos en Colonia Barón -- Los primeros -- Los hermanos Ricardo y Antonio Carretero -- Otros fotógrafos de Colonia Barón -- Fotógrafos de mediados de siglo en adelante -- Final.
+001675015 650 4 L $$aFotógrafos argentinos$$xHistoria
+001675015 651 4 L $$aLa Pampa (Provincia)$$xHistoria
+001675015 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 125-132$$w(AR-BaBN)001314547
+001675015 LKR   L $$aDN$$b001314547$$lBNA01$$mLa fotografía en colonias de La Pampa / Carlos Barrios Barón$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 125-132
+001675015 OWN   L $$aCAT_FOTO
+001675015 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1616
+001675015 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1830
+001675015 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1842
+001675044 FMT   L BK
+001675044 LDR   L 00000naa^a22^^^^^^a^4500
+001675044 001   L 001675044
+001675044 005   L 20260916183028.0
+001675044 007   L ta
+001675044 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675044 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675044 1001  L $$aBarrios Medina, Ariel,$$d1948-$$eautor$$4aut
+001675044 24513 L $$aEl testimonio fotográfico como requerimiento de una hermenéutica del objeto /$$cAriel Barrios Medina.
+001675044 504   L $$aBibliografía: p. 204-205.
+001675044 650 4 L $$aFotografía$$xFilosofía
+001675044 650 4 L $$aMedicina
+001675044 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 203-206$$w(AR-BaBN)001314547
+001675044 LKR   L $$aDN$$b001314547$$lBNA01$$mEl testimonio fotográfico como requerimiento de una hermenéutica del objeto / Ariel Barrios Medina$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 203-206
+001675044 OWN   L $$aCAT_FOTO
+001675044 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1810
+001675044 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1830
+001675029 FMT   L BK
+001675029 LDR   L 00000naa^a22^^^^^^a^4500
+001675029 001   L 001675029
+001675029 005   L 20260916183014.0
+001675029 007   L ta
+001675029 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675029 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675029 1001  L $$aBasigalup, Nora Josefina$$eautora$$4aut
+001675029 24513 L $$aLa fotografía como producto cultural /$$cNora Josefina Basigalup.
+001675029 504   L $$aBibliografía: p. 170.
+001675029 5050  L $$aLa fotografía: memoria visual de nuestro pueblo -- La fotografía: un soporte en la búsqueda de la identidad -- La fotografía: ¿un arte menor?.
+001675029 650 4 L $$aFotografía$$xFilosofía
+001675029 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 165-170$$w(AR-BaBN)001314547
+001675029 LKR   L $$aDN$$b001314547$$lBNA01$$mLa fotografía como producto cultural / Nora Josefina Basigalup$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 165-170
+001675029 OWN   L $$aCAT_FOTO
+001675029 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1713
+001675029 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1830
+001675032 FMT   L BK
+001675032 LDR   L 00000naa^a22^^^^^^a^4500
+001675032 001   L 001675032
+001675032 005   L 20260917154641.0
+001675032 007   L ta
+001675032 008   L 260916s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001675032 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675032 1001  L $$aBlanco, Beatriz$$eautora$$4aut
+001675032 24510 L $$aRetratos infantiles /$$cBeatriz Blanco.
+001675032 650 4 L $$aFotografía de niños
+001675032 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 175-178$$w(AR-BaBN)001314547
+001675032 LKR   L $$aDN$$b001314547$$lBNA01$$mRetratos infantiles / Beatriz Blanco$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 175-178
+001675032 OWN   L $$aCAT_FOTO
+001675032 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1730
+001675032 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1830
+001675032 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001675032 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674855 FMT   L BK
+001674855 LDR   L 00000naa^a22^^^^^^a^4500
+001674855 001   L 001674855
+001674855 005   L 20260917154620.0
+001674855 007   L ta
+001674855 008   L 260915s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001674855 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674855 043   L $$as-ag---
+001674855 1001  L $$aButtori, Nidia$$eautora$$4aut
+001674855 24510 L $$aSalvador Debenedetti :$$bun arqueólogo de su época /$$cNidia Buttori, Laura R. Piaggio, Vivian Spoliansky.
+001674855 504   L $$aBibliografía: p. 90.
+001674855 60014 L $$aDebenedetti, Salvador,$$d1884-1930
+001674855 650 4 L $$aArqueología$$zArgentina$$xHistoria
+001674855 7001  L $$aPiaggio, Laura Raquel$$eautora$$4aut
+001674855 7001  L $$aSpoliansky, Vivian$$eautora$$4aut
+001674855 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 89-90$$w(AR-BaBN)001314547
+001674855 LKR   L $$aDN$$b001314547$$lBNA01$$mSalvador Debenedetti : un arqueólogo de su época / Nidia Buttori, Laura R. Piaggio, Vivian Spoliansky$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 89-90
+001674855 OWN   L $$aCAT_FOTO
+001674855 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1650
+001674855 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001674855 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001674863 FMT   L BK
+001674863 LDR   L 00000naa^a22^^^^^^a^4500
+001674863 001   L 001674863
+001674863 005   L 20260916182943.0
+001674863 007   L ta
+001674863 008   L 260915s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001674863 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674863 1001  L $$aCalvo, Jorge Rubén$$eautor$$4aut
+001674863 24510 L $$aAlcibíades Rodríguez, historiador gráfico de Quilmes /$$cJorge Rubén Calvo.
+001674863 60014 L $$aRodríguez, Alcibíades,$$d1912-2002
+001674863 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 95-98$$w(AR-BaBN)001314547
+001674863 LKR   L $$aDN$$b001314547$$lBNA01$$mAlcibíades Rodríguez, historiador gráfico de Quilmes / Jorge Rubén Calvo$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 95-98
+001674863 OWN   L $$aCAT_FOTO
+001674863 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1709
+001674863 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001674847 FMT   L BK
+001674847 LDR   L 00000naa^a22^^^^^^a^4500
+001674847 001   L 001674847
+001674847 005   L 20260916183319.0
+001674847 007   L ta
+001674847 008   L 260915s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001674847 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674847 043   L $$as-cl---
+001674847 1001  L $$aCéspedes Valenzuela, Raúl$$eautor$$4aut
+001674847 24513 L $$aLa fotografía en las actividades mineras del siglo XIX en el norte de Chile /$$cRaúl Céspedes Valenzuela.
+001674847 504   L $$aBibliografía: p. 66.
+001674847 650 4 L $$aMinería$$zChile$$xHistoria
+001674847 650 4 L $$aFotógrafos chilenos$$xHistoria
+001674847 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 63-66$$w(AR-BaBN)001314547
+001674847 LKR   L $$aDN$$b001314547$$lBNA01$$mLa fotografía en las actividades mineras del siglo XIX en el norte de Chile / Raúl Céspedes Valenzuela$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 63-66
+001674847 OWN   L $$aCAT_FOTO
+001674847 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1615
+001674847 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001674847 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1833
+001675010 FMT   L BK
+001675010 LDR   L 00000naa^a22^^^^^^a^4500
+001675010 001   L 001675010
+001675010 005   L 20260916182932.0
+001675010 007   L ta
+001675010 008   L 260916s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001675010 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675010 043   L $$as-ag---
+001675010 1001  L $$aConde, Roberto$$eautor$$4aut
+001675010 24513 L $$aUn catálogo fotográfico argentino de 1914 /$$cRoberto Conde.
+001675010 61024 L $$aRossi & Lavarello (Firma comercial)$$xHistoria
+001675010 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 121-123$$w(AR-BaBN)001314547
+001675010 LKR   L $$aDN$$b001314547$$lBNA01$$mUn catálogo fotográfico argentino de 1914 / Roberto Conde$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 121-123
+001675010 OWN   L $$aCAT_FOTO
+001675010 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1603
+001675010 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001314547 FMT   L BK
+001314547 LDR   L 00000aam^a22^^^^^^a^4500
+001314547 001   L 001314547
+001314547 003   L AR-BaBN
+001314547 005   L 20260917155955.0
+001314547 007   L ta
+001314547 008   L 140807s1995^^^^ag^co^^fr^^^^^101^0^spa^^
+001314547 015   L $$aAR-1995
+001314547 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001314547 043   L $$as-ag---
+001314547 044   L $$aag$$car-c
+001314547 0801  L $$a77(091)(062.537)$$22016
+001314547 1112  L $$aCongreso de Historia de la Fotografía$$n(3o :$$d1994 jun. 11-12 :$$cFlorida, Buenos Aires)$$jorganizador$$4orm
+001314547 24510 L $$a3º Congreso de Historia de la Fotografía :$$borganizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994.
+001314547 2463  L $$aTercer Congreso de Historia de la Fotografía
+001314547 24634 L $$aMemoria del 3º Congreso de Historia de la Fotografía en la Argentina
+001314547 260   L $$aBuenos Aires :$$bFederación Argentina de Fotografía,$$c1995.
+001314547 300   L $$a208 p. :$$bfot. byn, retrs. ;$$c29 cm.
+001314547 504   L $$aIncluye referencias bibliográficas al final de cada capítulo.
+001314547 650 4 L $$aFotografía$$zArgentina$$xHistoria$$vDocumentos de congresos, conferencias, etc.
+001314547 655 4 L $$aDocumentos de congresos, conferencias, etc.
+001314547 7001  L $$aAlbornoz, C. Darío$$eautor$$4aut
+001314547 7001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
+001314547 7001  L $$aAntueno, María Gabriela de$$eautora$$4aut
+001314547 7001  L $$aArean, Olga$$eautora$$4aut
+001314547 7001  L $$aArean, Olga$$eautora$$4aut
+001314547 7001  L $$aArslanian, Rita$$eautora$$4aut
+001314547 7001  L $$aBaldani Cámara, María Ana$$eautora$$4aut
+001314547 7001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
+001314547 7001  L $$aBarrios Medina, Ariel,$$d1948-$$eautor$$4aut
+001314547 7001  L $$aBasigalup, Nora Josefina$$eautora$$4aut
+001314547 7001  L $$aBlanco, Beatriz$$eautora$$4aut
+001314547 7001  L $$aButtori, Nidia$$eautora$$4aut
+001314547 7001  L $$aCalvo, Jorge Rubén$$eautor$$4aut
+001314547 7001  L $$aConde, Roberto$$eautor$$4aut
+001314547 7001  L $$aCriado, María Inés$$eautora$$4aut
+001314547 7001  L $$aCrochetti, Silvia$$eautora$$4aut
+001314547 7001  L $$aCsillag, Ilonka$$eautora$$4aut
+001314547 7001  L $$aCuarterolo, Miguel Angel,$$d1950-2002$$eautor$$4aut
+001314547 7001  L $$aCunietti-Ferrando, Arnaldo J.,$$d1936-2018$$eautor$$4aut
+001314547 7001  L $$aCéspedes Valenzuela, Raúl$$eautor$$4aut
+001314547 7001  L $$aD'Alessandro de Brandi, Hilda,$$d1937-$$eautora$$4aut
+001314547 7001  L $$aDelgado, Carmen$$eautora$$4aut
+001314547 7001  L $$aDodd, Stella Maris$$eautora$$4aut
+001314547 7001  L $$aDorronsoro, Josune,$$d1946-1995$$eautora$$4aut
+001314547 7001  L $$aDócola, Silvia Alicia$$eautora$$4aut
+001314547 7001  L $$aEpifanio, Haydée$$eautora$$4aut
+001314547 7001  L $$aFaure, Patricia$$eautora$$4aut
+001314547 7001  L $$aFerrari, Roberto A.$$eautor$$4aut
+001314547 7001  L $$aGesualdo, Vicente,$$d1922-1999$$eautor$$4aut
+001314547 7001  L $$aGonzález de Welschen, Graciela N.$$eautora$$4aut
+001314547 7001  L $$aGómez, Juan,$$d1932-2018$$eautor$$4aut$$eprologuista$$4aui
+001314547 7001  L $$aLugo, Sergio$$eautor$$4aut
+001314547 7001  L $$aLuna, Nitza,$$d1959-$$eautora$$4aut
+001314547 7001  L $$aLuqui-Lagleyze, Julio Mario,$$d1959-$$eautor$$4aut
+001314547 7001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001314547 7001  L $$aMirande Lamedica, Gabriela$$eautora$$4aut
+001314547 7001  L $$aPampinella, Silvia$$eautora$$4aut
+001314547 7001  L $$aParodi, Enzo$$eautor$$4aut
+001314547 7001  L $$aPiaggio, Laura Raquel$$eautora$$4aut
+001314547 7001  L $$aPrado, Stella Maris$$eautora$$4aut
+001314547 7001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+001314547 7001  L $$aPérez Bayo, Antonia$$eautora$$4aut
+001314547 7001  L $$aRaggi, Carlos$$eautor$$4aut
+001314547 7001  L $$aRiego, Bernardo,$$d1955-$$eautor$$4aut
+001314547 7001  L $$aRomer, Grant$$eautor$$4aut
+001314547 7001  L $$aSimone, Claudio Roberto$$eautor$$4aut
+001314547 7001  L $$aSpoliansky, Vivian$$eautora$$4aut
+001314547 7001  L $$aVirto, Enrique C.,$$d1938-$$eautor$$4aut
+001314547 7102  L $$aFederación Argentina de Fotografía$$eentidad responsable$$4isb
+001314547 OWN   L $$aCAT_LIBRO
+001314547 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1523
+001314547 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1535
+001314547 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1547
+001314547 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1549
+001314547 CAT   L $$aKRODRIGUEZ$$b20$$c20140807$$lBNA01$$h1549
+001314547 CAT   L $$aCATAU$$b20$$c20160624$$lBNA01$$h1537
+001314547 CAT   L $$aBATCH-UPD$$b20$$c20170615$$lBNA01$$h1754
+001314547 CAT   L $$aCATAU$$b20$$c20210625$$lBNA01$$h1949
+001314547 CAT   L $$aCATAU$$b20$$c20220628$$lBNA01$$h1140
+001314547 CAT   L $$aBATCH-UPD$$b20$$c20220628$$lBNA01$$h1142
+001314547 CAT   L $$aCATAU$$b20$$c20230712$$lBNA01$$h1051
+001314547 CAT   L $$aCATAU$$b20$$c20230916$$lBNA01$$h2302
+001314547 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h2056
+001314547 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h2015
+001314547 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1811
+001314547 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1813
+001314547 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1559
+001314547 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1559
+001314547 Z30-1 L $$lBNA01$$LBNA01$$mLIBRO$$1FOTO$$AFototeca$$2LIBRO$$BColección Libros$$3FOES061342$$600943551$$500943551$$420140700$$820140807$$f13$$FPréstamo común en sala$$s01$$n027$$q000010$$o001314547
+001675039 FMT   L BK
+001675039 LDR   L 00000naa^a22^^^^^^a^4500
+001675039 001   L 001675039
+001675039 005   L 20260916182923.0
+001675039 007   L ta
+001675039 008   L 260916s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001675039 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675039 043   L $$as-ag---
+001675039 1001  L $$aCrochetti, Silvia$$eautora$$4aut
+001675039 24513 L $$aEl Archivo Fotográfico Provincial de La Pampa /$$cCrochetti, Silvia; Prado, Stella Maris.
+001675039 504   L $$aBibliografía: p. 191.
+001675039 5050  L $$aOrganización interna -- Difusión orientada al ámbito educativo -- Difusión orientada a exposiciones públicas -- Conclusión.
+001675039 61024 L $$aArchivo Histórico Provincial Prof. Fernando E. Aráoz (La Pampa)$$xColecciones de fotografías
+001675039 7001  L $$aPrado, Stella Maris$$eautora$$4aut
+001675039 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 189-191$$w(AR-BaBN)001314547
+001675039 LKR   L $$aDN$$b001314547$$lBNA01$$mEl Archivo Fotográfico Provincial de La Pampa / Crochetti, Silvia; Prado, Stella Maris$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 189-191
+001675039 OWN   L $$aCAT_FOTO
+001675039 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1747
+001675039 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001675034 FMT   L BK
+001675034 LDR   L 00000naa^a22^^^^^^a^4500
+001675034 001   L 001675034
+001675034 005   L 20260916182917.0
+001675034 007   L ta
+001675034 008   L 260916s1995^^^^ag^^^^^gr^^^^^000^0^spa^^
+001675034 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675034 043   L $$as-cl---
+001675034 1001  L $$aCsillag, Ilonka$$eautora$$4aut
+001675034 24514 L $$aUna colección fotográfica patrimonial de Chile /$$cIlonka Csillag.
+001675034 650 4 L $$aFotografía$$zChile$$xHistoria
+001675034 650 4 L $$aColecciones de fotografías$$zChile
+001675034 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 179-182$$w(AR-BaBN)001314547
+001675034 LKR   L $$aDN$$b001314547$$lBNA01$$mUna colección fotográfica patrimonial de Chile / Ilonka Csillag$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 179-182
+001675034 OWN   L $$aCAT_FOTO
+001675034 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1735
+001675034 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001674725 FMT   L BK
+001674725 LDR   L 00000naa^a22^^^^^^a^4500
+001674725 001   L 001674725
+001674725 005   L 20260916182909.0
+001674725 007   L ta
+001674725 008   L 260914s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001674725 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674725 043   L $$as-ag---
+001674725 1001  L $$aCuarterolo, Miguel Angel,$$d1950-2002$$eautor$$4aut
+001674725 24513 L $$aEl precio de la inmortalidad /$$cMiguel A. Cuarterolo.
+001674725 504   L $$aBibliografía: p. 36.
+001674725 650 4 L $$aDaguerrotipo$$zArgentina$$xHistoria
+001674725 650 4 L $$aDaguerrotipo$$xAspectos económicos
+001674725 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 33-36$$w(AR-BaBN)001314547
+001674725 LKR   L $$aDN$$b001314547$$lBNA01$$mEl precio de la inmortalidad / Miguel A. Cuarterolo$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 33-36
+001674725 OWN   L $$aCAT_FOTO
+001674725 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1729
+001674725 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001674710 FMT   L BK
+001674710 LDR   L 00000naa^a22^^^^^^a^4500
+001674710 001   L 001674710
+001674710 005   L 20260916182902.0
+001674710 007   L ta
+001674710 008   L 260914s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674710 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674710 043   L $$as-ag---
+001674710 1001  L $$aCunietti-Ferrando, Arnaldo J.,$$d1936-2018$$eautor$$4aut
+001674710 24510 L $$aAmadeo Gras :$$bEntre la pintura y el daguerrotipo /$$cArnaldo J. Cunietti-Ferrando.
+001674710 60014 L $$aGras, Amadeo,$$d1805-1871
+001674710 650 4 L $$aDaguerrotipo$$zArgentina$$xHistoria
+001674710 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 17-21$$w(AR-BaBN)001314547
+001674710 LKR   L $$aDN$$b001314547$$lBNA01$$mAmadeo Gras : Entre la pintura y el daguerrotipo / Arnaldo J. Cunietti-Ferrando$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 17-21
+001674710 OWN   L $$aCAT_FOTO
+001674710 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1600
+001674710 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1601
+001674710 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1725
+001674710 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001674851 FMT   L BK
+001674851 LDR   L 00000naa^a22^^^^^^a^4500
+001674851 001   L 001674851
+001674851 005   L 20260916184131.0
+001674851 007   L ta
+001674851 008   L 260915s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001674851 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674851 043   L $$as-ag---
+001674851 1001  L $$aD'Alessandro de Brandi, Hilda,$$d1937-$$eautora$$4aut
+001674851 24510 L $$aArturo Mathile :$$bde profesión fotógrafo /$$cHilda de Brandi.
+001674851 504   L $$aBibliografía: p. 84.
+001674851 5050  L $$aEl padre Julio -- El hijo Arturo -- Viaje al país de los araucanos -- Su trayectoria en Chascomús.
+001674851 60014 L $$aMathile, Arturo,$$d1858-1907
+001674851 650 4 L $$aFotógrafos argentinos$$xHistoria
+001674851 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 79-84$$w(AR-BaBN)001314547
+001674851 LKR   L $$aDN$$b001314547$$lBNA01$$mArturo Mathile : de profesión fotógrafo / Hilda de Brandi$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 79-84
+001674851 OWN   L $$aCAT_FOTO
+001674851 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1636
+001674851 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1829
+001674851 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001674857 FMT   L BK
+001674857 LDR   L 00000naa^a22^^^^^^a^4500
+001674857 001   L 001674857
+001674857 005   L 20260917154652.0
+001674857 007   L ta
+001674857 008   L 260915s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674857 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674857 043   L $$as-ag---
+001674857 1001  L $$aDelgado, Carmen$$eautora$$4aut
+001674857 24510 L $$aColección Chiavazza :$$bJoaquín Chiavazza 1892-1976 /$$cCarmen Delgado, Enzo Parodi, Carlos Raggi.
+001674857 60014 L $$aChiavazza, Joaquín,$$d1892-1976
+001674857 7001  L $$aParodi, Enzo$$eautor$$4aut
+001674857 7001  L $$aRaggi, Carlos$$eautor$$4aut
+001674857 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 91-94$$w(AR-BaBN)001314547
+001674857 LKR   L $$aDN$$b001314547$$lBNA01$$mColección Chiavazza : Joaquín Chiavazza 1892-1976 / Carmen Delgado, Enzo Parodi, Carlos Raggi$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 91-94
+001674857 OWN   L $$aCAT_FOTO
+001674857 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1655
+001674857 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1828
+001674857 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001674857 CAT   L $$aFORTIZ$$b20$$c20260917$$lBNA01$$h1546
+001675025 FMT   L BK
+001675025 LDR   L 00000naa^a22^^^^^^a^4500
+001675025 001   L 001675025
+001675025 005   L 20260916182848.0
+001675025 007   L ta
+001675025 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675025 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675025 043   L $$as-ag---
+001675025 1001  L $$aDócola, Silvia Alicia$$eautora$$4aut
+001675025 24510 L $$aFotografía y ciudad, Alfeld y Rosario en 1866 /$$cSilvia Alicia Dócola.
+001675025 504   L $$aBibliografía: p. 159.
+001675025 60014 L $$aAlfeld, George Heinrich,$$d1834-?
+001675025 651 4 L $$aRosario (Santa Fe)$$xHistoria
+001675025 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 155-159$$w(AR-BaBN)001314547
+001675025 LKR   L $$aDN$$b001314547$$lBNA01$$mFotografía y ciudad, Alfeld y Rosario en 1866 / Silvia Alicia Dócola$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 155-159
+001675025 OWN   L $$aCAT_FOTO
+001675025 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1700
+001675025 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1828
+001674854 FMT   L BK
+001674854 LDR   L 00000naa^a22^^^^^^a^4500
+001674854 001   L 001674854
+001674854 005   L 20260916182841.0
+001674854 007   L ta
+001674854 008   L 260915s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001674854 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674854 043   L $$ae-uk-wl$$as-ag---
+001674854 1001  L $$aDodd, Stella Maris$$eautora$$4aut
+001674854 24510 L $$aHenry E. Bowman :$$bun fotógrafo del Chubut /$$cStella Maris Dodd.
+001674854 60014 L $$aBowman, Henry Edward,$$d1865-1956
+001674854 650 4 L $$aInmigrantes galeses$$zChubut (Provincia)$$xHistoria
+001674854 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 85-87$$w(AR-BaBN)001314547
+001674854 LKR   L $$aDN$$b001314547$$lBNA01$$mHenry E. Bowman : un fotógrafo del Chubut / Stella Maris Dodd$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 85-87
+001674854 OWN   L $$aCAT_FOTO
+001674854 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1646
+001674854 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1646
+001674854 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1828
+001674734 FMT   L BK
+001674734 LDR   L 00000naa^a22^^^^^^a^4500
+001674734 001   L 001674734
+001674734 005   L 20260916184205.0
+001674734 007   L ta
+001674734 008   L 260914s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001674734 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674734 1001  L $$aDorronsoro, Josune,$$d1946-1995$$eautora$$4aut
+001674734 24510 L $$aDel "iluminado" al color en la fotografía :$$bapuntes para una historia de la fotografía en color en América Latina /$$cJosune Dorronsoro.
+001674734 504   L $$aBibliografía: p. 53.
+001674734 5050  L $$aEl "iluminado" de la fotografía: un siglo de historia -- Los inicios: imágenes exquisitas, naturales, elitescas -- Uso masivo del iluminado.
+001674734 650 4 L $$aFotografía$$xColoreado$$xHistoria
+001674734 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 49-53$$w(AR-BaBN)001314547
+001674734 LKR   L $$aDN$$b001314547$$lBNA01$$mDel "iluminado" al color en la fotografía : apuntes para una historia de la fotografía en color en América Latina / Josune Dorronsoro$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 49-53
+001674734 OWN   L $$aCAT_FOTO
+001674734 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1800
+001674734 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1828
+001674734 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1842
+001674850 FMT   L BK
+001674850 LDR   L 00000naa^a22^^^^^^a^4500
+001674850 001   L 001674850
+001674850 005   L 20260916182827.0
+001674850 007   L ta
+001674850 008   L 260915s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001674850 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674850 043   L $$as-ag---
+001674850 1001  L $$aEpifanio, Haydée$$eautora$$4aut
+001674850 24510 L $$aVida y "milagros" de Samuel y Arturo Wood Boote /$$cHaydée Epifanio.
+001674850 504   L $$aBibliografía: p. 77-78.
+001674850 5050  L $$aLos Boote en Inglaterra -- Los Boote en el Río de la Plata (1836-1855) -- Los Boote en Chascomús y Ajó (1856-1873) -- Samuel Boote: comerciante y fotógrafo -- Samuel Boote: fotógrafo y estanciero -- Arturo Wood Boote -- Conclusiones.
+001674850 60014 L $$aBoote, Samuel,$$d1844-1921
+001674850 60014 L $$aWood Boote, Arturo,$$d1861-1936
+001674850 650 4 L $$aFotógrafos argentinos$$xHistoria
+001674850 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 73-78$$w(AR-BaBN)001314547
+001674850 LKR   L $$aDN$$b001314547$$lBNA01$$mVida y "milagros" de Samuel y Arturo Wood Boote / Haydée Epifanio$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 73-78
+001674850 OWN   L $$aCAT_FOTO
+001674850 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1631
+001674850 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1828
+001675041 FMT   L BK
+001675041 LDR   L 00000naa^a22^^^^^^a^4500
+001675041 001   L 001675041
+001675041 005   L 20260916184157.0
+001675041 007   L ta
+001675041 008   L 260916s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001675041 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675041 043   L $$as-ag---
+001675041 1001  L $$aFaure, Patricia$$eautora$$4aut
+001675041 24510 L $$aSobre el estado actual del coleccionismo privado en el país /$$cPatricia Faure.
+001675041 5050  L $$aIntroducción -- Primeros coleccionistas, el origen -- El desarrollo. Hitos del coleccionismo fotográfico antiguo en los últimos años -- Coleccionistas privados actuales. El perfil como se definen -- Qué coleccionan -- Cómo se iniciaron en el coleccionismo -- El porvenir.
+001675041 650 4 L $$aColecciones de fotografías$$zArgentina
+001675041 650 4 L $$aColeccionistas y colecciones$$zArgentina
+001675041 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 193-196$$w(AR-BaBN)001314547
+001675041 LKR   L $$aDN$$b001314547$$lBNA01$$mSobre el estado actual del coleccionismo privado en el país / Patricia Faure$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 193-196
+001675041 OWN   L $$aCAT_FOTO
+001675041 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1753
+001675041 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1828
+001675041 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001675003 FMT   L BK
+001675003 LDR   L 00000naa^a22^^^^^^a^4500
+001675003 001   L 001675003
+001675003 005   L 20260916184135.0
+001675003 007   L ta
+001675003 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675003 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675003 1001  L $$aFerrari, Roberto A.$$eautor$$4aut
+001675003 24513 L $$aLa Exposición Internacional de Ferrocarriles y Transportes Terrestres, 1910 /$$cRoberto A. Ferrari.
+001675003 504   L $$aBibliografía: p. 112.
+001675003 61124 L $$aExposición Internacional del Centenario$$d(1910 :$$cBuenos Aires)
+001675003 61124 L $$aExposición Internacional de Ferrocarriles y Transportes Terrestres$$d(1910 :$$cBuenos Aires)
+001675003 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 109-112$$w(AR-BaBN)001314547
+001675003 LKR   L $$aDN$$b001314547$$lBNA01$$mLa Exposición Internacional de Ferrocarriles y Transportes Terrestres, 1910 / Roberto A. Ferrari$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 109-112
+001675003 OWN   L $$aCAT_FOTO
+001675003 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1552
+001675003 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1828
+001675003 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001674723 FMT   L BK
+001674723 LDR   L 00000naa^a22^^^^^^a^4500
+001674723 001   L 001674723
+001674723 005   L 20260916182804.0
+001674723 007   L ta
+001674723 008   L 260914s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674723 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674723 043   L $$as-ag---
+001674723 1001  L $$aGesualdo, Vicente,$$d1922-1999$$eautor$$4aut
+001674723 24513 L $$aUn daguerrotipo del Combate de la Vuelta de Obligado, 1845 /$$cVicente Gesualdo.
+001674723 60014 L $$aOuseley, William Gore,$$d1797-1866
+001674723 650 4 L $$aBatalla de la Vuelta de Obligado, 1845
+001674723 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 29-31$$w(AR-BaBN)001314547
+001674723 LKR   L $$aDN$$b001314547$$lBNA01$$mUn daguerrotipo del Combate de la Vuelta de Obligado, 1845 / Vicente Gesualdo$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 29-31
+001674723 OWN   L $$aCAT_FOTO
+001674723 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1724
+001674723 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1724
+001674723 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1725
+001674723 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1828
+001674848 FMT   L BK
+001674848 LDR   L 00000naa^a22^^^^^^a^4500
+001674848 001   L 001674848
+001674848 005   L 20260916182756.0
+001674848 007   L ta
+001674848 008   L 260915s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001674848 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674848 043   L $$as-ag---
+001674848 1001  L $$aGómez, Juan,$$d1932-2018$$eautor$$4aut
+001674848 24510 L $$aAlberto Meuriot, fotógrafo y fundador pampeano /$$cJuan Gómez.
+001674848 504   L $$aBibliografía: p. 72.
+001674848 5050  L $$aIntroducción -- La historia comienza en Rosario -- Ahora continúa en Buenos Aires -- Su larga permanencia en Villa Mercedes -- Meuriot en Buenos Aires.
+001674848 60014 L $$aMeuriot, Alberto,$$d1858-ca. 1936
+001674848 650 4 L $$aFotógrafos argentinos$$xHistoria
+001674848 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 67-72$$w(AR-BaBN)001314547
+001674848 LKR   L $$aDN$$b001314547$$lBNA01$$mAlberto Meuriot, fotógrafo y fundador pampeano / Juan Gómez$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 67-72
+001674848 OWN   L $$aCAT_FOTO
+001674848 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1623
+001674848 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1827
+001675043 FMT   L BK
+001675043 LDR   L 00000naa^a22^^^^^^a^4500
+001675043 001   L 001675043
+001675043 005   L 20260916182749.0
+001675043 007   L ta
+001675043 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675043 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675043 1001  L $$aGonzález de Welschen, Graciela N.$$eautora$$4aut
+001675043 24513 L $$aLa selección de las fotografías como documentos para la investigación /$$cGraciela N. González de Welschen.
+001675043 504   L $$aBibliografía: p. 202.
+001675043 5050  L $$aIntroducción -- La selección de los "News Media" -- Las técnicas de selección y los documentos de imagen -- 1. Selección por series -- 2. Selección por antigüedad -- 3. Técnica del muestreo y los especímenes -- 3.1. Método del ejemplar o testigo -- 3.2. Muestreo cualitativo o selectivo -- 3.3. Muestreo sistemático o al azar -- Conclusión.
+001675043 650 4 L $$aMateriales de archivo
+001675043 650 4 L $$aFotografía$$xClasificación
+001675043 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 197-202$$w(AR-BaBN)001314547
+001675043 LKR   L $$aDN$$b001314547$$lBNA01$$mLa selección de las fotografías como documentos para la investigación / Graciela N. González de Welschen$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 197-202
+001675043 OWN   L $$aCAT_FOTO
+001675043 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1804
+001675043 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1805
+001675043 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1827
+001675008 FMT   L BK
+001675008 LDR   L 00000naa^a22^^^^^^a^4500
+001675008 001   L 001675008
+001675008 005   L 20260916182742.0
+001675008 007   L ta
+001675008 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675008 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675008 043   L $$as-ag---
+001675008 1001  L $$aLugo, Sergio$$eautor$$4aut
+001675008 24510 L $$aÁlbum fotográfico del viejo hospital Argerich /$$cSergio Lugo.
+001675008 504   L $$aBibliografía: p. 120.
+001675008 61024 L $$aHospital General de Agudos Dr. Cosme Argerich$$xHistoria
+001675008 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 117-120$$w(AR-BaBN)001314547
+001675008 LKR   L $$aDN$$b001314547$$lBNA01$$mÁlbum fotográfico del viejo hospital Argerich / Sergio Lugo$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 117-120
+001675008 OWN   L $$aCAT_FOTO
+001675008 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1600
+001675008 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1827
+001674730 FMT   L BK
+001674730 LDR   L 00000naa^a22^^^^^^a^4500
+001674730 001   L 001674730
+001674730 005   L 20260916182735.0
+001674730 007   L ta
+001674730 008   L 260914s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001674730 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674730 1001  L $$aLuna, Nitza,$$d1959-$$eautora$$4aut
+001674730 24510 L $$aAntiguos procesos fotográficos /$$cNitza Luna.
+001674730 5050  L $$aCianotipo -- Equipo -- Papeles -- Negativos -- Sensibilizador -- Intensificador -- Control de contraste -- Procedimiento -- Compañías que suplen los materiales -- Precaución -- Platinotipo -- Equipo -- Papeles -- Negativos -- Sensibilizador -- Mezcla del sensibilizador para control del contraste -- Revelador -- Baño de limpieza -- Procedimiento -- Compañías que suplen materiales -- Precaución.
+001674730 650 4 L $$aCianotipos$$xTécnicas
+001674730 650 4 L $$aCopias al platino$$xTécnicas
+001674730 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 43-48$$w(AR-BaBN)001314547
+001674730 LKR   L $$aDN$$b001314547$$lBNA01$$mAntiguos procesos fotográficos / Nitza Luna$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 43-48
+001674730 OWN   L $$aCAT_FOTO
+001674730 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1742
+001674730 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1746
+001674730 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1827
+001675024 FMT   L BK
+001675024 LDR   L 00000naa^a22^^^^^^a^4500
+001675024 001   L 001675024
+001675024 005   L 20260916182727.0
+001675024 007   L ta
+001675024 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675024 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675024 043   L $$as-ag---
+001675024 1001  L $$aLuqui-Lagleyze, Julio Mario,$$d1959-$$eautor$$4aut
+001675024 24510 L $$aApuntes sobre la fotografía naval, 1840-1900 /$$cJulio M. Luqui-Lagleyze.
+001675024 504   L $$aBibliografía: p. 154.
+001675024 5050  L $$aIntroducción -- 1840-1860, daguerrotipos de la Vuelta de Obligado -- Daguerrotipos del almirante Brown -- Daguerrotipos navales -- La Guerra del Paraguay, 1865-1870 -- El álbum del bombardeo de Paysandú -- La conquista del desierto y la exploración naval, Patagonia 1870-1890 -- Don Luis Piedrabuena -- La expedición Py -- La expedición de 1879 -- Las subdelegaciones de Marina 1880/1900 -- Expediciones fluviales de fines del siglo -- El fin del siglo (1890-1900) -- La Escuela Naval Militar de fines del siglo en álbumes fotográficos -- La construcción del Puerto Militar registrada paso a paso -- Los conscriptos navales del fin del siglo en un álbum -- La escuadra argentina de fines del siglo retratada para la posteridad.
+001675024 650 4 L $$aFotografía$$zArgentina$$xHistoria
+001675024 651 4 L $$aArgentina$$xHistoria naval
+001675024 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 149-154$$w(AR-BaBN)001314547
+001675024 LKR   L $$aDN$$b001314547$$lBNA01$$mApuntes sobre la fotografía naval, 1840-1900 / Julio M. Luqui-Lagleyze$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 149-154
+001675024 OWN   L $$aCAT_FOTO
+001675024 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1654
+001675024 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1654
+001675024 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1827
+001675002 FMT   L BK
+001675002 LDR   L 00000naa^a22^^^^^^a^4500
+001675002 001   L 001675002
+001675002 005   L 20260916184154.0
+001675002 007   L ta
+001675002 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675002 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675002 043   L $$as-ag---
+001675002 1001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001675002 24513 L $$aEl apogeo del Ferro Carril Oeste, testimoniado por Samuel Boote /$$cLic. Eduardo L. Marcet.
+001675002 504   L $$aBibliografía: p. 108.
+001675002 5050  L $$aIntroducción -- Descripción del álbum -- El Ferrocarril Oeste en el período 1857-1880 -- La Plata, una "Nueva Buenos Aires" -- El desarrollo del Ferrocarril Oeste en la década de 1880 -- La venta del Ferrocarril Oeste -- Conclusión.
+001675002 60014 L $$aBoote, Samuel,$$d1844-1921
+001675002 61024 L $$aFerrocarril al Oeste de Buenos Aires$$xHistoria
+001675002 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 103-108$$w(AR-BaBN)001314547
+001675002 LKR   L $$aDN$$b001314547$$lBNA01$$mEl apogeo del Ferro Carril Oeste, testimoniado por Samuel Boote / Lic. Eduardo L. Marcet$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 103-108
+001675002 OWN   L $$aCAT_FOTO
+001675002 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1543
+001675002 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1827
+001675002 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001675036 FMT   L BK
+001675036 LDR   L 00000naa^a22^^^^^^a^4500
+001675036 001   L 001675036
+001675036 005   L 20260916182638.0
+001675036 007   L ta
+001675036 008   L 260916s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001675036 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675036 043   L $$as-ag---
+001675036 1001  L $$aMirande Lamedica, Gabriela$$eautora$$4aut
+001675036 24513 L $$aLa fotografía, un bien museológico, proyecto de rescate en el Museo Mitre /$$cGabriela Mirande Lamedica.
+001675036 504   L $$aBibliografía: p. 186.
+001675036 61024 L $$aMuseo Mitre (Argentina)$$xColecciones de fotografías
+001675036 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 183-186$$w(AR-BaBN)001314547
+001675036 LKR   L $$aDN$$b001314547$$lBNA01$$mLa fotografía, un bien museológico, proyecto de rescate en el Museo Mitre / Gabriela Mirande Lamedica$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 183-186
+001675036 OWN   L $$aCAT_FOTO
+001675036 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1740
+001675036 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1826
+001675027 FMT   L BK
+001675027 LDR   L 00000naa^a22^^^^^^a^4500
+001675027 001   L 001675027
+001675027 005   L 20260916182630.0
+001675027 007   L ta
+001675027 008   L 260916s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001675027 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675027 043   L $$as-ag---
+001675027 1001  L $$aPampinella, Silvia$$eautora$$4aut
+001675027 24514 L $$aLas imágenes fotográficas en la construcción de representaciones de la ciudad. Casos de Rosario entre 1880 y 1910 /$$cSilvia Pampinella.
+001675027 650 4 L $$aFotografía$$zArgentina$$xHistoria
+001675027 651 4 L $$aRosario (Santa Fe)$$xHistoria
+001675027 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 161-164$$w(AR-BaBN)001314547
+001675027 LKR   L $$aDN$$b001314547$$lBNA01$$mLas imágenes fotográficas en la construcción de representaciones de la ciudad. Casos de Rosario entre 1880 y 1910 / Silvia Pampinella$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 161-164
+001675027 OWN   L $$aCAT_FOTO
+001675027 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1703
+001675027 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1826
+001674864 FMT   L BK
+001674864 LDR   L 00000naa^a22^^^^^^a^4500
+001674864 001   L 001674864
+001674864 005   L 20260916182622.0
+001674864 007   L ta
+001674864 008   L 260915s1995^^^^ag^^^^^grb^^^^000^0^spa^^
+001674864 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674864 043   L $$as-ag---
+001674864 1001  L $$aPérez Bayo, Antonia$$eautora$$4aut
+001674864 24510 L $$aVistas de San Juan en el siglo XIX. Álbum de Christiano Junior /$$cAntonia Pérez Bayo.
+001674864 5050  L $$aJosé Christiano de Freitas Henriquez Junior (1832-1902) -- Christiano Junior vende su estudio -- Antecedentes de su visita a la provincia de San Juan -- Antecedentes de la fotografía como documento -- San Juan de la Frontera -- Desiderio Aguiar (1832-1896) -- La ciudad de San Juan en el siglo XIX -- Itinerario de Christiano Junior -- Descripción del álbum -- Un fotógrafo confirma a un pintor.
+001674864 60004 L $$aChristiano Junior,$$d1832-1902
+001674864 651 4 L $$aSan Juan (Provincia)$$xHistoria$$ySiglo XIX
+001674864 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 99-102$$w(AR-BaBN)001314547
+001674864 LKR   L $$aDN$$b001314547$$lBNA01$$mVistas de San Juan en el siglo XIX. Álbum de Christiano Junior / Antonia Pérez Bayo$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 99-102
+001674864 OWN   L $$aCAT_FOTO
+001674864 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1717
+001674864 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1826
+001675022 FMT   L BK
+001675022 LDR   L 00000naa^a22^^^^^^a^4500
+001675022 001   L 001675022
+001675022 005   L 20260916184146.0
+001675022 007   L ta
+001675022 008   L 260916s1995^^^^ag^o^^^grb^^^^000^0^spa^^
+001675022 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675022 043   L $$as-ag---
+001675022 1001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+001675022 24510 L $$aSobre la fotografía de difuntos en los medios de comunicación /$$cLuis Priamo.
+001675022 504   L $$aBibliografía: p. 147.
+001675022 5050  L $$aIntroducción -- La muerte en los medios y en el orden familiar -- Primeras fotos de difuntos en los medios -- Los casos de Sarmiento y Mitre -- Caras y Caretas y Así -- Nueva forma del tabú de la muerte -- Estética y fotografía de muertos.
+001675022 650 4 L $$aFotografía post mórtem$$zArgentina$$xHistoria
+001675022 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 141-147$$w(AR-BaBN)001314547
+001675022 LKR   L $$aDN$$b001314547$$lBNA01$$mSobre la fotografía de difuntos en los medios de comunicación / Luis Priamo$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 141-147
+001675022 OWN   L $$aCAT_FOTO
+001675022 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1637
+001675022 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1826
+001675022 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001674840 FMT   L BK
+001674840 LDR   L 00000naa^a22^^^^^^a^4500
+001674840 001   L 001674840
+001674840 005   L 20260916182558.0
+001674840 007   L ta
+001674840 008   L 260915s1995^^^^ag^a^^^grb^^^^000^0^spa^^
+001674840 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674840 1001  L $$aRiego, Bernardo,$$d1955-$$eautor$$4aut
+001674840 24513 L $$aEl fotomatón :$$bla fotografía sin autor /$$cBernardo Riego.
+001674840 504   L $$aBibliografía: p. 58.
+001674840 650 4 L $$aFotomatón$$xHistoria
+001674840 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 55-58$$w(AR-BaBN)001314547
+001674840 LKR   L $$aDN$$b001314547$$lBNA01$$mEl fotomatón : la fotografía sin autor / Bernardo Riego$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 55-58
+001674840 OWN   L $$aCAT_FOTO
+001674840 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1557
+001674840 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1558
+001674840 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1558
+001674840 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1825
+001674707 FMT   L BK
+001674707 LDR   L 00000naa^a22^^^^^^a^4500
+001674707 001   L 001674707
+001674707 005   L 20260916182550.0
+001674707 007   L ta
+001674707 008   L 260914s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
+001674707 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674707 0411  L $$aspa$$heng
+001674707 1001  L $$aRomer, Grant$$eautor$$4aut
+001674707 24510 L $$aDaguerrotipos eróticos /$$cGrant Romer, traducción del inglés Carlos Vertanessian.
+001674707 5050  L $$aSensación de realidad -- Imágenes anónimas.
+001674707 650 4 L $$aFotografía erótica$$xHistoria
+001674707 650 4 L $$aDaguerrotipo$$xHistoria
+001674707 7001  L $$aVertanessian, Carlos G.,$$d1959-$$etraductor$$4trl
+001674707 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 7-16$$w(AR-BaBN)001314547
+001674707 LKR   L $$aDN$$b001314547$$lBNA01$$mDaguerrotipos eróticos / Grant Romer, traducción del inglés Carlos Vertanessian$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 7-16
+001674707 OWN   L $$aCAT_FOTO
+001674707 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1549
+001674707 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1551
+001674707 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1556
+001674707 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1725
+001674707 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1825
+001674726 FMT   L BK
+001674726 LDR   L 00000naa^a22^^^^^^a^4500
+001674726 001   L 001674726
+001674726 005   L 20260916182542.0
+001674726 007   L ta
+001674726 008   L 260914s1995^^^^ag^a^^^grb^^^^000^0^spa^^
+001674726 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001674726 1001  L $$aSimone, Claudio Roberto$$eautor$$4aut
+001674726 24513 L $$aLa restauración óptica de daguerrotipos /$$cClaudio Roberto Simone.
+001674726 504   L $$aBibliografía: p. 42.
+001674726 5050  L $$aIntroducción -- El daguerrotipo: breve descripción -- Dificultades -- Técnica en pequeño formato y formato medio -- La técnica en formato grande -- Ventajas -- Inconvenientes -- Equipo necesario -- Disposición del equipo -- Cálculos de la exposición.
+001674726 650 4 L $$aDaguerrotipo$$xReproducción (Copia)
+001674726 650 4 L $$aFotografía$$xTécnicas
+001674726 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 37-42$$w(AR-BaBN)001314547
+001674726 LKR   L $$aDN$$b001314547$$lBNA01$$mLa restauración óptica de daguerrotipos / Claudio Roberto Simone$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 37-42
+001674726 OWN   L $$aCAT_FOTO
+001674726 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1734
+001674726 CAT   L $$aFORTIZ$$b20$$c20260914$$lBNA01$$h1735
+001674726 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1825
+001675021 FMT   L BK
+001675021 LDR   L 00000naa^a22^^^^^^a^4500
+001675021 001   L 001675021
+001675021 005   L 20260916182413.0
+001675021 007   L ta
+001675021 008   L 260916s1995^^^^ag^^^^^gr^^^^^000^0^spa^^
+001675021 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001675021 043   L $$as-ag---
+001675021 1001  L $$aVirto, Enrique C.,$$d1938-$$eautor$$4aut
+001675021 24510 L $$aAntiguas fotografías del Salto Argentino /$$cEnrique César Virto.
+001675021 5050  L $$aPioneros de la fotografía local -- Félix Torrens (1878) -- Francisco Castillo (1889) -- Aquilino Fernández (1890?) -- Placas de vidrio (Anónimo 1895) -- Eleuterio Lomba (1899) -- Claudio Leopoldo Lowter -- Lowter en Salto -- Alberto Alexander (1905) -- Valentín E. Valls (1903 y 1907) -- Otros fotógrafos de esporádica visita -- Carlos J. Gil -- José P. Gil (1910) -- Manuel Padin (1911) -- Jesús de Fradua (1920) -- Oscar Andrés Timini (1933).
+001675021 650 4 L $$aFotógrafos argentinos$$xHistoria
+001675021 651 4 L $$aSalto [Buenos Aires (Provincia)]$$xHistoria
+001675021 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 137-140$$w(AR-BaBN)001314547
+001675021 LKR   L $$aDN$$b001314547$$lBNA01$$mAntiguas fotografías del Salto Argentino / Enrique César Virto$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 137-140
+001675021 OWN   L $$aCAT_FOTO
+001675021 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1632
+001675021 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1824
