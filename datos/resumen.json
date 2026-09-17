@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-09-17T20:20:02+00:00",
+  "sourceFile": "pezsalida(6)",
+  "totalRecords": 110,
+  "analytics": 107,
+  "hostRecords": 3,
+  "congresses": {
+    "1": 28,
+    "2": 38,
+    "3": 41
+  },
+  "subjectFieldOccurrences": {
+    "600": 50,
+    "610": 11,
+    "611": 3,
+    "630": 1,
+    "650": 102,
+    "651": 14,
+    "655": 3
+  },
+  "warnings": {
+    "sin_autor": [],
+    "sin_materias": [],
+    "sin_congreso_identificado": []
+  }
+}
