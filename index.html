@@ -7,201 +7,47 @@
 <title>Congresos de Historia de la Fotografía</title>
 <style>
 :root{--bg:#f4f2ed;--paper:#fff;--ink:#252525;--muted:#6b6a66;--line:#d9d5cc;--accent:#7c2f31;--accent2:#efe3df;--tag:#edf0ee;--shadow:0 2px 12px rgba(0,0,0,.055)}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.45}
-header{background:#262624;color:#fff;padding:24px 18px 22px}
-.wrap{max-width:1040px;margin:0 auto}
-h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.08;font-weight:500;margin:0}
-.controls{background:var(--paper);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10;box-shadow:0 2px 10px rgba(0,0,0,.04)}
-.controls .wrap{padding:14px 18px}
-.searchrow{display:flex;gap:10px;align-items:center}
-#q{width:100%;font-size:1.08rem;padding:13px 15px;border:1px solid #aaa69e;border-radius:8px;background:#fff;color:var(--ink);outline:none}
-#q:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(124,47,49,.12)}
-button{font:inherit}
-.filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
-.filter,.viewbtn{border:1px solid var(--line);background:#fff;padding:8px 12px;border-radius:999px;cursor:pointer;color:#333}
-.filter.active,.viewbtn.active{background:var(--accent);border-color:var(--accent);color:#fff}
-.main{padding:26px 18px 60px}
-.toolbar{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:18px}
-#count{font-weight:650}
-.views{display:flex;gap:7px;flex-wrap:wrap}
-.card{background:var(--paper);border:1px solid var(--line);border-radius:11px;margin:0 0 13px;padding:18px 19px;box-shadow:var(--shadow)}
-.card h2{font-family:Georgia,"Times New Roman",serif;font-weight:600;font-size:1.34rem;line-height:1.25;margin:0 0 5px}
-.authors{font-size:1rem;margin-bottom:9px}
-.meta{color:var(--muted);font-size:.91rem;margin:8px 0}
-.tags{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
-.tag{border:0;background:var(--tag);border-radius:999px;padding:5px 9px;cursor:pointer;font-size:.82rem;text-align:left;color:#39403c}
-.tag:hover{background:#dde4df}
-.catalogbtn{display:inline-flex;align-items:center;gap:6px;margin:2px 0 4px;padding:7px 11px;border:1px solid var(--accent);border-radius:7px;color:var(--accent);text-decoration:none;font-size:.86rem;font-weight:650;background:#fff}
-.catalogbtn:hover{background:var(--accent2)}
-details{margin-top:11px;border-top:1px solid #ece9e3;padding-top:9px}
-summary{cursor:pointer;color:var(--accent);font-weight:650;user-select:none}
-.detailgrid{margin-top:10px;font-size:.93rem}
-.detailgrid p{margin:7px 0}
-.label{font-weight:700}
-.indexbox{background:#fff;border:1px solid var(--line);border-radius:11px;overflow:hidden}
-.indexitem{border-bottom:1px solid #ece9e3}
-.indexitem:last-child{border-bottom:0}
-.indexitem button{display:flex;width:100%;justify-content:space-between;gap:15px;border:0;background:#fff;text-align:left;padding:12px 15px;cursor:pointer;color:var(--ink)}
-.indexitem button:hover{background:#f8f7f3}
-.badge{white-space:nowrap;color:var(--muted)}
-.empty{background:#fff;border:1px dashed #bbb6ac;padding:30px;border-radius:10px;text-align:center;color:var(--muted)}
-.help{font-size:.85rem;color:var(--muted);margin-top:8px}
-footer{border-top:1px solid var(--line);padding:22px 18px 40px;color:var(--muted);font-size:.86rem}
-mark{background:#f4ddb2;padding:0 .08em}
-@media(max-width:650px){header{padding-top:26px}.controls{position:static}.card{padding:15px}.views{width:100%}.viewbtn{flex:1}}
-@media print{.controls,.views,.help,footer{display:none!important}body{background:#fff}.card{box-shadow:none;break-inside:avoid}}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.45}
+header{background:#262624;color:#fff;padding:24px 18px 22px}.wrap{max-width:1040px;margin:0 auto}h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.08;font-weight:500;margin:0}
+.controls{background:var(--paper);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10;box-shadow:0 2px 10px rgba(0,0,0,.04)}.controls .wrap{padding:14px 18px}.searchrow{display:flex;gap:10px;align-items:center}
+#q{width:100%;font-size:1.08rem;padding:13px 15px;border:1px solid #aaa69e;border-radius:8px;background:#fff;color:var(--ink);outline:none}#q:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(124,47,49,.12)}button{font:inherit}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filter,.viewbtn{border:1px solid var(--line);background:#fff;padding:8px 12px;border-radius:999px;cursor:pointer;color:#333}.filter.active,.viewbtn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.main{padding:26px 18px 60px}.toolbar{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:18px}#count{font-weight:650}.views{display:flex;gap:7px;flex-wrap:wrap}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:11px;margin:0 0 13px;padding:18px 19px;box-shadow:var(--shadow)}.card h2{font-family:Georgia,"Times New Roman",serif;font-weight:600;font-size:1.34rem;line-height:1.25;margin:0 0 5px}.authors{font-size:1rem;margin-bottom:9px}.meta{color:var(--muted);font-size:.91rem;margin:8px 0}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}.tag{border:0;background:var(--tag);border-radius:999px;padding:5px 9px;cursor:pointer;font-size:.82rem;text-align:left;color:#39403c}.tag:hover{background:#dde4df}
+.catalogbtn{display:inline-flex;align-items:center;gap:6px;margin:2px 0 4px;padding:7px 11px;border:1px solid var(--accent);border-radius:7px;color:var(--accent);text-decoration:none;font-size:.86rem;font-weight:650;background:#fff}.catalogbtn:hover{background:var(--accent2)}
+details{margin-top:11px;border-top:1px solid #ece9e3;padding-top:9px}summary{cursor:pointer;color:var(--accent);font-weight:650;user-select:none}.detailgrid{margin-top:10px;font-size:.93rem}.detailgrid p{margin:7px 0}.label{font-weight:700}
+.indexbox{background:#fff;border:1px solid var(--line);border-radius:11px;overflow:hidden}.indexitem{border-bottom:1px solid #ece9e3}.indexitem:last-child{border-bottom:0}.indexitem button{display:flex;width:100%;justify-content:space-between;gap:15px;border:0;background:#fff;text-align:left;padding:12px 15px;cursor:pointer;color:var(--ink)}.indexitem button:hover{background:#f8f7f3}.badge{white-space:nowrap;color:var(--muted)}
+.empty{background:#fff;border:1px dashed #bbb6ac;padding:30px;border-radius:10px;text-align:center;color:var(--muted)}.help{font-size:.85rem;color:var(--muted);margin-top:8px}footer{border-top:1px solid var(--line);padding:22px 18px 40px;color:var(--muted);font-size:.86rem}
+@media(max-width:650px){header{padding-top:26px}.controls{position:static}.card{padding:15px}.views{width:100%}.viewbtn{flex:1}}@media print{.controls,.views,.help,footer{display:none!important}body{background:#fff}.card{box-shadow:none;break-inside:avoid}}
 </style>
 </head>
 <body>
-<header><div class="wrap">
-<h1>Congresos de Historia de la Fotografía</h1>
-</div></header>
-<div class="controls"><div class="wrap">
-<div class="searchrow"><input id="q" type="search" autocomplete="off" placeholder="Buscar por autor, título o tema…" aria-label="Buscar ponencias"></div>
-<div class="filters" id="filters">
-<button class="filter active" data-c="all">Todos · 107</button>
-<button class="filter" data-c="1">1.º Congreso · 28</button>
-<button class="filter" data-c="2">2.º Congreso · 38</button>
-<button class="filter" data-c="3">3.º Congreso · 41</button>
-</div>
-</div></div>
-<main class="main wrap">
-<div class="toolbar">
-<div><span id="count"></span><div class="help" id="hint">Podés tocar cualquier materia para ver ponencias relacionadas.</div></div>
-<div class="views" aria-label="Modo de consulta">
-<button class="viewbtn active" data-v="records">Ponencias</button>
-<button class="viewbtn" data-v="authors">Autores</button>
-<button class="viewbtn" data-v="subjects">Temas</button>
-</div>
-</div>
-<section id="results" aria-live="polite"></section>
-</main>
+<header><div class="wrap"><h1>Congresos de Historia de la Fotografía</h1></div></header>
+<div class="controls"><div class="wrap"><div class="searchrow"><input id="q" type="search" autocomplete="off" placeholder="Buscar por autor, título o tema…" aria-label="Buscar ponencias"></div><div class="filters" id="filters"><button class="filter active" data-c="all">Todos · 107</button><button class="filter" data-c="1">1.º Congreso · 28</button><button class="filter" data-c="2">2.º Congreso · 38</button><button class="filter" data-c="3">3.º Congreso · 41</button></div></div></div>
+<main class="main wrap"><div class="toolbar"><div><span id="count"></span><div class="help" id="hint">Podés tocar cualquier materia para ver ponencias relacionadas.</div></div><div class="views" aria-label="Modo de consulta"><button class="viewbtn active" data-v="records">Ponencias</button><button class="viewbtn" data-v="authors">Autores</button><button class="viewbtn" data-v="subjects">Temas</button></div></div><section id="results" aria-live="polite"></section></main>
 <footer><div class="wrap">Fuente: ponencias catalogadas de los Congresos de Historia de la Fotografía. La presentación conserva autores, títulos, materias, notas de contenido, bibliografía, congreso y paginación presentes en los registros.</div></footer>
-
-<script>window.DATA=[];</script>
-<script src="data1.js"></script>
-<script src="data2.js"></script>
-<script src="data3.js"></script>
-<script src="data4.js"></script>
-<script src="data5.js"></script>
+<script>window.DATA=[];</script><script src="data1.js"></script><script src="data2.js"></script><script src="data3.js"></script><script src="data4.js"></script><script src="data5.js"></script>
 <script>
 const DATA=window.DATA;
-let congress='all', view='records', selection=null;
-const q=document.getElementById('q'), results=document.getElementById('results'), count=document.getElementById('count'), hint=document.getElementById('hint');
-const esc=s=>String(s??'').replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]));
+let congress='all',view='records',selection=null;
+const q=document.getElementById('q'),results=document.getElementById('results'),count=document.getElementById('count'),hint=document.getElementById('hint');
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 const bnUrl=id=>`https://catalogo.bn.gov.ar/F/?func=direct&doc_number=${String(id).padStart(9,'0')}&local_base=GENER`;
-
-function searchRows(term){
- const t=norm(term);
- if(!t)return DATA;
- return DATA.filter(r=>norm([r.title,r.statement,...r.authors,...r.subjects,...r.contents,...r.alternateTitles,r.congress,r.pages].join(' ')).includes(t));
-}
-function recordRows(){
- if(selection){
-  if(selection.kind==='authors') return DATA.filter(r=>r.authors.includes(selection.name));
-  return DATA.filter(r=>r.subjects.includes(selection.name));
- }
- const term=q.value.trim();
- if(term)return searchRows(term);
- if(congress!=='all')return DATA.filter(r=>String(r.congressNo)===congress);
- return DATA;
-}
+function searchRows(term){const t=norm(term);if(!t)return DATA;return DATA.filter(r=>norm([r.title,r.statement,...r.authors,...r.subjects,...r.contents,...r.alternateTitles,r.congress,r.pages].join(' ')).includes(t));}
+function recordRows(){if(selection){if(selection.kind==='authors')return DATA.filter(r=>r.authors.includes(selection.name));return DATA.filter(r=>r.subjects.includes(selection.name));}const term=q.value.trim();if(term)return searchRows(term);if(congress!=='all')return DATA.filter(r=>String(r.congressNo)===congress);return DATA;}
 function congressLabel(r){return `${r.congressNo}.º Congreso · ${r.year}${r.pages?' · '+r.pages:''}`;}
 function syncFilters(){document.querySelectorAll('.filter').forEach(b=>b.classList.toggle('active',b.dataset.c===congress));}
 function syncViews(){document.querySelectorAll('.viewbtn').forEach(b=>b.classList.toggle('active',b.dataset.v===view));}
-function resetToGlobal(){
- congress='all';
- q.value='';
- selection=null;
- syncFilters();
-}
-function chooseSelection(kind,name){
- q.value='';
- congress='all';
- selection={kind,name};
- view='records';
- syncFilters();
- syncViews();
- render();
- window.scrollTo({top:0,behavior:'smooth'});
-}
-
-function renderRecords(rows){
- count.textContent=`${rows.length} ${rows.length===1?'ponencia':'ponencias'}`;
- if(selection){
-  hint.textContent=selection.kind==='authors'
-   ? `Ponencias de ${selection.name}.`
-   : `Ponencias relacionadas con ${selection.name}.`;
- }else if(congress!=='all'){
-  hint.textContent=`Contenido completo del ${congress}.º Congreso.`;
- }else if(q.value.trim()){
-  hint.textContent='Resultados de búsqueda en los 107 registros.';
- }else{
-  hint.textContent='Podés tocar cualquier materia para ver ponencias relacionadas.';
- }
- if(!rows.length){results.innerHTML='<div class="empty">No se encontraron resultados. Probá con otro término o con “Todos”.</div>';return;}
- results.innerHTML=rows.map(r=>`<article class="card">
-  <h2>${esc(r.title)}</h2>
-  <div class="authors">${r.authors.length?esc(r.authors.join(' · ')):'Autor no consignado'}</div>
-  <div class="meta">${esc(congressLabel(r))}</div>
-  <a class="catalogbtn" href="${bnUrl(r.id)}" target="_blank" rel="noopener noreferrer">Ver registro en catálogo BN ↗</a>
-  <div class="tags">${r.subjects.map(s=>`<button class="tag" data-subject="${esc(s)}">${esc(s)}</button>`).join('')}</div>
-  <details><summary>Ver detalle</summary><div class="detailgrid">
-   ${r.alternateTitles.length?`<p><span class="label">Otros títulos:</span> ${esc(r.alternateTitles.join(' · '))}</p>`:''}
-   ${r.contents.length?`<p><span class="label">Contenido:</span> ${esc(r.contents.join(' · '))}</p>`:''}
-   ${r.bibliography.length?`<p><span class="label">Bibliografía:</span> ${esc(r.bibliography.join(' · '))}</p>`:''}
-   ${r.notes.length?`<p><span class="label">Notas:</span> ${esc(r.notes.join(' · '))}</p>`:''}
-   <p><span class="label">Publicado en:</span> ${esc(r.hostTitle)}${r.pages?' · '+esc(r.pages):''}</p>
-   <p><span class="label">N.º de sistema:</span> ${esc(r.id)}</p>
-  </div></details>
- </article>`).join('');
- results.querySelectorAll('[data-subject]').forEach(b=>b.addEventListener('click',()=>chooseSelection('subjects',b.dataset.subject)));
-}
-function renderIndex(kind){
- const map=new Map();
- if(kind==='authors') DATA.forEach(r=>r.authors.forEach(v=>map.set(v,(map.get(v)||0)+1)));
- else DATA.forEach(r=>r.subjects.forEach(v=>map.set(v,(map.get(v)||0)+1)));
- const arr=[...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],'es',{sensitivity:'base'}));
- count.textContent=`${arr.length} ${kind==='authors'?'autores':'temas'}`;
- hint.textContent=`Índice global. Tocá un ${kind==='authors'?'autor':'tema'} para ver sus ponencias.`;
- if(!arr.length){results.innerHTML='<div class="empty">No se encontraron entradas.</div>';return;}
- results.innerHTML='<div class="indexbox">'+arr.map(([name,n])=>`<div class="indexitem"><button data-index="${esc(name)}"><span>${esc(name)}</span><span class="badge">${n} ${n===1?'ponencia':'ponencias'}</span></button></div>`).join('')+'</div>';
- results.querySelectorAll('[data-index]').forEach(b=>b.addEventListener('click',()=>chooseSelection(kind,b.dataset.index)));
-}
-function render(){
- if(view==='records')renderRecords(recordRows());
- else renderIndex(view);
-}
-
-q.addEventListener('input',()=>{
- congress='all';
- selection=null;
- view='records';
- syncFilters();
- syncViews();
- render();
-});
-
-document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{
- q.value='';
- selection=null;
- congress=b.dataset.c;
- view='records';
- syncFilters();
- syncViews();
- render();
-}));
-
-document.querySelectorAll('.viewbtn').forEach(b=>b.addEventListener('click',()=>{
- resetToGlobal();
- view=b.dataset.v;
- syncViews();
- render();
-}));
-
+function resetToGlobal(){congress='all';q.value='';selection=null;syncFilters();}
+function chooseSelection(kind,name){q.value='';congress='all';selection={kind,name};view='records';syncFilters();syncViews();render();window.scrollTo({top:0,behavior:'smooth'});}
+function renderRecords(rows){count.textContent=`${rows.length} ${rows.length===1?'ponencia':'ponencias'}`;if(selection){hint.textContent=selection.kind==='authors'?`Ponencias de ${selection.name}.`:`Ponencias relacionadas con ${selection.name}.`;}else if(congress!=='all'){hint.textContent=`Contenido completo del ${congress}.º Congreso.`;}else if(q.value.trim()){hint.textContent='Resultados de búsqueda en los 107 registros.';}else{hint.textContent='Podés tocar cualquier materia para ver ponencias relacionadas.';}if(!rows.length){results.innerHTML='<div class="empty">No se encontraron resultados. Probá con otro término o con “Todos”.</div>';return;}results.innerHTML=rows.map(r=>`<article class="card"><h2>${esc(r.title)}</h2><div class="authors">${r.authors.length?esc(r.authors.join(' · ')):'Autor no consignado'}</div><div class="meta">${esc(congressLabel(r))}</div><a class="catalogbtn" href="${bnUrl(r.id)}" target="_blank" rel="noopener noreferrer">Ver registro en catálogo BN ↗</a><div class="tags">${r.subjects.map(s=>`<button class="tag" data-subject="${esc(s)}">${esc(s)}</button>`).join('')}</div><details><summary>Ver detalle</summary><div class="detailgrid">${r.alternateTitles.length?`<p><span class="label">Otros títulos:</span> ${esc(r.alternateTitles.join(' · '))}</p>`:''}${r.contents.length?`<p><span class="label">Contenido:</span> ${esc(r.contents.join(' · '))}</p>`:''}${r.bibliography.length?`<p><span class="label">Bibliografía:</span> ${esc(r.bibliography.join(' · '))}</p>`:''}${r.notes.length?`<p><span class="label">Notas:</span> ${esc(r.notes.join(' · '))}</p>`:''}<p><span class="label">Publicado en:</span> ${esc(r.hostTitle)}${r.pages?' · '+esc(r.pages):''}</p><p><span class="label">N.º de sistema:</span> ${esc(r.id)}</p></div></details></article>`).join('');results.querySelectorAll('[data-subject]').forEach(b=>b.addEventListener('click',()=>chooseSelection('subjects',b.dataset.subject)));}
+function renderIndex(kind){const map=new Map();if(kind==='authors')DATA.forEach(r=>r.authors.forEach(v=>map.set(v,(map.get(v)||0)+1)));else DATA.forEach(r=>r.subjects.forEach(v=>map.set(v,(map.get(v)||0)+1)));const arr=[...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],'es',{sensitivity:'base'}));count.textContent=`${arr.length} ${kind==='authors'?'autores':'temas'}`;hint.textContent=`Índice global. Tocá un ${kind==='authors'?'autor':'tema'} para ver sus ponencias.`;if(!arr.length){results.innerHTML='<div class="empty">No se encontraron entradas.</div>';return;}results.innerHTML='<div class="indexbox">'+arr.map(([name,n])=>`<div class="indexitem"><button data-index="${esc(name)}"><span>${esc(name)}</span><span class="badge">${n} ${n===1?'ponencia':'ponencias'}</span></button></div>`).join('')+'</div>';results.querySelectorAll('[data-index]').forEach(b=>b.addEventListener('click',()=>chooseSelection(kind,b.dataset.index)));}
+function render(){if(view==='records')renderRecords(recordRows());else renderIndex(view);}
+q.addEventListener('input',()=>{congress='all';selection=null;view='records';syncFilters();syncViews();render();});
+document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{q.value='';selection=null;congress=b.dataset.c;view='records';syncFilters();syncViews();render();}));
+document.querySelectorAll('.viewbtn').forEach(b=>b.addEventListener('click',()=>{resetToGlobal();view=b.dataset.v;syncViews();render();}));
 render();
 </script>
 </body></html>
