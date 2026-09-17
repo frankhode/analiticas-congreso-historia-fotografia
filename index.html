@@ -3,17 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Consulta de analíticas de los Congresos de Historia de la Fotografía">
-<title>Analíticas — Congresos de Historia de la Fotografía</title>
+<meta name="description" content="Consulta de ponencias de los Congresos de Historia de la Fotografía">
+<title>Congresos de Historia de la Fotografía</title>
 <style>
 :root{--bg:#f4f2ed;--paper:#fff;--ink:#252525;--muted:#6b6a66;--line:#d9d5cc;--accent:#7c2f31;--accent2:#efe3df;--tag:#edf0ee;--shadow:0 2px 12px rgba(0,0,0,.055)}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.45}
-header{background:#262624;color:#fff;padding:34px 18px 30px}
+header{background:#262624;color:#fff;padding:24px 18px 22px}
 .wrap{max-width:1040px;margin:0 auto}
-h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(2rem,5vw,3.3rem);line-height:1.05;font-weight:500;margin:0 0 10px}
-.subtitle{color:#d9d7d1;font-size:1rem;margin:0}
+h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.08;font-weight:500;margin:0}
 .controls{background:var(--paper);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10;box-shadow:0 2px 10px rgba(0,0,0,.04)}
 .controls .wrap{padding:14px 18px}
 .searchrow{display:flex;gap:10px;align-items:center}
@@ -34,6 +33,8 @@ button{font:inherit}
 .tags{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
 .tag{border:0;background:var(--tag);border-radius:999px;padding:5px 9px;cursor:pointer;font-size:.82rem;text-align:left;color:#39403c}
 .tag:hover{background:#dde4df}
+.catalogbtn{display:inline-flex;align-items:center;gap:6px;margin:2px 0 4px;padding:7px 11px;border:1px solid var(--accent);border-radius:7px;color:var(--accent);text-decoration:none;font-size:.86rem;font-weight:650;background:#fff}
+.catalogbtn:hover{background:var(--accent2)}
 details{margin-top:11px;border-top:1px solid #ece9e3;padding-top:9px}
 summary{cursor:pointer;color:var(--accent);font-weight:650;user-select:none}
 .detailgrid{margin-top:10px;font-size:.93rem}
@@ -55,11 +56,10 @@ mark{background:#f4ddb2;padding:0 .08em}
 </head>
 <body>
 <header><div class="wrap">
-<h1>Analíticas de los Congresos de Historia de la Fotografía</h1>
-<p class="subtitle">Consulta por autor, título, tema o congreso · 107 trabajos catalogados</p>
+<h1>Congresos de Historia de la Fotografía</h1>
 </div></header>
 <div class="controls"><div class="wrap">
-<div class="searchrow"><input id="q" type="search" autocomplete="off" placeholder="Buscar por autor, título o tema…" aria-label="Buscar analíticas"></div>
+<div class="searchrow"><input id="q" type="search" autocomplete="off" placeholder="Buscar por autor, título o tema…" aria-label="Buscar ponencias"></div>
 <div class="filters" id="filters">
 <button class="filter active" data-c="all">Todos · 107</button>
 <button class="filter" data-c="1">1.º Congreso · 28</button>
@@ -69,16 +69,17 @@ mark{background:#f4ddb2;padding:0 .08em}
 </div></div>
 <main class="main wrap">
 <div class="toolbar">
-<div><span id="count"></span><div class="help" id="hint">Podés tocar cualquier materia para buscar trabajos relacionados.</div></div>
+<div><span id="count"></span><div class="help" id="hint">Podés tocar cualquier materia para buscar ponencias relacionadas.</div></div>
 <div class="views" aria-label="Modo de consulta">
-<button class="viewbtn active" data-v="records">Trabajos</button>
+<button class="viewbtn active" data-v="records">Ponencias</button>
 <button class="viewbtn" data-v="authors">Autores</button>
 <button class="viewbtn" data-v="subjects">Temas</button>
 </div>
 </div>
 <section id="results" aria-live="polite"></section>
 </main>
-<footer><div class="wrap">Fuente: registros analíticos catalogados de los Congresos de Historia de la Fotografía. La presentación conserva autores, títulos, materias, notas de contenido, bibliografía, congreso y paginación presentes en los registros.</div></footer>
+<footer><div class="wrap">Fuente: ponencias catalogadas de los Congresos de Historia de la Fotografía. La presentación conserva autores, títulos, materias, notas de contenido, bibliografía, congreso y paginación presentes en los registros.</div></footer>
+
 <script>window.DATA=[];</script>
 <script src="data1.js"></script>
 <script src="data2.js"></script>
@@ -91,16 +92,18 @@ let congress='all', view='records';
 const q=document.getElementById('q'), results=document.getElementById('results'), count=document.getElementById('count'), hint=document.getElementById('hint');
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const bnUrl=id=>`https://catalogo.bn.gov.ar/F/?func=direct&doc_number=${String(id).padStart(9,'0')}&local_base=GENER`;
 const filtered=()=>{let x=DATA;if(congress!=='all')x=x.filter(r=>String(r.congressNo)===congress);const term=norm(q.value.trim());if(term)x=x.filter(r=>norm([r.title,r.statement,...r.authors,...r.subjects,...r.contents,...r.alternateTitles,r.congress,r.pages].join(' ')).includes(term));return x;};
 function congressLabel(r){return `${r.congressNo}.º Congreso · ${r.year}${r.pages?' · '+r.pages:''}`;}
 function renderRecords(rows){
- count.textContent=`${rows.length} ${rows.length===1?'trabajo':'trabajos'}`;
- hint.textContent='Podés tocar cualquier materia para buscar trabajos relacionados.';
+ count.textContent=`${rows.length} ${rows.length===1?'ponencia':'ponencias'}`;
+ hint.textContent='Podés tocar cualquier materia para buscar ponencias relacionadas.';
  if(!rows.length){results.innerHTML='<div class="empty">No se encontraron resultados. Probá con otro término o con “Todos”.</div>';return;}
  results.innerHTML=rows.map(r=>`<article class="card">
   <h2>${esc(r.title)}</h2>
   <div class="authors">${r.authors.length?esc(r.authors.join(' · ')):'Autor no consignado'}</div>
   <div class="meta">${esc(congressLabel(r))}</div>
+  <a class="catalogbtn" href="${bnUrl(r.id)}" target="_blank" rel="noopener noreferrer">Ver registro en catálogo BN ↗</a>
   <div class="tags">${r.subjects.map(s=>`<button class="tag" data-subject="${esc(s)}">${esc(s)}</button>`).join('')}</div>
   <details><summary>Ver detalle</summary><div class="detailgrid">
    ${r.alternateTitles.length?`<p><span class="label">Otros títulos:</span> ${esc(r.alternateTitles.join(' · '))}</p>`:''}
@@ -108,7 +111,7 @@ function renderRecords(rows){
    ${r.bibliography.length?`<p><span class="label">Bibliografía:</span> ${esc(r.bibliography.join(' · '))}</p>`:''}
    ${r.notes.length?`<p><span class="label">Notas:</span> ${esc(r.notes.join(' · '))}</p>`:''}
    <p><span class="label">Publicado en:</span> ${esc(r.hostTitle)}${r.pages?' · '+esc(r.pages):''}</p>
-   <p><span class="label">N.º de registro:</span> ${esc(r.id)}</p>
+   <p><span class="label">N.º de sistema:</span> ${esc(r.id)}</p>
   </div></details>
  </article>`).join('');
  results.querySelectorAll('[data-subject]').forEach(b=>b.addEventListener('click',()=>{q.value=b.dataset.subject;view='records';syncViews();render();window.scrollTo({top:0,behavior:'smooth'});}));
@@ -119,9 +122,9 @@ function renderIndex(rows,kind){
  else rows.forEach(r=>r.subjects.forEach(v=>map.set(v,(map.get(v)||0)+1)));
  const arr=[...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],'es',{sensitivity:'base'}));
  count.textContent=`${arr.length} ${kind==='authors'?'autores':'temas'}`;
- hint.textContent=`Tocá un ${kind==='authors'?'autor':'tema'} para ver sus trabajos.`;
+ hint.textContent=`Tocá un ${kind==='authors'?'autor':'tema'} para ver sus ponencias.`;
  if(!arr.length){results.innerHTML='<div class="empty">No se encontraron entradas para este filtro.</div>';return;}
- results.innerHTML='<div class="indexbox">'+arr.map(([name,n])=>`<div class="indexitem"><button data-index="${esc(name)}"><span>${esc(name)}</span><span class="badge">${n} ${n===1?'trabajo':'trabajos'}</span></button></div>`).join('')+'</div>';
+ results.innerHTML='<div class="indexbox">'+arr.map(([name,n])=>`<div class="indexitem"><button data-index="${esc(name)}"><span>${esc(name)}</span><span class="badge">${n} ${n===1?'ponencia':'ponencias'}</span></button></div>`).join('')+'</div>';
  results.querySelectorAll('[data-index]').forEach(b=>b.addEventListener('click',()=>{q.value=b.dataset.index;view='records';syncViews();render();window.scrollTo({top:0,behavior:'smooth'});}));
 }
 function syncViews(){document.querySelectorAll('.viewbtn').forEach(b=>b.classList.toggle('active',b.dataset.v===view));}
