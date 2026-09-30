@@ -1,24 +1,39 @@
-001674846 FMT   L BK
-001674846 LDR   L 00000naa^a22^^^^^^a^4500
-001674846 001   L 001674846
-001674846 005   L 20260916184143.0
-001674846 007   L ta
-001674846 008   L 260915s1995^^^^ag^o^^^gr^^^^^000^0^spa^^
-001674846 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
-001674846 043   L $$as-ag---
-001674846 1001  L $$aBaldani Cámara, María Ana$$eautora$$4aut
-001674846 24510 L $$aPresencia del fotógrafo aficionado Arístides Mondelli en La fotografía /$$cMaría Ana Baldani Cámara.
-001674846 5050  L $$a1. Fotografías publicadas -- 2. Artículo sobre Arístides Mondelli -- 3. Noticias -- 4. Correspondencia particular.
-001674846 60014 L $$aMondelli, Arístides
-001674846 63034 L $$aLa Fotografía (Revista : Madrid)
-001674846 650 4 L $$aFotógrafos argentinos$$xHistoria
-001674846 7731  L $$aCongreso de Historia de la Fotografía (3o : 1994 jun. 11-12 : Florida, Buenos Aires)$$t3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994$$gp. 59-62$$w(AR-BaBN)001314547
-001674846 LKR   L $$aDN$$b001314547$$lBNA01$$mPresencia del fotógrafo aficionado Arístides Mondelli en La fotografía / María Ana Baldani Cámara$$n3º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio de la Federación Argentina de Fotografía y el Círculo Médico de Vicente López, Argentina, 11-12 de junio de 1994, p. 59-62
-001674846 OWN   L $$aCAT_FOTO
-001674846 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1613
-001674846 CAT   L $$aFORTIZ$$b20$$c20260915$$lBNA01$$h1613
-001674846 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1830
-001674846 CAT   L $$aFORTIZ$$b20$$c20260916$$lBNA01$$h1841
+001676622 FMT   L BK
+001676622 LDR   L 00000naa^a22^^^^^^a^4500
+001676622 001   L 001676622
+001676622 005   L 20260930174014.0
+001676622 007   L ta
+001676622 008   L 260930s1996^^^^ag^o^^^grb^^^^000^0^spa^^
+001676622 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676622 043   L $$as-ag---
+001676622 1001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
+001676622 24514 L $$aLos Filippini y otros fotógrafos de General Pico, La Pampa /$$cCarlos Barrios Barón.
+001676622 504   L $$aBibliografía: p. 113-114.
+001676622 5050  L $$aIntroducción -- Primeros fotógrafos en General Pico -- Gabriel A. Barrós -- Nicolás Serra -- Los Filippini: fotógrafos y cineastas -- Domingo Mauricio Filippini (1885-1973) -- Su vocación por la fotografía -- Su afición por el teatro de aficionados -- Su pasión por la cinematografía -- "Carlitos en La Pampa" y otras películas -- El Cine Belgrano -- Ultimas actuaciones de Filippini -- Domingo Mario Filippini -- Importancia d ela Casa Filippini -- Otros fotógrafos -- A modo de conclusión.
+001676622 60014 L $$aFilippini, Domingo Mauricio,$$d1885-1973
+001676622 60014 L $$aFilippini, Domingo Mario,$$d1916-2013
+001676622 650 4 L $$aFotógrafos argentinos$$zLa Pampa (Provincia)$$xHistoria
+001676622 651 4 L $$aGeneral Pico$$xHistoria
+001676622 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 107-114$$w(AR-BaBN)001314582
+001676622 LKR   L $$aDN$$b001314582$$lBNA01$$mLos Filippini y otros fotógrafos de General Pico, La Pampa / Carlos Barrios Barón$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 107-114
+001676622 OWN   L $$aCAT_FOTO
+001676622 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1740
+001676620 FMT   L BK
+001676620 LDR   L 00000naa^a22^^^^^^a^4500
+001676620 001   L 001676620
+001676620 005   L 20260930172534.0
+001676620 007   L ta
+001676620 008   L 260930s1996^^^^ag^o^^^grb^^^^000^0^spa^^
+001676620 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676620 043   L $$as-ag---
+001676620 1001  L $$aBustos, Liliana$$eautora$$4aut
+001676620 24513 L $$aLa fotografía como memoria en la construcción de la sede del poder, la Casa Rosada /$$cLiliana Bustos.
+001676620 504   L $$aBibliografía: p. 98.
+001676620 61014 L $$aArgentina.$$bCasa Rosada$$xHistoria
+001676620 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 95-98$$w(AR-BaBN)001314582
+001676620 LKR   L $$aDN$$b001314582$$lBNA01$$mLa fotografía como memoria en la construcción de la sede del poder, la Casa Rosada / Liliana Bustos$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 95-98
+001676620 OWN   L $$aCAT_FOTO
+001676620 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1725
 001676485 FMT   L BK
 001676485 LDR   L 00000naa^a22^^^^^^a^4500
 001676485 001   L 001676485
@@ -41,7 +56,7 @@
 001314582 LDR   L 00000aam^a22^^^^^^a^4500
 001314582 001   L 001314582
 001314582 003   L AR-BaBN
-001314582 005   L 20260929175654.0
+001314582 005   L 20260930174611.0
 001314582 007   L ta
 001314582 008   L 140807s1996^^^^ag^co^^fr^^^^^101^0^spa^^
 001314582 015   L $$aAR-1996
@@ -55,7 +70,6 @@
 001314582 260   L $$aBuenos Aires :$$bFederación Argentina de Fotografía,$$c1996.
 001314582 300   L $$a206 p. :$$bfot. byn, retrs. ;$$c29 cm.
 001314582 504   L $$aIncluye referencias bibliográficas al final de cada capítulo.
-001314582 5050  L $$tUn viaje ilustrado /$$rEduardo L. Marcet; Haydée Epifanio --$$tLos salvadores del olvido, 1860-1915 /$$rGraciela N. González --$$tEl discurso de Augusto Lutsch: galería y documento /$$rGraciela Hornia --$$tRetratos de indios y actos de representación /$$rMarta N. Penhos --$$tLa fotografía como memoria en la construcción de la sede del poder, la Casa Rosada /$$rLiliana Bustos --$$tLos fotógrafos en la exposición continental de 1882 /$$rArnaldo J. Cunietti-Ferrando --$$tLos Filippini y otros fotógrafos de General Pico, La Pampa /$$rCarlos Barrios Barón --$$tGuillermo Adolfo Kessler, un aficionado serio /$$rCarlos Alberto Fernández --
 001314582 5050  L $$tHiram Calógero y los procedimientos de arte en fotografía /$$rCarmen Delgado y Carlos Raggi --$$tA. José Klein y los colonos valesanos de San Jerónimo Norte /$$rLuis Priamo --$$tSiglo XX: la historia continúa /$$rHilda D'Allessandro de Brandi --$$tFederico Valle, un hombre de película /$$rHoracio Callegari --$$tAlgunas consideraciones acerca del acceso y la documentación de la fotografía en el Museo Mitre /$$rGabriela Mirande Lamédica--$$tLa fotografía en algunos museos de la ciudad de Buenos Aires /$$rPatricia Faure --$$tHistoria del Museo Municipal Histórico Fotográfico de Quilmes /$$rMabel Caldora --$$tLa fototeca del Sodre: historia de un archivo pionero en el Uruguay /$$rGraciela Dacosta --$$tLa usina hidro-eléctrica de los Fader /$$rDaniel Guillermo Grilli --$$tUna conquista pacífica en la Argentina /$$rStella Maris Dodd --$$tEl fotógrafo de la plaza: un personaje que ya es historia /$$rRita Arslanian --$$tPor una fotografía /$$rRoberto Conde --$$tEl primer aporte serio que el cine argentino realiza en beneficio de un país latinoamericano /$$rCristina A. de Mirabelli, Alicia de la Iglesia, María Carolina Mirabelli --$$tEl uso de la fotografía en los textos excolares /$$rMónica Incorvaia --$$tLa fotografía en el Museo de la Ciudad /$$rJosé María Peña --$$tEl eslabón perdido de la fotografía médica mortuoria /$$rSergio Lugo --$$tFelice Rosetti, pintor y fotógrafo italiano en el Río de la Plata de 1851 a 1869 /$$rVicente Gesualdo --$$tExposiciones de daguerrotipos en la Argentina. Una exposición daguerreana en 1845 /$$rAbel Alexander.
 001314582 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XIX$$vCongresos
 001314582 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XX$$vCongresos
@@ -121,6 +135,7 @@
 001314582 CAT   L $$aCATAU$$b20$$c20250217$$lBNA01$$h1636
 001314582 CAT   L $$aBATCH-UPD$$b20$$c20250217$$lBNA01$$h1636
 001314582 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1756
+001314582 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1746
 001314582 Z30-1 L $$lBNA01$$LBNA01$$mLIBRO$$1FOTO$$AFototeca$$2LIBRO$$BColección Libros$$3FOES061347$$600943552$$500943552$$420140700$$820140808$$f13$$FPréstamo común en sala$$s01$$n028$$q000010$$o001314582
 001676470 FMT   L BK
 001676470 LDR   L 00000naa^a22^^^^^^a^4500
@@ -140,6 +155,23 @@
 001676470 LKR   L $$aDN$$b001314582$$lBNA01$$mUna guerra en el lienzo : la fotografía y su influencia en la iconografía de la guerra del Paraguay / Miguel A. Cuarterolo$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 31-38
 001676470 OWN   L $$aCAT_FOTO
 001676470 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1629
+001676621 FMT   L BK
+001676621 LDR   L 00000naa^a22^^^^^^a^4500
+001676621 001   L 001676621
+001676621 005   L 20260930173007.0
+001676621 007   L ta
+001676621 008   L 260930s1996^^^^ag^o^^^gr^^^^^000^0^spa^^
+001676621 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676621 043   L $$as-ag---
+001676621 1001  L $$aCunietti-Ferrando, Arnaldo J.,$$d1936-2018$$eautor$$4aut
+001676621 24514 L $$aLos fotógrafos en la exposición continental de 1882 /$$cArnaldo J. Cunietti-Ferrando.
+001676621 61124 L $$aExposición Continental Sud-Americana$$d(1882 :$$cBuenos Aires)
+001676621 650 4 L $$aFotografía$$zArgentina$$xHistoria
+001676621 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 99-105$$w(AR-BaBN)001314582
+001676621 LKR   L $$aDN$$b001314582$$lBNA01$$mLos fotógrafos en la exposición continental de 1882 / Arnaldo J. Cunietti-Ferrando$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 99-105
+001676621 OWN   L $$aCAT_FOTO
+001676621 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1729
+001676621 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1730
 001676480 FMT   L BK
 001676480 LDR   L 00000naa^a22^^^^^^a^4500
 001676480 001   L 001676480
@@ -155,6 +187,23 @@
 001676480 LKR   L $$aDN$$b001314582$$lBNA01$$mApuntes para una historia de los panoramas de rotonda / Marta Dujovne y Ana María Telesca$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 53-58
 001676480 OWN   L $$aCAT_FOTO
 001676480 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1724
+001676623 FMT   L BK
+001676623 LDR   L 00000naa^a22^^^^^^a^4500
+001676623 001   L 001676623
+001676623 005   L 20260930174533.0
+001676623 007   L ta
+001676623 008   L 260930s1996^^^^ag^b^^^grb^^^^000^0^spa^^
+001676623 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676623 1001  L $$aFernández, Carlos Alberto$$eautor$$4aut
+001676623 24510 L $$aGuillermo Adolfo Kessler, un aficionado serio /$$cCarlos Alberto Fernández.
+001676623 504   L $$aBibliografía: p. 122.
+001676623 5050  L $$aLas imágenes -- La cámara -- El objetivo -- El obturador -- Emulsiones sensibles -- El laboratorio -- Imágenes sobre papel -- Final y aclaración.
+001676623 60014 L $$aKessler, Guillermo Adolfo,$$d1892-1968
+001676623 650 4 L $$aFotografía$$xTécnicas
+001676623 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 115-122$$w(AR-BaBN)001314582
+001676623 LKR   L $$aDN$$b001314582$$lBNA01$$mGuillermo Adolfo Kessler, un aficionado serio / Carlos Alberto Fernández$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 115-122
+001676623 OWN   L $$aCAT_FOTO
+001676623 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1745
 001676475 FMT   L BK
 001676475 LDR   L 00000naa^a22^^^^^^a^4500
 001676475 001   L 001676475
@@ -173,6 +222,22 @@
 001676475 LKR   L $$aDN$$b001314582$$lBNA01$$mEl Dr. Fernando Pérez y su aporte fotográfico a la pintura en el Museo del Louvre / Juan Gómez$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 47-50
 001676475 OWN   L $$aCAT_FOTO
 001676475 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1701
+001676616 FMT   L BK
+001676616 LDR   L 00000naa^a22^^^^^^a^4500
+001676616 001   L 001676616
+001676616 005   L 20260930170309.0
+001676616 007   L ta
+001676616 008   L 260930s1996^^^^ag^o^^^gr^^^^^000^0^spa^^
+001676616 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676616 043   L $$as-ag---
+001676616 1001  L $$aGonzález, Graciela Noemí$$eautora$$4aut
+001676616 24514 L $$aLos salvadores del olvido, 1860-1915 /$$cGraciela N. González.
+001676616 5050  L $$aIntroducción -- Los primero fotógrafos santafesinos -- Pedro Tappa -- Augusto Lustch -- Manuel Garcilazo de la Vega -- José Beleno -- Otros fotógrafos de fines de siglo XIX y comienzos del XX -- Conclusión.
+001676616 650 4 L $$aFotógrafos argentinos$$zSanta Fe (Provincia)$$xHistoria
+001676616 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 77-81$$w(AR-BaBN)001314582
+001676616 LKR   L $$aDN$$b001314582$$lBNA01$$mLos salvadores del olvido, 1860-1915 / Graciela N. González$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 77-81
+001676616 OWN   L $$aCAT_FOTO
+001676616 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1703
 001676458 FMT   L BK
 001676458 LDR   L 00000naa^a22^^^^^^a^4500
 001676458 001   L 001676458
@@ -194,6 +259,22 @@
 001676458 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1538
 001676458 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1542
 001676458 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1552
+001676618 FMT   L BK
+001676618 LDR   L 00000naa^a22^^^^^^a^4500
+001676618 001   L 001676618
+001676618 005   L 20260930171420.0
+001676618 007   L ta
+001676618 008   L 260930s1996^^^^ag^o^^^grb^^^^000^0^spa^^
+001676618 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676618 1001  L $$aHornia, Graciela$$eautora$$4aut
+001676618 24513 L $$aEl discurso de Augusto Lutsch :$$bgalería y documento /$$cGraciela Hornia.
+001676618 504   L $$aBibliografía: p. 87.
+001676618 60014 L $$aLutsch, Augusto,$$d1856-1914
+001676618 650 4 L $$aFotografía$$zSanta Fe (Provincia)$$xHistoria
+001676618 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 83-87$$w(AR-BaBN)001314582
+001676618 LKR   L $$aDN$$b001314582$$lBNA01$$mEl discurso de Augusto Lutsch : galería y documento / Graciela Hornia$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 83-87
+001676618 OWN   L $$aCAT_FOTO
+001676618 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1714
 001676471 FMT   L BK
 001676471 LDR   L 00000naa^a22^^^^^^a^4500
 001676471 001   L 001676471
@@ -211,6 +292,24 @@
 001676471 LKR   L $$aDN$$b001314582$$lBNA01$$mDesnudos fotográficos y desnudos pintados : acerca de la creación y circulación de imágenes eróticas en Buenos Aires a mediados del Siglo XIX / Laura Malosetti Costa$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 39-45
 001676471 OWN   L $$aCAT_FOTO
 001676471 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1640
+001676612 FMT   L BK
+001676612 LDR   L 00000naa^a22^^^^^^a^4500
+001676612 001   L 001676612
+001676612 005   L 20260930163422.0
+001676612 007   L ta
+001676612 008   L 260930s1996^^^^ag^o^^^gr^^^^^000^0^spa^^
+001676612 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676612 043   L $$as-ag---
+001676612 1001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001676612 24513 L $$aUn viaje ilustrado /$$cEduardo L. Marcet; Haydée Epifanio.
+001676612 5050  L $$aIntroducción -- Lo shermanos Juan y Mateo Clark -- Construcción del ramal -- Reflexión final.
+001676612 60014 L $$aBoote, Samuel,$$d1844-1921
+001676612 61024 L $$aFerrocarril Buenos Aires al Pacífico$$xHistoria
+001676612 7001  L $$aEpifanio, Haydeé$$eautora$$4aut
+001676612 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 71-76$$w(AR-BaBN)001314582
+001676612 LKR   L $$aDN$$b001314582$$lBNA01$$mUn viaje ilustrado / Eduardo L. Marcet; Haydée Epifanio$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 71-76
+001676612 OWN   L $$aCAT_FOTO
+001676612 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1634
 001676469 FMT   L BK
 001676469 LDR   L 00000naa^a22^^^^^^a^4500
 001676469 001   L 001676469
@@ -227,6 +326,24 @@
 001676469 LKR   L $$aDN$$b001314582$$lBNA01$$mLa fotografía como punto de partida para la pintura urbana del siglo XIX / Gabriel Miremont$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 27-30
 001676469 OWN   L $$aCAT_FOTO
 001676469 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1620
+001676619 FMT   L BK
+001676619 LDR   L 00000naa^a22^^^^^^a^4500
+001676619 001   L 001676619
+001676619 005   L 20260930172618.0
+001676619 007   L ta
+001676619 008   L 260930s1996^^^^ag^o^^^gr^^^^^000^0^spa^^
+001676619 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676619 043   L $$as-ag---
+001676619 1001  L $$aPenhos, Marta,$$d1955-$$eautora$$4aut
+001676619 24510 L $$aRetratos de indios y actos de representación /$$cMarta N. Penhos.
+001676619 650 4 L $$aAborígenes argentinos$$xHistoria
+001676619 650 4 L $$aAborígenes argentinos$$xEn el arte
+001676619 650 4 L $$aFotografía$$xAspectos sociales
+001676619 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 89-94$$w(AR-BaBN)001314582
+001676619 LKR   L $$aDN$$b001314582$$lBNA01$$mRetratos de indios y actos de representación / Marta N. Penhos$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 89-94
+001676619 OWN   L $$aCAT_FOTO
+001676619 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1723
+001676619 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1726
 001676483 FMT   L BK
 001676483 LDR   L 00000naa^a22^^^^^^a^4500
 001676483 001   L 001676483
