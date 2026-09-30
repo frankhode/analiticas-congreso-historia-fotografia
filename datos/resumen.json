@@ -1,26 +1,36 @@
 {
-  "generatedAt": "2026-09-17T20:26:58+00:00",
+  "generatedAt": "2026-09-30T18:32:30+00:00",
   "sourceFile": "secuencial.txt",
-  "totalRecords": 110,
-  "analytics": 107,
-  "hostRecords": 3,
+  "totalRecords": 13,
+  "analytics": 12,
+  "hostRecords": 1,
   "congresses": {
-    "1": 28,
-    "2": 38,
-    "3": 41
+    "3": 1
   },
   "subjectFieldOccurrences": {
-    "600": 50,
-    "610": 11,
-    "611": 3,
+    "600": 10,
+    "610": 1,
+    "611": 0,
     "630": 1,
-    "650": 102,
-    "651": 14,
-    "655": 3
+    "650": 17,
+    "651": 0,
+    "655": 0
   },
   "warnings": {
     "sin_autor": [],
     "sin_materias": [],
-    "sin_congreso_identificado": []
+    "sin_congreso_identificado": [
+      "001676458",
+      "001676464",
+      "001676466",
+      "001676469",
+      "001676470",
+      "001676471",
+      "001676475",
+      "001676476",
+      "001676480",
+      "001676483",
+      "001676485"
+    ]
   }
 }
