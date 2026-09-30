@@ -10,6 +10,33 @@ SUBJECT_TAGS=('600','610','611','630','650','651','655')
 SUBDIV={'x','y','z','v'}
 IGNORE={'e','4','0','1','2','3','5','6','7','8','9'}
 MAIN={'600':{'a','b','c','q','d','t','n','p','l'},'610':{'a','b','c','d','n','t','p','l'},'611':{'a','n','c','d','t','p','l'},'630':{'a','d','f','k','l','n','p','s'},'650':None,'651':None,'655':None}
+CONGRESS_RE=re.compile(r'\(\s*(\d+)\s*\.?\s*[oº°]\s*:\s*(\d{4})',re.IGNORECASE)
+
+def read_records(path):
+    """Keep complete Aleph records, including repeated fields and indicators."""
+    records={}
+    for line_no,raw in enumerate(path.read_text(encoding='utf-8-sig').splitlines(),1):
+        if not raw.strip(): continue
+        left,sep,_=raw.partition(' L '); parts=left.split()
+        if not sep or len(parts)<2 or not re.fullmatch(r'\d{9}',parts[0]):
+            raise ValueError(f'{path}:{line_no}: línea de secuencial no válida')
+        records.setdefault(parts[0],[]).append(raw)
+    if not records:
+        raise ValueError(f'{path}: el secuencial está vacío')
+    for rid,lines in records.items():
+        if not any(line.split(' L ',1)[0].split()[1][:3]=='245' for line in lines):
+            raise ValueError(f'{path}: el registro {rid} no tiene título (245)')
+    return records
+
+def merge_records(source,master):
+    """Upsert whole records by system number; omitted records remain intact."""
+    incoming=read_records(source)
+    accumulated=read_records(master) if master.exists() else {}
+    accumulated.update(incoming)
+    master.parent.mkdir(parents=True,exist_ok=True)
+    pending=master.with_suffix(master.suffix+'.tmp')
+    pending.write_text('\n'.join(line for lines in accumulated.values() for line in lines)+'\n',encoding='utf-8')
+    pending.replace(master)
 
 def clean(s): return re.sub(r'\s+',' ',s or '').strip()
 def strip_terminal(s):
@@ -35,7 +62,7 @@ def page_start(p):
 
 def parse(path):
     recs={}; order=[]
-    for raw in path.read_text(encoding='utf-8-sig',errors='replace').splitlines():
+    for raw in (line for lines in read_records(path).values() for line in lines):
         if ' L ' not in raw: continue
         left,content=raw.split(' L ',1); parts=left.split()
         if len(parts)<2 or not re.fullmatch(r'\d{9}',parts[0]): continue
@@ -83,7 +110,7 @@ def parse(path):
         for c,v in subfields(first(fs,'773')): h.setdefault(c,[]).append(v)
         congress=clean(' '.join(h.get('a',[]))); host_title=strip_terminal(' '.join(h.get('t',[]))); pages=strip_terminal(' '.join(h.get('g',[]))); host_id=clean(' '.join(h.get('w',[]))).replace('(AR-BaBN)','').strip()
         if host_id: hosts.add(host_id)
-        m=re.search(r'\((\d+)o\s*:\s*(\d{4})',congress); cno=int(m.group(1)) if m else None; year=int(m.group(2)) if m else None
+        m=CONGRESS_RE.search(congress); cno=int(m.group(1)) if m else None; year=int(m.group(2)) if m else None
         analytics.append({'id':rid,'title':title,'statement':statement,'authors':authors,'subjects':subjects,'subjectTags':subject_tags,'alternateTitles':alt,'contents':contents,'bibliography':bibliography,'notes':notes,'congressNo':cno,'year':year,'congress':congress,'hostTitle':host_title,'pages':pages,'pageStart':page_start(pages),'hostId':host_id})
     analytics.sort(key=lambda r:(r['congressNo'] or 999,r['pageStart'],r['title'].casefold()))
     cc=Counter(r['congressNo'] for r in analytics if r['congressNo'] is not None)
@@ -91,8 +118,10 @@ def parse(path):
     return analytics,summary
 
 def main():
-    ap=argparse.ArgumentParser(); ap.add_argument('source',type=Path); ap.add_argument('root',type=Path,nargs='?',default=Path('.')); args=ap.parse_args()
-    data,summary=parse(args.source); root=args.root; root.mkdir(parents=True,exist_ok=True)
+    ap=argparse.ArgumentParser(); ap.add_argument('source',type=Path); ap.add_argument('root',type=Path,nargs='?',default=Path('.')); ap.add_argument('--master',type=Path,help='Secuencial acumulado: agregar o actualizar por número de sistema'); args=ap.parse_args()
+    if args.master: merge_records(args.source,args.master)
+    data,summary=parse(args.master or args.source); root=args.root; root.mkdir(parents=True,exist_ok=True)
+    if args.master: summary['batchFile']=args.source.name
     chunk=math.ceil(len(data)/5) if data else 1
     for i in range(5):
         rows=data[i*chunk:(i+1)*chunk]

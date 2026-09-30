@@ -1,9 +1,15 @@
 name: Actualizar datos desde Aleph
 on:
   push:
+    branches: [main]
     paths:
       - 'fuente/secuencial.txt'
+      - 'scripts/**'
+      - '.github/workflows/actualizar-datos.yml'
   workflow_dispatch:
+concurrency:
+  group: actualizar-catalogo
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:
@@ -11,19 +17,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Procesar secuencial
-        run: python scripts/procesar_secuencial.py fuente/secuencial.txt .
+      - name: Comprobar importador
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Acumular y procesar secuencial
+        run: python scripts/procesar_secuencial.py fuente/secuencial.txt . --master fuente/acumulado.txt
       - name: Guardar salida
         run: |
-          if git diff --quiet -- data1.js data2.js data3.js data4.js data5.js subjects1.js subjects2.js subjects3.js subjects4.js subjects5.js datos/resumen.json; then
+          git add fuente/acumulado.txt data*.js subjects*.js datos/resumen.json
+          if git diff --cached --quiet; then
             echo "No hay cambios."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data*.js subjects*.js datos/resumen.json
           git commit -m "Actualizar catálogo desde Aleph"
           git push
