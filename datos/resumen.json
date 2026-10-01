@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-30T21:00:42+00:00",
+  "generatedAt": "2026-10-01T21:34:24+00:00",
   "sourceFile": "acumulado.txt",
-  "totalRecords": 130,
-  "analytics": 126,
+  "totalRecords": 138,
+  "analytics": 134,
   "hostRecords": 4,
   "congresses": {
     "1": 28,
     "2": 38,
     "3": 41,
-    "4": 19
+    "4": 27
   },
   "subjectFieldOccurrences": {
-    "600": 64,
-    "610": 14,
+    "600": 70,
+    "610": 18,
     "611": 4,
     "630": 1,
-    "650": 126,
-    "651": 15,
+    "650": 132,
+    "651": 16,
     "655": 3
   },
   "warnings": {
