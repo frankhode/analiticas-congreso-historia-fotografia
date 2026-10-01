@@ -34,6 +34,39 @@
 001676620 LKR   L $$aDN$$b001314582$$lBNA01$$mLa fotografía como memoria en la construcción de la sede del poder, la Casa Rosada / Liliana Bustos$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 95-98
 001676620 OWN   L $$aCAT_FOTO
 001676620 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1725
+001676725 FMT   L BK
+001676725 LDR   L 00000naa^a22^^^^^^a^4500
+001676725 001   L 001676725
+001676725 005   L 20261001180956.0
+001676725 007   L ta
+001676725 008   L 261001s1996^^^^ag^^^^^gr^^^^^000^0^spa^^
+001676725 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676725 043   L $$as-ag---
+001676725 1001  L $$aCaldora, Mabel$$eautora$$4aut
+001676725 24510 L $$aHistoria del Museo Municipal Histórico Fotográfico de Quilmes /$$cMabel Caldora.
+001676725 5050  L $$aIntroducción -- Primeros fotógrafos quilmeños -- Intentos para abrir un museo -- Por fin el ansiado museo fotográfico -- Monumento al fotógrafo -- Capital provincial de la fotografía -- Directores del museo -- Archivo fotográfico.
+001676725 61024 L $$aMuseo Histórico Fotográfico Municipal de Quilmes$$xHistoria
+001676725 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 153-156$$w(AR-BaBN)001314582
+001676725 LKR   L $$aDN$$b001314582$$lBNA01$$mHistoria del Museo Municipal Histórico Fotográfico de Quilmes / Mabel Caldora$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 153-156
+001676725 OWN   L $$aCAT_FOTO
+001676725 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1809
+001676720 FMT   L BK
+001676720 LDR   L 00000naa^a22^^^^^^a^4500
+001676720 001   L 001676720
+001676720 005   L 20261001173934.0
+001676720 007   L ta
+001676720 008   L 261001s1996^^^^ag^o^^^grb^^^^000^0^spa^^
+001676720 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676720 043   L $$as-ag---
+001676720 1001  L $$aCallegari, Horacio,$$d1937-$$eautor$$4aut
+001676720 24510 L $$aFederico Valle, un hombre de película /$$cHoracio Callegari.
+001676720 504   L $$aBibliografía: p. 144.
+001676720 60014 L $$aValle, Federico,$$d1880-1960
+001676720 650 4 L $$aCine argentino$$xHistoria
+001676720 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 139-144$$w(AR-BaBN)001314582
+001676720 LKR   L $$aDN$$b001314582$$lBNA01$$mFederico Valle, un hombre de película / Horacio Callegari$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 139-144
+001676720 OWN   L $$aCAT_FOTO
+001676720 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1739
 001676485 FMT   L BK
 001676485 LDR   L 00000naa^a22^^^^^^a^4500
 001676485 001   L 001676485
@@ -56,7 +89,7 @@
 001314582 LDR   L 00000aam^a22^^^^^^a^4500
 001314582 001   L 001314582
 001314582 003   L AR-BaBN
-001314582 005   L 20260930174611.0
+001314582 005   L 20261001183101.0
 001314582 007   L ta
 001314582 008   L 140807s1996^^^^ag^co^^fr^^^^^101^0^spa^^
 001314582 015   L $$aAR-1996
@@ -70,7 +103,7 @@
 001314582 260   L $$aBuenos Aires :$$bFederación Argentina de Fotografía,$$c1996.
 001314582 300   L $$a206 p. :$$bfot. byn, retrs. ;$$c29 cm.
 001314582 504   L $$aIncluye referencias bibliográficas al final de cada capítulo.
-001314582 5050  L $$tHiram Calógero y los procedimientos de arte en fotografía /$$rCarmen Delgado y Carlos Raggi --$$tA. José Klein y los colonos valesanos de San Jerónimo Norte /$$rLuis Priamo --$$tSiglo XX: la historia continúa /$$rHilda D'Allessandro de Brandi --$$tFederico Valle, un hombre de película /$$rHoracio Callegari --$$tAlgunas consideraciones acerca del acceso y la documentación de la fotografía en el Museo Mitre /$$rGabriela Mirande Lamédica--$$tLa fotografía en algunos museos de la ciudad de Buenos Aires /$$rPatricia Faure --$$tHistoria del Museo Municipal Histórico Fotográfico de Quilmes /$$rMabel Caldora --$$tLa fototeca del Sodre: historia de un archivo pionero en el Uruguay /$$rGraciela Dacosta --$$tLa usina hidro-eléctrica de los Fader /$$rDaniel Guillermo Grilli --$$tUna conquista pacífica en la Argentina /$$rStella Maris Dodd --$$tEl fotógrafo de la plaza: un personaje que ya es historia /$$rRita Arslanian --$$tPor una fotografía /$$rRoberto Conde --$$tEl primer aporte serio que el cine argentino realiza en beneficio de un país latinoamericano /$$rCristina A. de Mirabelli, Alicia de la Iglesia, María Carolina Mirabelli --$$tEl uso de la fotografía en los textos excolares /$$rMónica Incorvaia --$$tLa fotografía en el Museo de la Ciudad /$$rJosé María Peña --$$tEl eslabón perdido de la fotografía médica mortuoria /$$rSergio Lugo --$$tFelice Rosetti, pintor y fotógrafo italiano en el Río de la Plata de 1851 a 1869 /$$rVicente Gesualdo --$$tExposiciones de daguerrotipos en la Argentina. Una exposición daguerreana en 1845 /$$rAbel Alexander.
+001314582 5050  L $$tUna conquista pacífica en la Argentina /$$rStella Maris Dodd --$$tEl fotógrafo de la plaza: un personaje que ya es historia /$$rRita Arslanian --$$tPor una fotografía /$$rRoberto Conde --$$tEl primer aporte serio que el cine argentino realiza en beneficio de un país latinoamericano /$$rCristina A. de Mirabelli, Alicia de la Iglesia, María Carolina Mirabelli --$$tEl uso de la fotografía en los textos excolares /$$rMónica Incorvaia --$$tLa fotografía en el Museo de la Ciudad /$$rJosé María Peña --$$tEl eslabón perdido de la fotografía médica mortuoria /$$rSergio Lugo --$$tFelice Rosetti, pintor y fotógrafo italiano en el Río de la Plata de 1851 a 1869 /$$rVicente Gesualdo --$$tExposiciones de daguerrotipos en la Argentina. Una exposición daguerreana en 1845 /$$rAbel Alexander.
 001314582 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XIX$$vCongresos
 001314582 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XX$$vCongresos
 001314582 7102  L $$aFederación Argentina de Fotografía$$eedit.
@@ -136,6 +169,7 @@
 001314582 CAT   L $$aBATCH-UPD$$b20$$c20250217$$lBNA01$$h1636
 001314582 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1756
 001314582 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1746
+001314582 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1831
 001314582 Z30-1 L $$lBNA01$$LBNA01$$mLIBRO$$1FOTO$$AFototeca$$2LIBRO$$BColección Libros$$3FOES061347$$600943552$$500943552$$420140700$$820140808$$f13$$FPréstamo común en sala$$s01$$n028$$q000010$$o001314582
 001676470 FMT   L BK
 001676470 LDR   L 00000naa^a22^^^^^^a^4500
@@ -172,6 +206,59 @@
 001676621 OWN   L $$aCAT_FOTO
 001676621 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1729
 001676621 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1730
+001676727 FMT   L BK
+001676727 LDR   L 00000naa^a22^^^^^^a^4500
+001676727 001   L 001676727
+001676727 005   L 20261001182931.0
+001676727 007   L ta
+001676727 008   L 261001s1996^^^^ag^o^^^grb^^^^000^0^spa^^
+001676727 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676727 043   L $$as-uy---
+001676727 1001  L $$aDacosta, Graciela$$eautora$$4aut
+001676727 24513 L $$aLa fototeca del Sodre :$$bhistoria de un archivo pionero en el Uruguay /$$cGraciela Dacosta.
+001676727 504   L $$aBibliografía: p. 156.
+001676727 5050  L $$aOrígenes de la fototeca -- El desafío de construir un nuevo local -- La incorporación del Archivo al SODRE -- Colección y servicios.
+001676727 61024 L $$aServicio Oficial de Difusión, Representaciones y Espectáculos (Uruguay)$$xColecciones de fotografías
+001676727 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 157-158$$w(AR-BaBN)001314582
+001676727 LKR   L $$aDN$$b001314582$$lBNA01$$mLa fototeca del Sodre : historia de un archivo pionero en el Uruguay / Graciela Dacosta$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 157-158
+001676727 OWN   L $$aCAT_FOTO
+001676727 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1829
+001676719 FMT   L BK
+001676719 LDR   L 00000naa^a22^^^^^^a^4500
+001676719 001   L 001676719
+001676719 005   L 20261001173239.0
+001676719 007   L ta
+001676719 008   L 261001s1996^^^^ag^o^^^gr^^^^^000^0^spa^^
+001676719 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676719 043   L $$as-ag---
+001676719 1001  L $$aD'Alessandro de Brandi, Hilda,$$d1937-$$eautora$$4aut
+001676719 24510 L $$aSiglo XX :$$bla historia continúa /$$cHilda D'Alessandro de Brandi.
+001676719 5050  L $$aIntroducción -- La historia continúa -- La competencia -- Los Juillerat, José (Pepe) Juillerat, el padre -- Félix (Pichón) Juillerat, el hijo.
+001676719 60014 L $$aJuillerat, José,$$dm. 1952
+001676719 60014 L $$aJuillerat, Félix,$$dm. 1978
+001676719 650 4 L $$aFotografía$$zBuenos Aires (Provincia)$$zChascomús [Buenos Aires (Provincia)]$$xHistoria
+001676719 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 135-138$$w(AR-BaBN)001314582
+001676719 LKR   L $$aDN$$b001314582$$lBNA01$$mSiglo XX : la historia continúa / Hilda D'Alessandro de Brandi$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 135-138
+001676719 OWN   L $$aCAT_FOTO
+001676719 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1732
+001676717 FMT   L BK
+001676717 LDR   L 00000naa^a22^^^^^^a^4500
+001676717 001   L 001676717
+001676717 005   L 20261001165727.0
+001676717 007   L ta
+001676717 008   L 261001s1996^^^^ag^o^^^gr^^^^^000^0^spa^^
+001676717 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676717 1001  L $$aDelgado, Carmen$$eautora$$4aut
+001676717 24510 L $$aHiram Calógero y los procedimientos de arte en fotografía /$$cCarmen Delgado y Carlos Raggi.
+001676717 5050  L $$aHiram Gerardo Calógero (1885-1957) -- Calógero, el buen viajero -- Arte-Fotografía-Arte -- El procedimiento del Bromóleo -- La perdurabilidad de las tintas grasas -- El libro de Hiram Calógero "Procedimientos de arte en Fotografía" -- Técnicas de transporte -- Descripción del libro -- El grupo Cachalac -- Orgullo de autoría -- Calogéro, un virtuoso del pincel -- Exposición homenaje -- Exposición (de los autores) 1990 -- 72 años de vida fecunda.
+001676717 60014 L $$aCalógero, Hiram Gerardo,$$d1885-1957
+001676717 60014 L $$aCalógero, Hiram Gerardo,$$d1885-1957.$$tProcedimientos de arte en Fotografía
+001676717 650 4 L $$aFotografía$$xTécnicas
+001676717 7001  L $$aRaggi, Carlos$$eautor$$4aut
+001676717 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 123-128$$w(AR-BaBN)001314582
+001676717 LKR   L $$aDN$$b001314582$$lBNA01$$mHiram Calógero y los procedimientos de arte en fotografía / Carmen Delgado y Carlos Raggi$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 123-128
+001676717 OWN   L $$aCAT_FOTO
+001676717 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1657
 001676480 FMT   L BK
 001676480 LDR   L 00000naa^a22^^^^^^a^4500
 001676480 001   L 001676480
@@ -187,6 +274,23 @@
 001676480 LKR   L $$aDN$$b001314582$$lBNA01$$mApuntes para una historia de los panoramas de rotonda / Marta Dujovne y Ana María Telesca$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 53-58
 001676480 OWN   L $$aCAT_FOTO
 001676480 CAT   L $$aFORTIZ$$b20$$c20260929$$lBNA01$$h1724
+001676722 FMT   L BK
+001676722 LDR   L 00000naa^a22^^^^^^a^4500
+001676722 001   L 001676722
+001676722 005   L 20261001174841.0
+001676722 007   L ta
+001676722 008   L 261001s1996^^^^ag^^^^^gr^^^^^000^0^spa^^
+001676722 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676722 043   L $$as-ag---
+001676722 1001  L $$aFaure, Patricia$$eautora$$4aut
+001676722 24513 L $$aLa fotografía en algunos museos de la ciudad de Buenos Aires /$$cPatricia Faure.
+001676722 5050  L $$aMuseo de Arte Moderno -- Museo Nacional de Bellas Artes -- Museo de Casa de Gobierno -- Museo Municipal del Cine Pablo C. Ducrós Hicken -- Museo de la Ciudad -- Museo Histórico Nacional -- Museo Mitre -- Museo Histórico de la ciudad de Buenos Aires brigadier Cornelio Saavedra.
+001676722 650 4 L $$aMuseos$$zBuenos Aires
+001676722 650 4 L $$aColecciones de fotografías$$zBuenos Aires
+001676722 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 149-151$$w(AR-BaBN)001314582
+001676722 LKR   L $$aDN$$b001314582$$lBNA01$$mLa fotografía en algunos museos de la ciudad de Buenos Aires / Patricia Faure$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 149-151
+001676722 OWN   L $$aCAT_FOTO
+001676722 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1748
 001676623 FMT   L BK
 001676623 LDR   L 00000naa^a22^^^^^^a^4500
 001676623 001   L 001676623
@@ -310,6 +414,23 @@
 001676612 LKR   L $$aDN$$b001314582$$lBNA01$$mUn viaje ilustrado / Eduardo L. Marcet; Haydée Epifanio$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 71-76
 001676612 OWN   L $$aCAT_FOTO
 001676612 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1634
+001676721 FMT   L BK
+001676721 LDR   L 00000naa^a22^^^^^^a^4500
+001676721 001   L 001676721
+001676721 005   L 20261001174303.0
+001676721 007   L ta
+001676721 008   L 261001s1996^^^^ag^^^^^grb^^^^000^0^spa^^
+001676721 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676721 043   L $$as-ag---
+001676721 1001  L $$aMirande Lamedica, Gabriela$$eautora$$4aut
+001676721 24510 L $$aAlgunas consideraciones acerca del acceso y la documentación de la fotografía en el Museo Mitre /$$cGabriela Mirande Lamédica.
+001676721 504   L $$aBibliografía: p. 148.
+001676721 61024 L $$aMuseo Mitre (Argentina)$$xColecciones de fotografías
+001676721 61024 L $$aMuseo Mitre (Argentina)$$xReglamentos
+001676721 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 147-148$$w(AR-BaBN)001314582
+001676721 LKR   L $$aDN$$b001314582$$lBNA01$$mAlgunas consideraciones acerca del acceso y la documentación de la fotografía en el Museo Mitre / Gabriela Mirande Lamédica$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 147-148
+001676721 OWN   L $$aCAT_FOTO
+001676721 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1743
 001676469 FMT   L BK
 001676469 LDR   L 00000naa^a22^^^^^^a^4500
 001676469 001   L 001676469
@@ -344,6 +465,23 @@
 001676619 OWN   L $$aCAT_FOTO
 001676619 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1723
 001676619 CAT   L $$aFORTIZ$$b20$$c20260930$$lBNA01$$h1726
+001676718 FMT   L BK
+001676718 LDR   L 00000naa^a22^^^^^^a^4500
+001676718 001   L 001676718
+001676718 005   L 20261001170700.0
+001676718 007   L ta
+001676718 008   L 261001s1996^^^^ag^^^^^gr^^^^^000^0^spa^^
+001676718 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001676718 043   L $$as-ag---
+001676718 1001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+001676718 24510 L $$aA. José Klein y los colonos valesanos de San Jerónimo Norte /$$cLuis Priamo.
+001676718 60014 L $$aKlein, José,$$d1849-1898
+001676718 650 4 L $$aFotógrafos argentinos$$xHistoria$$ySiglo XIX
+001676718 651 4 L $$aSan Jerónimo Norte$$xHistoria
+001676718 7731  L $$aCongreso de Historia de la Fotografía (4º : 1995 octubre : Buenos Aires)$$t4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A.$$gp. 129-134$$w(AR-BaBN)001314582
+001676718 LKR   L $$aDN$$b001314582$$lBNA01$$mA. José Klein y los colonos valesanos de San Jerónimo Norte / Luis Priamo$$n4º Congreso de Historia de la Fotografía : organizado por el Comité Ejecutivo Permanente para los Congresos de Historia de la Fotografía ; con el auspicio del Comité Ejecutivo Foto '95, la Federación Argentina de Fotografía y AGFA S.A., p. 129-134
+001676718 OWN   L $$aCAT_FOTO
+001676718 CAT   L $$aFORTIZ$$b20$$c20261001$$lBNA01$$h1707
 001676483 FMT   L BK
 001676483 LDR   L 00000naa^a22^^^^^^a^4500
 001676483 001   L 001676483
