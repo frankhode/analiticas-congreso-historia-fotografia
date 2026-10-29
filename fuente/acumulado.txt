@@ -3622,7 +3622,7 @@
 001677874 FMT   L BK
 001677874 LDR   L 00000naa^a22^^^^^^a^4500
 001677874 001   L 001677874
-001677874 005   L 20261019144335.0
+001677874 005   L 20261029171607.0
 001677874 007   L ta
 001677874 008   L 261019s2001^^^^ag^o^^^grb^^^^000^0^spa^^
 001677874 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
@@ -3630,33 +3630,35 @@
 001677874 1001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
 001677874 24510 L $$aAlfredo Cosson, pionero del daguerrotipo /$$cAbel Alexander.
 001677874 504   L $$aBibliografía: p. 77.
-001677874 5050  L $$a1. El daguerrotipo; su invento y divulgación en América del Sur -- 2. Daguerrotipistas en Buenos Aires -- 3. Intrépidos viajeros -- 4. Alfredo Cosson y Amdeo Jacques -- 5. Alfredo cosson, daguerrotipista en Salta.
+001677874 5050  L $$a1. El daguerrotipo; su invento y divulgación en América del Sur -- 2. Daguerrotipistas en Buenos Aires -- 3. Intrépidos viajeros -- 4. Alfredo Cosson y Amdeo Jacques -- 5. Alfredo Cosson, daguerrotipista en Salta.
 001677874 60014 L $$aCosson, Alfredo,$$dca. 1820-1881
 001677874 650 4 L $$aFotografía$$zArgentina$$xHistoria
 001677874 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 75-78$$w(AR-BaBN)000363857
 001677874 LKR   L $$aDN$$b000363857$$lBNA01$$mAlfredo Cosson, pionero del daguerrotipo / Abel Alexander$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 75-78
 001677874 OWN   L $$aCAT_FOTO
 001677874 CAT   L $$aFORTIZ$$b20$$c20261019$$lBNA01$$h1443
+001677874 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
 001677879 FMT   L BK
 001677879 LDR   L 00000naa^a22^^^^^^a^4500
 001677879 001   L 001677879
-001677879 005   L 20261019145445.0
+001677879 005   L 20261029171556.0
 001677879 007   L ta
 001677879 008   L 261019s2001^^^^ag^^^^^gr^^^^^000^0^spa^^
 001677879 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
 001677879 043   L $$as-ag---
 001677879 1001  L $$aAntueno, María Gabriela de$$eautora$$4aut
-001677879 24510 L $$aFotos en una Biblioteca. La colección en la Biblioteca Galvez /$$cMaría Gabriela de Antueno, Felicitas Luna.
+001677879 24510 L $$aFotos en una Biblioteca. La colección en la Biblioteca Gálvez /$$cMaría Gabriela de Antueno, Felicitas Luna.
 001677879 61024 L $$aBiblioteca Manuel Gálvez$$xColecciones de fotografías
 001677879 7001  L $$aLuna, Felicitas,$$d1964-$$eautora$$4aut
 001677879 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 85-86$$w(AR-BaBN)000363857
-001677879 LKR   L $$aDN$$b000363857$$lBNA01$$mFotos en una Biblioteca. La colección en la Biblioteca Galvez / María Gabriela de Antueno, Felicitas Luna$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 85-86
+001677879 LKR   L $$aDN$$b000363857$$lBNA01$$mFotos en una Biblioteca. La colección en la Biblioteca Gálvez / María Gabriela de Antueno, Felicitas Luna$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 85-86
 001677879 OWN   L $$aCAT_FOTO
 001677879 CAT   L $$aFORTIZ$$b20$$c20261019$$lBNA01$$h1454
+001677879 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1715
 001678616 FMT   L BK
 001678616 LDR   L 00000naa^a22^^^^^^a^4500
 001678616 001   L 001678616
-001678616 005   L 20261026161838.0
+001678616 005   L 20261029171617.0
 001678616 007   L ta
 001678616 008   L 261026s2001^^^^ag^^^^^grb^^^^000^0^spa^^
 001678616 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
@@ -3664,33 +3666,36 @@
 001678616 24510 L $$aRecuperación de la historia personal y local mediante la fotografía antigua /$$cOlga L. Arean.
 001678616 504   L $$aBibliografía: p. 122.
 001678616 650 4 L $$aFotografía$$xAspectos sociales
+001678616 650 4 L $$aMemoria colectiva
 001678616 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 121-122$$w(AR-BaBN)000363857
 001678616 LKR   L $$aDN$$b000363857$$lBNA01$$mRecuperación de la historia personal y local mediante la fotografía antigua / Olga L. Arean$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 121-122
 001678616 OWN   L $$aCAT_FOTO
 001678616 CAT   L $$aFORTIZ$$b20$$c20261026$$lBNA01$$h1618
+001678616 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
 001677424 FMT   L BK
 001677424 LDR   L 00000naa^a22^^^^^^a^4500
 001677424 001   L 001677424
-001677424 005   L 20261013173220.0
+001677424 005   L 20261029171612.0
 001677424 007   L ta
 001677424 008   L 261013s2001^^^^ag^^^^^grb^^^^000^0^spa^^
 001677424 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
 001677424 043   L $$acl-----$$ae-sp---
 001677424 1001  L $$aBaldani, María Ana$$eautora$$4aut
-001677424 24513 L $$aEl Fotoperiodista Rafael Castro y Ordóñez y su paso por Buenos Aires :$$bComsisión Científica del Pacífico, 1862-1866 /$$cMaría Ana Baldani, María del Pilar Cámara.
+001677424 24513 L $$aEl Fotoperiodista Rafael Castro y Ordóñez y su paso por Buenos Aires :$$bComisión Científica del Pacífico, 1862-1866 /$$cMaría Ana Baldani, María del Pilar Cámara.
 001677424 504   L $$aBibliografía: p. 30.
 001677424 60014 L $$aCastro Ordóñez, Rafael,$$d1830 o 1834-1865
 001677424 61024 L $$aComisión científica del Pacífico (1862-1866)
 001677424 7001  L $$aCámara, María del Pilar$$eautora$$4aut
 001677424 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 29-30$$w(AR-BaBN)000363857
-001677424 LKR   L $$aDN$$b000363857$$lBNA01$$mEl Fotoperiodista Rafael Castro y Ordóñez y su paso por Buenos Aires : Comsisión Científica del Pacífico, 1862-1866 / María Ana Baldani, María del Pilar Cámara$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 29-30
+001677424 LKR   L $$aDN$$b000363857$$lBNA01$$mEl Fotoperiodista Rafael Castro y Ordóñez y su paso por Buenos Aires : Comisión Científica del Pacífico, 1862-1866 / María Ana Baldani, María del Pilar Cámara$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 29-30
 001677424 OWN   L $$aCAT_FOTO
 001677424 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1731
 001677424 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1732
+001677424 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
 001677421 FMT   L BK
 001677421 LDR   L 00000naa^a22^^^^^^a^4500
 001677421 001   L 001677421
-001677421 005   L 20261013171640.0
+001677421 005   L 20261029171608.0
 001677421 007   L ta
 001677421 008   L 261013s2001^^^^ag^o^^^grb^^^^000^0^spa^^
 001677421 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
@@ -3698,7 +3703,7 @@
 001677421 1001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
 001677421 24514 L $$aLos fotógrafos de Ingeniero Luiggi, pcia de La Pampa :$$bBautista Amé y su dinastía /$$cCarlos Barrios Barón.
 001677421 504   L $$aBibliografía: p. 18.
-001677421 5050  L $$aAmbito de actuación -- Los fotógrafos -- Bautista Amé. Sus inicios -- Sus obras der carpintería. Sus maestros de fotografía -- La fotografía "La Pampa" o "Foto Amé" -- "El pañuelo de Clarita" y la "Academia Saleny" -- El retorno a Foto "Amé". Sus colaboradores -- Otras actividades. Su fallecimiento -- Su herencia.
+001677421 5050  L $$aAmbito de actuación -- Los fotógrafos -- Bautista Amé. Sus inicios -- Sus obras de carpintería. Sus maestros de fotografía -- La fotografía "La Pampa" o "Foto Amé" -- "El pañuelo de Clarita" y la "Academia Saleny" -- El retorno a Foto "Amé". Sus colaboradores -- Otras actividades. Su fallecimiento -- Su herencia.
 001677421 60014 L $$aAmé, Bautista,$$d1889-1973
 001677421 650 4 L $$aFotografía$$zLa Pampa (Provincia)
 001677421 651 4 L $$aIngeniero Luiggi$$xHistoria
@@ -3706,15 +3711,16 @@
 001677421 LKR   L $$aDN$$b000363857$$lBNA01$$mLos fotógrafos de Ingeniero Luiggi, pcia de La Pampa : Bautista Amé y su dinastía / Carlos Barrios Barón$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 15-18
 001677421 OWN   L $$aCAT_FOTO
 001677421 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1716
+001677421 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
 001677862 FMT   L BK
 001677862 LDR   L 00000naa^a22^^^^^^a^4500
 001677862 001   L 001677862
-001677862 005   L 20261019141459.0
+001677862 005   L 20261029171551.0
 001677862 007   L ta
 001677862 008   L 261019s2001^^^^ag^o^^^grb^^^^000^0^spa^^
 001677862 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
 001677862 043   L $$as-ag---
-001677862 1001  L $$aBasigalup, Nora Josefina$$eautor$$4aut
+001677862 1001  L $$aBasigalup, Nora Josefina$$eautora$$4aut
 001677862 24513 L $$aUn siglo de contradicciones :$$bla fotografía como soporte de nuestra memoria /$$cNora Josefina Basigalup.
 001677862 504   L $$aBibliografía: p. 69.
 001677862 5050  L $$aUn comienzo optimista -- Gobernar es poblar -- Gobernar es comunicarnos. El ferrocarril en la Argentina -- Gobernar es educar al soberano -- Afirmar la soberanía: Malvinas.
@@ -3724,6 +3730,7 @@
 001677862 LKR   L $$aDN$$b000363857$$lBNA01$$mUn siglo de contradicciones : la fotografía como soporte de nuestra memoria / Nora Josefina Basigalup$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 65-69
 001677862 OWN   L $$aCAT_FOTO
 001677862 CAT   L $$aFORTIZ$$b20$$c20261019$$lBNA01$$h1414
+001677862 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1715
 001677877 FMT   L BK
 001677877 LDR   L 00000naa^a22^^^^^^a^4500
 001677877 001   L 001677877
@@ -3921,12 +3928,12 @@
 001677422 FMT   L BK
 001677422 LDR   L 00000naa^a22^^^^^^a^4500
 001677422 001   L 001677422
-001677422 005   L 20261013172029.0
+001677422 005   L 20261029171542.0
 001677422 007   L ta
 001677422 008   L 261013s2001^^^^ag^o^^^grb^^^^000^0^spa^^
 001677422 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
 001677422 043   L $$as-ag---
-001677422 1001  L $$aFranco, Alfredo$$eautor$$4aut
+001677422 1001  L $$aFranco, Alfredo Miguel$$eautor$$4aut
 001677422 24510 L $$aÁngel Paganelli retratista de la sociedad tucumana /$$cAlfredo Franco y Oscar Paz.
 001677422 504   L $$aBibliografía: p. 23-24.
 001677422 5050  L $$aObras relevadas -- Cronología de Angel Paganelli.
@@ -3937,6 +3944,7 @@
 001677422 LKR   L $$aDN$$b000363857$$lBNA01$$mÁngel Paganelli retratista de la sociedad tucumana / Alfredo Franco y Oscar Paz$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 19-24
 001677422 OWN   L $$aCAT_FOTO
 001677422 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1720
+001677422 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1715
 001677423 FMT   L BK
 001677423 LDR   L 00000naa^a22^^^^^^a^4500
 001677423 001   L 001677423
@@ -3955,7 +3963,7 @@
 001677428 FMT   L BK
 001677428 LDR   L 00000naa^a22^^^^^^a^4500
 001677428 001   L 001677428
-001677428 005   L 20261013175644.0
+001677428 005   L 20261029171534.0
 001677428 007   L ta
 001677428 008   L 261013s2001^^^^ag^o^^^grb^^^^000^0^spa^^
 001677428 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
@@ -3965,11 +3973,12 @@
 001677428 5050  L $$aPresencia inevitable -- Maestra de la vida -- Objetivos de la enseñanza de la historia -- Conciencia histórica -- Desarrollo de la propia identidad -- Capacidad para analizar la realidad presente -- El papel de las historias particulares en la formación de los jóvenes -- Aportes de la cátedra de historia de la fotografía.
 001677428 650 4 L $$aHistoria$$xFilosofía
 001677428 650 4 L $$aFotografía$$xHistoria
-001677428 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 35- 38$$w(AR-BaBN)000363857
-001677428 LKR   L $$aDN$$b000363857$$lBNA01$$mLa enseñanza de la historia de la fotografía : su valor pedagógico en la formación de los profesionales de la imagen / Mónica S. Incorvaia$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 35- 38
+001677428 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 35-38$$w(AR-BaBN)000363857
+001677428 LKR   L $$aDN$$b000363857$$lBNA01$$mLa enseñanza de la historia de la fotografía : su valor pedagógico en la formación de los profesionales de la imagen / Mónica S. Incorvaia$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 35-38
 001677428 OWN   L $$aCAT_FOTO
 001677428 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1756
 001677428 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1756
+001677428 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1715
 001678615 FMT   L BK
 001678615 LDR   L 00000naa^a22^^^^^^a^4500
 001678615 001   L 001678615
@@ -4008,7 +4017,7 @@
 001677429 FMT   L BK
 001677429 LDR   L 00000naa^a22^^^^^^a^4500
 001677429 001   L 001677429
-001677429 005   L 20261013180301.0
+001677429 005   L 20261029171605.0
 001677429 007   L ta
 001677429 008   L 261013s2001^^^^ag^o^^^grb^^^^000^0^spa^^
 001677429 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
@@ -4016,7 +4025,7 @@
 001677429 1001  L $$aMirande Lamedica, Gabriela$$eautora$$4aut
 001677429 24510 L $$aMalta. Cronista fotográfico de Río de Janeiro /$$cGabriela Mirande Lamedica.
 001677429 504   L $$aBibliografía: p. 42.
-001677429 5050  L $$aIntroducción -- ¿Por que registrar fotográficamente los cambios? -- El funcionario que confió en Malta -- Malta: de profesión fotógrafo -- La herencia fotográfica de Malta -- La colección brasileña de los argentinos o fotografías de Malta en el Museo Mitre -- Palabras finales.
+001677429 5050  L $$aIntroducción -- ¿Por qué registrar fotográficamente los cambios? -- El funcionario que confió en Malta -- Malta: de profesión fotógrafo -- La herencia fotográfica de Malta -- La colección brasileña de los argentinos o fotografías de Malta en el Museo Mitre -- Palabras finales.
 001677429 60014 L $$aMalta, Augusto,$$d1864-1957
 001677429 650 4 L $$aFotografía$$zBrasil$$xHistoria
 001677429 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 39-42$$w(AR-BaBN)000363857
@@ -4024,6 +4033,7 @@
 001677429 OWN   L $$aCAT_FOTO
 001677429 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1802
 001677429 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1803
+001677429 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
 001677866 FMT   L BK
 001677866 LDR   L 00000naa^a22^^^^^^a^4500
 001677866 001   L 001677866
@@ -4077,7 +4087,7 @@
 001677849 FMT   L BK
 001677849 LDR   L 00000naa^a22^^^^^^a^4500
 001677849 001   L 001677849
-001677849 005   L 20261019133222.0
+001677849 005   L 20261029171539.0
 001677849 007   L ta
 001677849 008   L 261019s2001^^^^ag^o^^^gr^^^^^000^0^spa^^
 001677849 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
@@ -4089,3 +4099,385 @@
 001677849 LKR   L $$aDN$$b000363857$$lBNA01$$mGastón Bourquin: paisajista y editor / Verónica Tell$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 43-46
 001677849 OWN   L $$aCAT_FOTO
 001677849 CAT   L $$aFORTIZ$$b20$$c20261019$$lBNA01$$h1332
+001677849 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1715
+001678784 FMT   L BK
+001678784 LDR   L 00000naa^a22^^^^^^a^4500
+001678784 001   L 001678784
+001678784 005   L 20261027155653.0
+001678784 007   L ta
+001678784 008   L 261027s2001^^^^ag^o^^^grb^^^^000^0^spa^^
+001678784 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001678784 043   L $$as-cl---
+001678784 1001  L $$aAlvarado Pérez, Margarita,$$d1950-$$eautora$$4aut
+001678784 24513 L $$aEl insólito caso de la suplantación de un fotógrafo de la frontera :$$bconstrucción y montaje de un imaginario /$$cMargarita Alvarado P.
+001678784 504   L $$aBibliografía: p. 133-134.
+001678784 5050  L $$aFotografía mapuche, realidad y sobre-exhibición: imágenes clave e identidad étnica -- Crónica del suplantamiento de un fotógrafo de la frontera -- Primer episodio: aparición de un longko -- Segundo episodio: suplantación de un caballero -- Tercer episodio: el reencuentro con un longko -- Cuarto episodio: el reencuentro con un caballero -- Construcción y montaje de un imaginario: las fotografías mapuche como creaciones culturales.
+001678784 650 4 L $$aMapuches$$zChile$$xHistoria
+001678784 650 4 L $$aMapuches$$xIdentidad étnica
+001678784 650 4 L $$aFotografía$$xAspectos sociales
+001678784 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 129-134$$w(AR-BaBN)000363857
+001678784 LKR   L $$aDN$$b000363857$$lBNA01$$mEl insólito caso de la suplantación de un fotógrafo de la frontera : construcción y montaje de un imaginario / Margarita Alvarado P.$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 129-134
+001678784 OWN   L $$aCAT_FOTO
+001678784 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1556
+000363857 FMT   L BK
+000363857 LDR   L 00000aam^a22^^^^^^a^4500
+000363857 001   L 000363857
+000363857 003   L AR-BaBN
+000363857 005   L 20261029171549.0
+000363857 007   L ta
+000363857 008   L 080624s2001^^^^ag^co^^gr^^^^^101^0^spa^^
+000363857 015   L $$aAR-2001
+000363857 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+000363857 043   L $$as-ag---
+000363857 044   L $$aag$$car-b
+000363857 0801  L $$a77(091)(062.537)$$22016
+000363857 1112  L $$aCongreso de Historia de la Fotografía$$n(6o :$$d1999 :$$cSalta, Argentina)$$jorganizador$$4orm
+000363857 24510 L $$aCongreso de Historia de la Fotografía, 6 :$$b9 y 10 de setiembre de 1999 [memoria].
+000363857 24603 L $$aSexto Congreso de Historia de la Fotografía
+000363857 24604 L $$aHistoria de la fotografía :$$bmemoria del 6° Congreso de Historia de la Fotografía en la Argentina, Salta 1999
+000363857 250   L $$a1a ed.
+000363857 260   L $$aTemperley :$$bComité Ejecutivo Permanente para los Congresos de Historia de la Fotografía en la Argentina,$$c2001.
+000363857 300   L $$a191 p. :$$bfot. byn, retrs. byn ;$$c28 cm.
+000363857 500   L $$3Inventario 00844215:$$aDedicatoria manuscrita a la Biblioteca Nacional.$$5AR-BaBN
+000363857 504   L $$aIncluye notas y referencias bibliográficas al final de cada capítulo.
+000363857 650 4 L $$aFotografía$$zArgentina$$xHistoria$$vDocumentos de congresos, conferencias, etc.
+000363857 655 4 L $$aDocumentos de congresos, conferencias, etc.
+000363857 7001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
+000363857 7001  L $$aAlvarado Pérez, Margarita,$$d1950-$$eautora$$4aut
+000363857 7001  L $$aAntueno, María Gabriela de$$eautora$$4aut
+000363857 7001  L $$aArean, Olga$$eautora$$4aut
+000363857 7001  L $$aBaldani, María Ana$$eautora$$4aut
+000363857 7001  L $$aBarrios Barón, Carlos,$$d1917-$$eautor$$4aut
+000363857 7001  L $$aBasigalup, Nora Josefina$$eautora$$4aut
+000363857 7001  L $$aBruno, Amalia$$eautora$$4aut
+000363857 7001  L $$aCalvo, Jorge R.$$eautor$$4aut
+000363857 7001  L $$aCasellato, Pier Antonio$$eautor$$4aut
+000363857 7001  L $$aChávez, Antonio R.$$eautor$$4aut
+000363857 7001  L $$aCuarterolo, Andrea$$eautora$$4aut
+000363857 7001  L $$aCuarterolo, Miguel Angel,$$d1950-2002$$eautor$$4aut
+000363857 7001  L $$aCámara, María del Pilar$$eautora$$4aut
+000363857 7001  L $$aD'Alessandro de Brandi, Hilda,$$d1937-$$eautora$$4aut
+000363857 7001  L $$aDiez, María Angélica$$eautora$$4aut
+000363857 7001  L $$aDozo, Ana Luisa$$eautora$$4aut
+000363857 7001  L $$aEpifanio, Haydeé$$eautora$$4aut
+000363857 7001  L $$aEspinoza, María Rosa$$eautora$$4aut
+000363857 7001  L $$aFerrari, Roberto A.,$$d1949-$$eautor$$4aut
+000363857 7001  L $$aFranco, Alfredo Miguel$$eautor$$4aut
+000363857 7001  L $$aGrifasi, Gustavo Adolfo$$eautor$$4aut
+000363857 7001  L $$aGuarrera, Lucrecia$$eautora$$4aut
+000363857 7001  L $$aGutiérrez, Ramón,$$d1939-2026$$eautor$$4aut
+000363857 7001  L $$aGómez, Juan,$$d1932-2018$$eautor$$4aut
+000363857 7001  L $$aHornia, Graciela$$eautora$$4aut
+000363857 7001  L $$aIglesia, Alicia Irene de la$$eautora$$4aut
+000363857 7001  L $$aIncorvaia, Mónica$$eautora$$4aut
+000363857 7001  L $$aLazarovich, Mario$$eautor$$4aut
+000363857 7001  L $$aLeiva Quijada, Gonzalo,$$d1961-$$eautor$$4aut
+000363857 7001  L $$aLombardo, Marta Alicia$$eautora$$4aut
+000363857 7001  L $$aLuna, Felicitas,$$d1964-$$eautora$$4aut
+000363857 7001  L $$aLópez, Eduardo Norberto$$eautor$$4aut
+000363857 7001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+000363857 7001  L $$aMirabelli, Cristina$$eautora$$4aut
+000363857 7001  L $$aMirande Lamedica, Gabriela$$eautora$$4aut
+000363857 7001  L $$aPardeilhan, Clara$$eautora$$4aut
+000363857 7001  L $$aParola, Publio G.$$eautor$$4aut
+000363857 7001  L $$aPaz, Oscar$$eautor$$4aut
+000363857 7001  L $$aPojasi, Alejandro Ubaldo,$$d1957-2021$$eautor$$4aut
+000363857 7001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+000363857 7001  L $$aRisso Patrón, Martín$$eautor$$4aut
+000363857 7001  L $$aSolanas Pacheco, Julia$$eautora$$4aut
+000363857 7001  L $$aSánchez, Luz del Sol$$eautora$$4aut
+000363857 7001  L $$aTell, Verónica$$eautora$$4aut
+000363857 7001  L $$aTesler, Mario,$$d1941-$$eautor$$4aut
+000363857 7001  L $$aTroya, Felisa Liliana$$eautora$$4aut
+000363857 7001  L $$aViñuales, Graciela María,$$d1940-$$eautora$$4aut
+000363857 OWN   L $$aCAT_LIBRO
+000363857 OWN   L $$aCAT_FOTO
+000363857 CAT   L $$aGSL$$b00$$c20110915$$lBNA01$$h1952
+000363857 CAT   L $$aGSL$$b$$c20130614$$lBNA01$$h1543
+000363857 CAT   L $$aCATAU$$b20$$c20140515$$lBNA01$$h0916
+000363857 CAT   L $$aCATAU$$b20$$c20140515$$lBNA01$$h0916
+000363857 CAT   L $$aCATAU$$b20$$c20140515$$lBNA01$$h0924
+000363857 CAT   L $$aBCARRIZO$$b20$$c20260211$$lBNA01$$h1432
+000363857 CAT   L $$aVCIOCCA$$b20$$c20260212$$lBNA01$$h1146
+000363857 CAT   L $$aVCIOCCA$$b20$$c20260213$$lBNA01$$h1025
+000363857 CAT   L $$aBATCH-UPD$$b20$$c20260702$$lBNA01$$h1254
+000363857 CAT   L $$aBATCH-UPD$$b20$$c20260730$$lBNA01$$h1216
+000363857 CAT   L $$aFORTIZ$$b20$$c20261013$$lBNA01$$h1803
+000363857 CAT   L $$aFORTIZ$$b20$$c20261019$$lBNA01$$h1459
+000363857 CAT   L $$aFORTIZ$$b20$$c20261026$$lBNA01$$h1814
+000363857 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1636
+000363857 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1656
+000363857 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1657
+000363857 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1700
+000363857 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1715
+000363857 Z30-1 L $$lBNA01$$LBNA01$$mLIBRO$$1FOTO$$AFototeca$$2LIBRO$$BColección Libros$$3FOES061332$$600844215$$500844215$$4Arq. Antonia Pérez Bayo -- 20080400$$7B -- Dedicatoria manuscrita$$820110912$$f15$$FPréstamo común en sala$$s02$$n028$$q000010$$o000363857
+001679110 FMT   L BK
+001679110 LDR   L 00000naa^a22^^^^^^a^4500
+001679110 001   L 001679110
+001679110 005   L 20261029170654.0
+001679110 007   L ta
+001679110 008   L 261029s2001^^^^ag^^^^^gr^^^^^000^0^spa^^
+001679110 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679110 043   L $$as-ag---
+001679110 1001  L $$aFerrari, Roberto A.,$$d1949-$$eautor$$4aut
+001679110 24510 L $$aAngel Paganelli y sus tempranas fotografías de Tucumán /$$cRoberto A. Ferrari.
+001679110 5050  L $$aResumen -- Tucumán en 1865 -- Vistas del país anteriores a 1870 -- El libro con fotografía montadas -- Los hermanos Paganelli -- Las vistas -- El libro ilustrado -- Conclusiones.
+001679110 60014 L $$aPaganelli, Angel,$$d1832-1928
+001679110 650 4 L $$aFotografía$$zTucumán (Provincia)$$xHistoria
+001679110 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 177-182$$w(AR-BaBN)000363857
+001679110 LKR   L $$aDN$$b000363857$$lBNA01$$mAngel Paganelli y sus tempranas fotografías de Tucumán / Roberto A. Ferrari$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 177-182
+001679110 OWN   L $$aCAT_FOTO
+001679110 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1627
+001679110 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1706
+001678787 FMT   L BK
+001678787 LDR   L 00000naa^a22^^^^^^a^4500
+001678787 001   L 001678787
+001678787 005   L 20261027160525.0
+001678787 007   L ta
+001678787 008   L 261027s2001^^^^ag^^^^^grb^^^^000^0^spa^^
+001678787 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001678787 1001  L $$aFranco, Alfredo Miguel$$eautor$$4aut
+001678787 24510 L $$aMarcos Paz Peña, fotógrafo amateur, a comienzos del siglo /$$cAlfredo Miguel Franco.
+001678787 504   L $$aBibliografía: p. 137.
+001678787 60014 L $$aPaz Peña, Marcos,$$d1871-1921
+001678787 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 137$$w(AR-BaBN)000363857
+001678787 LKR   L $$aDN$$b000363857$$lBNA01$$mMarcos Paz Peña, fotógrafo amateur, a comienzos del siglo / Alfredo Miguel Franco$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 137
+001678787 OWN   L $$aCAT_FOTO
+001678787 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1605
+001679106 FMT   L BK
+001679106 LDR   L 00000naa^a22^^^^^^a^4500
+001679106 001   L 001679106
+001679106 005   L 20261029171619.0
+001679106 007   L ta
+001679106 008   L 261029s2001^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679106 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679106 1001  L $$aGrifasi, Gustavo Adolfo$$eautor$$4aut
+001679106 24513 L $$aLa investigación histórica /$$cGustavo Adolfo Grifasi, Martín Risso Patrón.
+001679106 5050  L $$aLos documentos -- La tradición oral -- El periódico como fuente histórica -- La fotografía: un caso singular -- La investigación genealógica, el caso de los Grifasi -- El protagonismo de la fotografía -- Las fotos hablan.
+001679106 650 4 L $$aHistoria$$xInvestigación
+001679106 650 4 L $$aHistoria$$xRecursos de información
+001679106 650 4 L $$aFotografía
+001679106 7001  L $$aRisso Patrón, Martín$$eautor$$4aut
+001679106 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 169-172$$w(AR-BaBN)000363857
+001679106 LKR   L $$aDN$$b000363857$$lBNA01$$mLa investigación histórica / Gustavo Adolfo Grifasi, Martín Risso Patrón$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 169-172
+001679106 OWN   L $$aCAT_FOTO
+001679106 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1617
+001679106 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
+001679101 FMT   L BK
+001679101 LDR   L 00000naa^a22^^^^^^a^4500
+001679101 001   L 001679101
+001679101 005   L 20261029171559.0
+001679101 007   L ta
+001679101 008   L 261029s2001^^^^ag^^^^^gr^^^^^000^0^spa^^
+001679101 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679101 043   L $$as-ag---
+001679101 1001  L $$aGuarrera, Lucrecia$$eautora$$4aut
+001679101 24513 L $$aLa Investigación Básica :$$bHerramienta fundamental para la consulta y la difusión de un archivo /$$cLucrecia Guarrera y Clara Pardeilhan.
+001679101 5050  L $$aIntroducción, breve reseña del CEDIAP -- El archivo de fotografías -- Identificación de las fotografías, las distintas lecturas de una fotografía -- Mirando el contenido -- Mirando el objeto -- La mirada del archivo -- La sistematización, el inventario original -- Los preinventarios -- Planilla de inventario, base de datos.
+001679101 61024 L $$aCentro de Documentación e Investigación de la Arquitectura Pública$$xColecciones de fotografías
+001679101 650 4 L $$aColecciones de fotografías
+001679101 7001  L $$aPardeilhan, Clara$$eautora$$4aut
+001679101 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 161-163$$w(AR-BaBN)000363857
+001679101 LKR   L $$aDN$$b000363857$$lBNA01$$mLa Investigación Básica : Herramienta fundamental para la consulta y la difusión de un archivo / Lucrecia Guarrera y Clara Pardeilhan$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 161-163
+001679101 OWN   L $$aCAT_FOTO
+001679101 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1602
+001679101 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1715
+001678788 FMT   L BK
+001678788 LDR   L 00000naa^a22^^^^^^a^4500
+001678788 001   L 001678788
+001678788 005   L 20261027160954.0
+001678788 007   L ta
+001678788 008   L 261027s2001^^^^ag^^^^^gr^^^^^000^0^spa^^
+001678788 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001678788 043   L $$as-ag---
+001678788 1001  L $$aGutiérrez, Ramón,$$d1939-2026$$eautor$$4aut
+001678788 24513 L $$aLa Primera Exposición de Historia de la Fotografía en Argentina. Witcomb, 1914 /$$cRamón Gutiérrez.
+001678788 5050  L $$a1. Los organizadores -- La exposición.
+001678788 61024 L $$aA. Witcomb & Cia.
+001678788 650 4 L $$aFotografía$$xExposiciones$$zArgentina$$xHistoria
+001678788 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 139-141$$w(AR-BaBN)000363857
+001678788 LKR   L $$aDN$$b000363857$$lBNA01$$mLa Primera Exposición de Historia de la Fotografía en Argentina. Witcomb, 1914 / Ramón Gutiérrez$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 139-141
+001678788 OWN   L $$aCAT_FOTO
+001678788 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1609
+001679108 FMT   L BK
+001679108 LDR   L 00000naa^a22^^^^^^a^4500
+001679108 001   L 001679108
+001679108 005   L 20261029161912.0
+001679108 007   L ta
+001679108 008   L 261029s2001^^^^ag^o^^^grb^^^^000^0^spa^^
+001679108 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679108 043   L $$as-ag---
+001679108 1001  L $$aHornia, Graciela$$eautora$$4aut
+001679108 24510 L $$aSanta Fe, imaginario y discurso visual 1860-1910 /$$cGraciela Hornia.
+001679108 504   L $$aBibliografía: p. 176.
+001679108 650 4 L $$aFotografía$$zSanta Fe (Provincia)$$xHistoria
+001679108 651 4 L $$aSanta Fe (Provincia)$$xHistoria
+001679108 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 173-176$$w(AR-BaBN)000363857
+001679108 LKR   L $$aDN$$b000363857$$lBNA01$$mSanta Fe, imaginario y discurso visual 1860-1910 / Graciela Hornia$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 173-176
+001679108 OWN   L $$aCAT_FOTO
+001679108 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1619
+001678786 FMT   L BK
+001678786 LDR   L 00000naa^a22^^^^^^a^4500
+001678786 001   L 001678786
+001678786 005   L 20261029171554.0
+001678786 007   L ta
+001678786 008   L 261027s2001^^^^ag^^^^^gr^^^^^000^0^spa^^
+001678786 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001678786 043   L $$as-ag---
+001678786 1001  L $$aIglesia, Alicia Irene de la$$eautora$$4aut
+001678786 24510 L $$aSusana Ferrer, primera fotógrafa aficionada de Vicente López /$$cAlicia Irene de la Iglesia, Eduardo Norberto López.
+001678786 60014 L $$aFerrer, Susana,$$d1891-
+001678786 651 4 L $$aVicente López [Buenos Aires (Provincia)]$$xHistoria
+001678786 7001  L $$aLópez, Eduardo Norberto$$eautor$$4aut
+001678786 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 135-136$$w(AR-BaBN)000363857
+001678786 LKR   L $$aDN$$b000363857$$lBNA01$$mSusana Ferrer, primera fotógrafa aficionada de Vicente López / Alicia Irene de la Iglesia, Eduardo Norberto López$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 135-136
+001678786 OWN   L $$aCAT_FOTO
+001678786 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1603
+001678786 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1715
+001679111 FMT   L BK
+001679111 LDR   L 00000naa^a22^^^^^^a^4500
+001679111 001   L 001679111
+001679111 005   L 20261029171623.0
+001679111 007   L ta
+001679111 008   L 261029s2001^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679111 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679111 043   L $$as-ag---
+001679111 1001  L $$aLazarovich, Mario$$eautor$$4aut
+001679111 24513 L $$aLa fotografía antigua como instrumento para el análisis de la evolución arquitectónica y urbana de Salta, 1850-1950 /$$cMario Lazarovich.
+001679111 650 4 L $$aFotografía$$zSalta (Provincia)$$xHistoria
+001679111 650 4 L $$aArquitectura$$zSalta (Provincia)$$xHistoria
+001679111 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 183-184$$w(AR-BaBN)000363857
+001679111 LKR   L $$aDN$$b000363857$$lBNA01$$mLa fotografía antigua como instrumento para el análisis de la evolución arquitectónica y urbana de Salta, 1850-1950 / Mario Lazarovich$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 183-184
+001679111 OWN   L $$aCAT_FOTO
+001679111 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1630
+001679111 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
+001678791 FMT   L BK
+001678791 LDR   L 00000naa^a22^^^^^^a^4500
+001678791 001   L 001678791
+001678791 005   L 20261027163141.0
+001678791 007   L ta
+001678791 008   L 261027s2001^^^^ag^^^^^gr^^^^^000^0^spa^^
+001678791 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001678791 043   L $$as-ag---
+001678791 1001  L $$aLombardo, Marta Alicia$$eautora$$4aut
+001678791 24513 L $$aLa fotografía en General Belgrano :$$bProvincia de Buenos Aires, su historia /$$cMarta Alicia Lombardo.
+001678791 5050  L $$a[Fotografías de la colección] -- Fotógrafos y estudios fotográficos en General Belgrano 1882-1930 -- Biografías de fotógrafos -- Juan A. López -- Nicolás Loyácono -- Guelfo Fochi.
+001678791 61024 L $$aMuseo histórico municipal Alfredo Enrique Múlgura (General Belgrano)$$xColecciones de fotografías
+001678791 650 4 L $$aFotografía$$zBuenos Aires (Provincia)$$zGeneral Belgrano [Buenos Aires (Provincia)]$$xHistoria
+001678791 651 4 L $$aGeneral Belgrano [Buenos Aires (Provincia)]$$xHistoria
+001678791 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 153-156$$w(AR-BaBN)000363857
+001678791 LKR   L $$aDN$$b000363857$$lBNA01$$mLa fotografía en General Belgrano : Provincia de Buenos Aires, su historia / Marta Alicia Lombardo$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 153-156
+001678791 OWN   L $$aCAT_FOTO
+001678791 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1631
+001679104 FMT   L BK
+001679104 LDR   L 00000naa^a22^^^^^^a^4500
+001679104 001   L 001679104
+001679104 005   L 20261029171614.0
+001679104 007   L ta
+001679104 008   L 261029s2001^^^^ag^o^^^grb^^^^000^0^spa^^
+001679104 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679104 043   L $$as-ag---
+001679104 1001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001679104 24510 L $$aJohn A. Bennet en Buenos Aires y el “Retrato” del Gobernador Otero /$$cEduardo Luis Marcet, Haydeé Epifanio.
+001679104 504   L $$aBibliografía: p. 168.
+001679104 5050  L $$aIntroducción -- Salta a fines del siglo XVIII -- Don Miguel Otero -- Buenos Aires en 1845 -- A manera de conclusión.
+001679104 60014 L $$aOtero, Miguel,$$d1790-1874
+001679104 60014 L $$aBennet, John Armstrong,$$d1818?-1875
+001679104 650 4 L $$aDaguerrotipo$$zArgentina$$xHistoria
+001679104 651 4 L $$aArgentina$$xHistoria$$ySiglo XIX
+001679104 7001  L $$aEpifanio, Haydeé$$eautora$$4aut
+001679104 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 165-168$$w(AR-BaBN)000363857
+001679104 LKR   L $$aDN$$b000363857$$lBNA01$$mJohn A. Bennet en Buenos Aires y el “Retrato” del Gobernador Otero / Eduardo Luis Marcet, Haydeé Epifanio$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 165-168
+001679104 OWN   L $$aCAT_FOTO
+001679104 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1611
+001679104 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1611
+001679104 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1638
+001679104 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
+001679113 FMT   L BK
+001679113 LDR   L 00000naa^a22^^^^^^a^4500
+001679113 001   L 001679113
+001679113 005   L 20261029164209.0
+001679113 007   L ta
+001679113 008   L 261029s2001^^^^ag^^^^^grb^^^^000^0^spa^^
+001679113 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679113 043   L $$as-ag---
+001679113 1001  L $$aSánchez, Luz del Sol$$eautora$$4aut
+001679113 24513 L $$aEl tiempo de Miguel Otero /$$cLuz del Sol Sánchez.
+001679113 504   L $$aBibliografía: p. 191.
+001679113 5050  L $$aIntroducción -- II. La situación en Buenos Aires -- II. Las provincias del interior -- IV. Las provincias del norte de la Confederación -- V. La Provincia de Salta VI. Conclusión.
+001679113 60014 L $$aOtero, Miguel,$$d1790-1874
+001679113 651 4 L $$aArgentina$$xHistoria$$ySiglo XIX
+001679113 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 189-191$$w(AR-BaBN)000363857
+001679113 LKR   L $$aDN$$b000363857$$lBNA01$$mEl tiempo de Miguel Otero / Luz del Sol Sánchez$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 189-191
+001679113 OWN   L $$aCAT_FOTO
+001679113 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1642
+001678792 FMT   L BK
+001678792 LDR   L 00000naa^a22^^^^^^a^4500
+001678792 001   L 001678792
+001678792 005   L 20261029171603.0
+001678792 007   L ta
+001678792 008   L 261027s2001^^^^ag^o^^^grb^^^^000^0^spa^^
+001678792 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001678792 043   L $$as-ag---
+001678792 1001  L $$aSolanas Pacheco, Julia$$eautora$$4aut
+001678792 24513 L $$aEl Regimiento de Granaderos a Caballo Gral. José de San Martín /$$cJulia Solanas Pacheco, Cristina Mirabelli.
+001678792 504   L $$aBibliografía: p. 160.
+001678792 5050  L $$a1. El Regimiento de Grranaderos a Caballo Gral. José de San Martín -- Nacimiento del Regimiento de Granaderos a Caballo -- 3. El Gral. Don José de San Martín -- 4. Características de la unidad militar -- 5. Desde su bautismo de sangre a la libertad de América -- 6. Segunda etapa del Regimiento -- La impronta de una mirada
+001678792 61014 L $$aArgentina.$$bEjército.$$bRegimiento de Granaderos a Caballo General San Martín$$xHistoria
+001678792 7001  L $$aMirabelli, Cristina$$eautora$$4aut
+001678792 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 157-160$$w(AR-BaBN)000363857
+001678792 LKR   L $$aDN$$b000363857$$lBNA01$$mEl Regimiento de Granaderos a Caballo Gral. José de San Martín / Julia Solanas Pacheco, Cristina Mirabelli$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 157-160
+001678792 OWN   L $$aCAT_FOTO
+001678792 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1636
+001678792 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1716
+001678789 FMT   L BK
+001678789 LDR   L 00000naa^a22^^^^^^a^4500
+001678789 001   L 001678789
+001678789 005   L 20261027161235.0
+001678789 007   L ta
+001678789 008   L 261027s2001^^^^ag^^^^^gr^^^^^000^0^spa^^
+001678789 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001678789 043   L $$ae-fr---
+001678789 1001  L $$aTesler, Mario,$$d1941-$$eautor$$4aut
+001678789 24510 L $$aFotografías de Christiano Junior llevadas a la Exposición Universal de París de 1878 por la Biblioteca Pública de Buenos Aires /$$cMario Tesler.
+001678789 5050  L $$aEl personaje y su obra -- Descripción de los álbumes y fotografías.
+001678789 60004 L $$aChristiano Junior,$$d1832-1902
+001678789 61124 L $$aExposición Universal$$n(3° :$$d1878 :$$cParís, Francia)
+001678789 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 143-148$$w(AR-BaBN)000363857
+001678789 LKR   L $$aDN$$b000363857$$lBNA01$$mFotografías de Christiano Junior llevadas a la Exposición Universal de París de 1878 por la Biblioteca Pública de Buenos Aires / Mario Tesler$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 143-148
+001678789 OWN   L $$aCAT_FOTO
+001678789 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1612
+001678790 FMT   L BK
+001678790 LDR   L 00000naa^a22^^^^^^a^4500
+001678790 001   L 001678790
+001678790 005   L 20261027162447.0
+001678790 007   L ta
+001678790 008   L 261027s2001^^^^ag^^^^^grb^^^^000^0^spa^^
+001678790 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001678790 043   L $$as-ag---
+001678790 1001  L $$aTroya, Felisa Liliana$$eautora$$4aut
+001678790 24510 L $$aMoisés Abraham Kossevich, Foto Moderna /$$cFelisa Liliana Troya.
+001678790 504   L $$aBibliografía: p. 151.
+001678790 60014 L $$aKossevich, Moisés Abraham,$$d1908-1951
+001678790 61024 L $$aFoto moderna
+001678790 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 149-151$$w(AR-BaBN)000363857
+001678790 LKR   L $$aDN$$b000363857$$lBNA01$$mMoisés Abraham Kossevich, Foto Moderna / Felisa Liliana Troya$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 149-151
+001678790 OWN   L $$aCAT_FOTO
+001678790 CAT   L $$aFORTIZ$$b20$$c20261027$$lBNA01$$h1624
+001679112 FMT   L BK
+001679112 LDR   L 00000naa^a22^^^^^^a^4500
+001679112 001   L 001679112
+001679112 005   L 20261029163726.0
+001679112 007   L ta
+001679112 008   L 261029s2001^^^^ag^^^^^grb^^^^000^0^spa^^
+001679112 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679112 1001  L $$aViñuales, Graciela María,$$d1940-$$eautora$$4aut
+001679112 24510 L $$aUso de la fotografía en la restauración de edificios /$$cGraciela María Viñuales.
+001679112 5050  L $$a1. Presentación del tema -- 2. El colegio de San Bernardo del Cusco, en el Perú -- 3. El histórico convento -- 4. La misión Nueva Pompeya -- 5. Resumiendo.
+001679112 650 4 L $$aArquitectura$$xConservación y restauración
+001679112 650 4 L $$aFotografía
+001679112 7731  L $$aCongreso de Historia de la Fotografía (6o : 1999 : Salta, Argentina)$$tCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999$$gp. 185-187$$w(AR-BaBN)000363857
+001679112 LKR   L $$aDN$$b000363857$$lBNA01$$mUso de la fotografía en la restauración de edificios / Graciela María Viñuales$$nCongreso de Historia de la Fotografía, 6 : 9 y 10 de setiembre de 1999, p. 185-187
+001679112 OWN   L $$aCAT_FOTO
+001679112 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1637
+001679112 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1637
