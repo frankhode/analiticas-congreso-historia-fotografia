@@ -4481,3 +4481,834 @@
 001679112 OWN   L $$aCAT_FOTO
 001679112 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1637
 001679112 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1637
+001679124 FMT   L BK
+001679124 LDR   L 00000naa^a22^^^^^^a^4500
+001679124 001   L 001679124
+001679124 005   L 20261117180129.0
+001679124 007   L ta
+001679124 008   L 261029s2003^^^^ag^^^^^grb^^^^000^0^spa^^
+001679124 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679124 043   L $$as-cl---
+001679124 1001  L $$aAbarca de la Fuente, Soledad$$eautora$$4aut
+001679124 24510 L $$aRescate, conservación y catalogación de la colección fotográfica del Convento de la Recoleta Dominica y el Convento Academia de Humanidades /$$cSoledad Abarca de la Fuente.
+001679124 5050  L $$aIntroducción -- Colección histórica -- Proceso de conservación y documentación -- Tratamientos de conservación -- Identificación y rotulado -- Digitalización -- Almacenaje -- Siguientes etapas -- Comentario final.
+001679124 61024 L $$aCentro Nacional del Patrimonio Fotográfico (Chile)
+001679124 650 4 L $$aFotografía$$xConservación y restauración
+001679124 650 4 L $$aFotografía$$xCatalogación
+001679124 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 9-11$$w(AR-BaBN)001034294
+001679124 LKR   L $$aDN$$b001034294$$lBNA01$$mRescate, conservación y catalogación de la colección fotográfica del Convento de la Recoleta Dominica y el Convento Academia de Humanidades / Soledad Abarca de la Fuente$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina
+001679124 OWN   L $$aCAT_FOTO
+001679124 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1745
+001679124 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001679126 FMT   L BK
+001679126 LDR   L 00000naa^a22^^^^^^a^4500
+001679126 001   L 001679126
+001679126 005   L 20261117180157.0
+001679126 007   L ta
+001679126 008   L 261029s2003^^^^ag^a^^^grb^^^^000^0^spa^^
+001679126 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679126 1001  L $$aAguirre Bello, Roberto$$eautor$$4aut
+001679126 24510 L $$aCatastro de colecciones fotográficas patrimoniales :$$bherramienta metodológica para el diagnóstico de la realidad de un país /$$cRoberto Aguirre Bello.
+001679126 5050  L $$aIntroducción -- Objetivos generales -- Objetivos específicos -- Desarrollo, Investigación sobre experiencias anteriores similares -- Recopilación de información sobre entidades y colecciones -- Criterios de selección de entidades y colecciones -- Ficha de catastro -- Elaboración de base de datos -- Salidas a terreno -- Análisis de datos -- Evaluación de la experiencia: 1. Metodología de trabajo -- 2. Selección de los temas para la ficha del catastro -- 3. Veracidad en la información -- 4. Catastro en terreno y contacto personal -- 5. Panorama de la realidad.
+001679126 650 4 L $$aColecciones de fotografías
+001679126 650 4 L $$aEncuestas de archivos
+001679126 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 13-16$$w(AR-BaBN)001034294
+001679126 LKR   L $$aDN$$b001034294$$lBNA01$$mCatastro de colecciones fotográficas patrimoniales : herramienta metodológica para el diagnóstico de la realidad de un país / Roberto Aguirre Bello$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 13-16
+001679126 OWN   L $$aCAT_FOTO
+001679126 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1802
+001679126 CAT   L $$aFORTIZ$$b20$$c20261029$$lBNA01$$h1804
+001679126 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001679308 FMT   L BK
+001679308 LDR   L 00000naa^a22^^^^^^a^4500
+001679308 001   L 001679308
+001679308 005   L 20261102153827.0
+001679308 007   L ta
+001679308 008   L 261102s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679308 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679308 1001  L $$aAlbornoz, Carlos Darío$$eautor$$4aut
+001679308 24510 L $$aProcesos antiguos hoy :$$bdesde los daguerrotipos a procesos de tiraje del siglo XIX /$$cCarlos Darío Albornoz.
+001679308 504   L $$aBibliografía: p. 20.
+001679308 650 4 L $$aFotografía$$xTécnicas
+001679308 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 17-20$$w(AR-BaBN)001034294
+001679308 LKR   L $$aDN$$b001034294$$lBNA01$$mProcesos antiguos hoy : desde los daguerrotipos a procesos de tiraje del siglo XIX / Carlos Darío Albornoz$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 17-20
+001679308 OWN   L $$aCAT_FOTO
+001679308 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1538
+001679310 FMT   L BK
+001679310 LDR   L 00000naa^a22^^^^^^a^4500
+001679310 001   L 001679310
+001679310 005   L 20261102154452.0
+001679310 007   L ta
+001679310 008   L 261102s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001679310 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679310 043   L $$as-ag---
+001679310 1001  L $$aAlfaro, Alberto Andrés$$eautor$$4aut
+001679310 24513 L $$aEl rostro de Buenos Aires que retratan los hermanos Bizioli, 1871-1880 /$$cAlberto Andrés Alfaro.
+001679310 5050  L $$aLos hermanos Bizioli -- La investigación -- La Plaza de Mayo -- La Plaza de la Victoria -- La Plaza de Mayo -- La costa del río.
+001679310 60014 L $$aBizioli, César,$$d1847-1914
+001679310 60014 L $$aBizioli, Isaac,$$d1857-1924
+001679310 651 4 L $$aBuenos Aires$$xHistoria$$ySiglo XIX
+001679310 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 21-24$$w(AR-BaBN)001034294
+001679310 LKR   L $$aDN$$b001034294$$lBNA01$$mEl rostro de Buenos Aires que retratan los hermanos Bizioli, 1871-1880 / Alberto Andrés Alfaro$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 21-24
+001679310 OWN   L $$aCAT_FOTO
+001679310 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1544
+001679310 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1544
+001679313 FMT   L BK
+001679313 LDR   L 00000naa^a22^^^^^^a^4500
+001679313 001   L 001679313
+001679313 005   L 20261117180126.0
+001679313 007   L ta
+001679313 008   L 261102s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679313 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679313 043   L $$as-cl---
+001679313 1001  L $$aAlvarado Pérez, Margarita,$$d1950-$$eautora$$4aut
+001679313 24510 L $$aCrónica de un archivero sagaz :$$binvestigación, documentación y configuración de archivos /$$cMargarita P. Alvarado, Christian Báez A., Pedro Mege R.
+001679313 504   L $$aBibliografía: p. 30.
+001679313 5050  L $$aPresentación -- El archivero se ordena. Sistematización, procesamiento de la información y configuración del archivo -- Los hallazgos del archivero. De imágenes, fotógrafos y personajes -- De imágenes -- De fotógrafos -- De personajes -- Lo que aprendió el archivero. Algunas lecciones y conclusiones.
+001679313 650 4 L $$aArchiveros
+001679313 650 4 L $$aFotografía$$xCatalogación
+001679313 650 4 L $$aMapuches$$zChile
+001679313 650 4 L $$aFotografía$$xCatalogación
+001679313 7001  L $$aBáez Allende, Christian,$$d1968-$$eautor$$4aut
+001679313 7001  L $$aMege Rosso, Pedro,$$d1975-$$eautor$$4aut
+001679313 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 25-30$$w(AR-BaBN)001034294
+001679313 LKR   L $$aDN$$b001034294$$lBNA01$$mCrónica de un archivero sagaz : investigación, documentación y configuración de archivos / Margarita P. Alvarado, Christian Báez A., Pedro Mege R.$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina
+001679313 OWN   L $$aCAT_FOTO
+001679313 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1559
+001679313 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1600
+001679313 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001680445 FMT   L BK
+001680445 LDR   L 00000naa^a22^^^^^^a^4500
+001680445 001   L 001680445
+001680445 005   L 20261116182413.0
+001680445 007   L ta
+001680445 008   L 261116s2003^^^^ag^o^^^gr^^^^^000^0^por^^
+001680445 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680445 043   L $$as-bl---
+001680445 1001  L $$aArgon, Maria de Fátima Moraes$$eautora$$4aut
+001680445 24510 L $$aFamilia imperial - Album de retratos /$$cMaria de Fátima Moraes Argon.
+001680445 61024 L $$aMuseu Imperial (Brasil)$$xColecciones de fotografías
+001680445 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 157-160$$w(AR-BaBN)001034294
+001680445 LKR   L $$aDN$$b001034294$$lBNA01$$mFamilia imperial - Album de retratos / Maria de Fátima Moraes Argon$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 157-160
+001680445 OWN   L $$aCAT_FOTO
+001680445 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1824
+001679314 FMT   L BK
+001679314 LDR   L 00000naa^a22^^^^^^a^4500
+001679314 001   L 001679314
+001679314 005   L 20261102160737.0
+001679314 007   L ta
+001679314 008   L 261102s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679314 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679314 1001  L $$aArruabarrena, Héctor$$eautor$$4aut
+001679314 24513 L $$aLa fotografía en armonía con la pintura y la música en Guido Boggiani, 1861-1901 /$$cHéctor Arruabarrena.
+001679314 5050  L $$aAntecedentes -- Entre oficios -- Superobjetivo de las actividades de Boggiani -- Sustitución, equivalencia -- Oficio de fotógrafo -- Resultados -- Publicaciones, exposiciones -- Una de las últimas cartas, un mes antes de desaparecer -- Fotografía-pintura-música-técnicas de ornamentación -- Sus fotografías, todas.
+001679314 60014 L $$aBoggiani, Guido,$$d1861-1901
+001679314 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 31-33$$w(AR-BaBN)001034294
+001679314 LKR   L $$aDN$$b001034294$$lBNA01$$mLa fotografía en armonía con la pintura y la música en Guido Boggiani, 1861-1901 / Héctor Arruabarrena$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina
+001679314 OWN   L $$aCAT_FOTO
+001679314 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1607
+001679315 FMT   L BK
+001679315 LDR   L 00000naa^a22^^^^^^a^4500
+001679315 001   L 001679315
+001679315 005   L 20261102161054.0
+001679315 007   L ta
+001679315 008   L 261102s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679315 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679315 043   L $$as-ec---
+001679315 1001  L $$aBedoya, María Elena$$eautora$$4aut
+001679315 24510 L $$aEntre retratos, exposiciones y vistas :$$bla fotografía en Quito durante el siglo XIX /$$cMaría Elena Bedoya.
+001679315 504   L $$aBibliografía: p. 37.
+001679315 650 4 L $$aFotografía$$zEcuador$$xHistoria$$ySiglo XIX
+001679315 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 35-37$$w(AR-BaBN)001034294
+001679315 LKR   L $$aDN$$b001034294$$lBNA01$$mEntre retratos, exposiciones y vistas : la fotografía en Quito durante el siglo XIX / María Elena Bedoya$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 35-37
+001679315 OWN   L $$aCAT_FOTO
+001679315 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1610
+001679316 FMT   L BK
+001679316 LDR   L 00000naa^a22^^^^^^a^4500
+001679316 001   L 001679316
+001679316 005   L 20261102161519.0
+001679316 007   L ta
+001679316 008   L 261102s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679316 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679316 1001  L $$aBerestovoy, Karen$$eautora$$4aut
+001679316 24513 L $$aEl fotógrafo Marcos Chamudes :$$b1907-1989, Santiago de Chile /$$cKaren Berestovoy.
+001679316 60014 L $$aChamudes, Marcos,$$d1907-1989
+001679316 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 39-40$$w(AR-BaBN)001034294
+001679316 LKR   L $$aDN$$b001034294$$lBNA01$$mEl fotógrafo Marcos Chamudes : 1907-1989, Santiago de Chile / Karen Berestovoy$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 39-40
+001679316 OWN   L $$aCAT_FOTO
+001679316 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1615
+001679319 FMT   L BK
+001679319 LDR   L 00000naa^a22^^^^^^a^4500
+001679319 001   L 001679319
+001679319 005   L 20261102162438.0
+001679319 007   L ta
+001679319 008   L 261102s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679319 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679319 043   L $$as-ag---
+001679319 1001  L $$aBoixadós, María Cristina$$eautora$$4aut
+001679319 24513 L $$aLa representación de la política a través de la fotografía de prensa /$$cM. Cristina Boixadós, Silvia O. Romano, Marta O. Palacios.
+001679319 60014 L $$aNovello, Antonio,$$d1886-1964
+001679319 650 4 L $$aFotografía periodística$$zArgentina$$xHistoria
+001679319 651 4 L $$aCórdoba (Provincia)$$xPolítica y gobierno$$ySiglo XX
+001679319 7001  L $$aRomano, Silvia O.$$eautora$$4aut
+001679319 7001  L $$aPalacios, Marta O.$$eautora$$4aut
+001679319 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 41-46$$w(AR-BaBN)001034294
+001679319 LKR   L $$aDN$$b001034294$$lBNA01$$mLa representación de la política a través de la fotografía de prensa / M. Cristina Boixadós, Silvia O. Romano, Marta O. Palacios$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 41-46
+001679319 OWN   L $$aCAT_FOTO
+001679319 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1624
+001679321 FMT   L BK
+001679321 LDR   L 00000naa^a22^^^^^^a^4500
+001679321 001   L 001679321
+001679321 005   L 20261102163155.0
+001679321 007   L ta
+001679321 008   L 261102s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679321 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679321 1001  L $$aBozzini, Juan Pablo$$eautor$$4aut
+001679321 24510 L $$aAlgunos aspectos históricos sobre el desarrollo de la fotomicrografía en Argentina :$$bRudolf Krauss, Cristofredo Jacob, su función como pioneros /$$cJuan Pablo Bozzini.
+001679321 504   L $$aBibliografía: p. 49.
+001679321 60014 L $$aKrauss, Rudolf,$$d1868-1932
+001679321 60014 L $$aJakob, Christfried,$$d1866-1956
+001679321 650 4 L $$aFotomicrografía$$xHistoria
+001679321 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 47-49$$w(AR-BaBN)001034294
+001679321 LKR   L $$aDN$$b001034294$$lBNA01$$mAlgunos aspectos históricos sobre el desarrollo de la fotomicrografía en Argentina : Rudolf Krauss, Cristofredo Jacob, su función como pioneros / Juan Pablo Bozzini$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 47-49
+001679321 OWN   L $$aCAT_FOTO
+001679321 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1631
+001679327 FMT   L BK
+001679327 LDR   L 00000naa^a22^^^^^^a^4500
+001679327 001   L 001679327
+001679327 005   L 20261102173406.0
+001679327 007   L ta
+001679327 008   L 261102s2003^^^^ag^^^^^grb^^^^000^0^spa^^
+001679327 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679327 1001  L $$aBustos, Liliana$$eautora$$4aut
+001679327 24510 L $$aDe qué hablamos, cuando hablamos de preservación y conservación de fotografías /$$cLiliana Bustos.
+001679327 504   L $$aBibliografía: p. 58.
+001679327 5050  L $$aDefiniciones -- ¿Qué necesitamos conocer los que trabajamos en el campo de la conservación y preservación fotográfica? -- Por qué no hablamos de restauración -- La preservación - conservación de fotografías en nuestro país -- Conclusión -- Una serie de reflexiones.
+001679327 650 4 L $$aFotografía$$xConservación y restauración
+001679327 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 55-58$$w(AR-BaBN)001034294
+001679327 LKR   L $$aDN$$b001034294$$lBNA01$$mDe qué hablamos, cuando hablamos de preservación y conservación de fotografías / Liliana Bustos$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 55-58
+001679327 OWN   L $$aCAT_FOTO
+001679327 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1653
+001679327 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1706
+001679327 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1734
+001679429 FMT   L BK
+001679429 LDR   L 00000naa^a22^^^^^^a^4500
+001679429 001   L 001679429
+001679429 005   L 20261103154316.0
+001679429 007   L ta
+001679429 008   L 261103s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679429 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679429 043   L $$as-ag---
+001679429 1001  L $$aCaggiano, María Amanda$$eautora$$4aut
+001679429 24510 L $$aChivilcoy revela sus fotógrafos, 1861-1884 /$$cMaría Amanda Caggiano y Alicia Iris Ríos.
+001679429 504   L $$aBibliografía: p. 64.
+001679429 650 4 L $$aFotografía$$zBuenos Aires (Provincia)$$zChivilcoy$$xHistoria
+001679429 650 4 L $$aFotógrafos argentinos$$xHistoria
+001679429 651 4 L $$aChivilcoy$$xHistoria
+001679429 7001  L $$aRíos, Alicia Iris$$eautora$$4aut
+001679429 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 59-64$$w(AR-BaBN)001034294
+001679429 LKR   L $$aDN$$b001034294$$lBNA01$$mChivilcoy revela sus fotógrafos, 1861-1884 / María Amanda Caggiano y Alicia Iris Ríos$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 59-64
+001679429 OWN   L $$aCAT_FOTO
+001679429 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1526
+001679429 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1526
+001679429 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1543
+001679444 FMT   L BK
+001679444 LDR   L 00000naa^a22^^^^^^a^4500
+001679444 001   L 001679444
+001679444 005   L 20261117180139.0
+001679444 007   L ta
+001679444 008   L 261103s2003^^^^ag^^^^^grb^^^^000^0^spa^^
+001679444 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679444 043   L $$as-ag---
+001679444 1001  L $$aChazarreta, Beatriz$$eautora$$4aut
+001679444 24510 L $$aFotografía, imagen vs. postal :$$bRosario 1863-1900 /$$cBeatriz Chazarreta, Mónica Stábile, Beatriz Puig.
+001679444 5050  L $$aRelevamiento de lo posible. Inicios de una aventura -- Obstrucción y recuperación de la mirada -- Espacialidad del tiempo. Temporalidad del espacio.
+001679444 650 4 L $$aFotografía$$zSanta Fe (Provincia)$$zRosario (Santa Fe)$$xHistoria
+001679444 650 4 L $$aFotografía$$xAspectos sociales
+001679444 7001  L $$aStábile, Mónica$$eautora$$4aut
+001679444 7001  L $$aPuig, Beatriz$$eautora$$4aut
+001679444 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 83-86$$w(AR-BaBN)001034294
+001679444 LKR   L $$aDN$$b001034294$$lBNA01$$mFotografía, imagen vs. postal : Rosario 1863-1900 / Beatriz Chazarreta, Mónica Stábile, Beatriz Puig$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 83-86
+001679444 OWN   L $$aCAT_FOTO
+001679444 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1557
+001679444 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001679435 FMT   L BK
+001679435 LDR   L 00000naa^a22^^^^^^a^4500
+001679435 001   L 001679435
+001679435 005   L 20261117180155.0
+001679435 007   L ta
+001679435 008   L 261103s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679435 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679435 043   L $$as-cl---
+001679435 1001  L $$aCsillag Pimstein, Ilonka$$eautora$$4aut
+001679435 24510 L $$aPreservación de fotografía patrimonial en Chile, 1980-2002 /$$cIlonka Csillag Pimstein.
+001679435 5050  L $$aIntroducción -- Desarrollo de una metodología de preservación -- Proyectos -- Conclusión -- Agradecimientos.
+001679435 61024 L $$aCentro Nacional del Patrimonio Fotográfico (Chile)
+001679435 650 4 L $$aFotografía$$xConservación y restauración
+001679435 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 65-68$$w(AR-BaBN)001034294
+001679435 LKR   L $$aDN$$b001034294$$lBNA01$$mPreservación de fotografía patrimonial en Chile, 1980-2002 / Ilonka Csillag Pimstein$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 65-68
+001679435 OWN   L $$aCAT_FOTO
+001679435 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1534
+001679435 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001679438 FMT   L BK
+001679438 LDR   L 00000naa^a22^^^^^^a^4500
+001679438 001   L 001679438
+001679438 005   L 20261103154030.0
+001679438 007   L ta
+001679438 008   L 261103s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679438 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679438 043   L $$as-ag---
+001679438 1001  L $$aCuarterolo, Andrea$$eautora$$4aut
+001679438 24510 L $$aRelaciones entre cine y fotografía en la Argentina, 1895-1940 /$$cAndrea L. Cuarterolo.
+001679438 504   L $$aBibliografía: p. 73-74.
+001679438 5050  L $$aIntroducción -- Eugenio Py (1859-1924) -- Eugenio Cardini (1879-1962) -- Eduardo Martínez de la Pera (1880-1969) y Ernesto Gunche (1883-1937) -- Arturo Alexander (1865-1938) -- Horacio Coppola (1906).
+001679438 650 4 L $$aFotografía$$zArgentina$$xHistoria
+001679438 650 4 L $$aCine$$zArgentina$$xHistoria
+001679438 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 69-74$$w(AR-BaBN)001034294
+001679438 LKR   L $$aDN$$b001034294$$lBNA01$$mRelaciones entre cine y fotografía en la Argentina, 1895-1940 / Andrea L. Cuarterolo$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 69-74
+001679438 OWN   L $$aCAT_FOTO
+001679438 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1539
+001679438 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1540
+001679440 FMT   L BK
+001679440 LDR   L 00000naa^a22^^^^^^a^4500
+001679440 001   L 001679440
+001679440 005   L 20261103154346.0
+001679440 007   L ta
+001679440 008   L 261103s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679440 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679440 043   L $$as-ag---
+001679440 1001  L $$aCunietti-Ferrando, Arnaldo J.,$$d1936-2018$$eautor$$4aut
+001679440 24513 L $$aLa fotografía del siglo XIX en Entre Ríos /$$cArnaldo J. Cunietti-Ferrando.
+001679440 5050  L $$aIntroducción -- Daguerrotipistas y ambrotipistas -- Nuevos fotógrafos; nuevos métodos: aparece la foto sobre papel -- Recapitulación final.
+001679440 650 4 L $$aFotografía$$zEntre Ríos (Provincia)$$xHistoria
+001679440 650 4 L $$aFotógrafos argentinos$$xHistoria
+001679440 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 75-82$$w(AR-BaBN)001034294
+001679440 LKR   L $$aDN$$b001034294$$lBNA01$$mLa fotografía del siglo XIX en Entre Ríos / Arnaldo J. Cunietti-Ferrando$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 75-82
+001679440 OWN   L $$aCAT_FOTO
+001679440 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1543
+001679326 FMT   L BK
+001679326 LDR   L 00000naa^a22^^^^^^a^4500
+001679326 001   L 001679326
+001679326 005   L 20261102164817.0
+001679326 007   L ta
+001679326 008   L 261102s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001679326 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679326 1001  L $$aD'Alessandro de Brandi, Hilda,$$d1937-$$eautora$$4aut
+001679326 24510 L $$aAminthe Geoffroy :$$brescate de su legado fotográfico /$$cHilda D'Alessandro de Brandi.
+001679326 5050  L $$aLa colonia agrícola militar de Las Conchas -- Fotógrafo de pueblo -- El fotógrafo de Paraná -- Cónsul de Francia y Vice-Cónsul de Bélgica -- Su legado fotográfico.
+001679326 60014 L $$aGeoffroy, Aminthe,$$d1867-1941
+001679326 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 51-53$$w(AR-BaBN)001034294
+001679326 LKR   L $$aDN$$b001034294$$lBNA01$$mAminthe Geoffroy : rescate de su legado fotográfico / Hilda D'Alessandro de Brandi$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 51-53
+001679326 OWN   L $$aCAT_FOTO
+001679326 CAT   L $$aFORTIZ$$b20$$c20261102$$lBNA01$$h1648
+001679447 FMT   L BK
+001679447 LDR   L 00000naa^a22^^^^^^a^4500
+001679447 001   L 001679447
+001679447 005   L 20261117180131.0
+001679447 007   L ta
+001679447 008   L 261103s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679447 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679447 1001  L $$aD'Amico, Elizabeth$$eautora$$4aut
+001679447 24510 L $$aDocumentación y catalogación de álbumes fotográficos /$$cElizabeth D'Amico, Gabriela Mirande Lamedica.
+001679447 5050  L $$a1. Introducción -- 2. Fundamentos teóricos y construcción de la base de datos -- 3. Trabajos específicos. A. Base de datos -- B. Hoja de entrada -- C. Normalización de los datos ingresados -- D. Análisis temático -- 4. Conclusión.
+001679447 650 4 L $$aFotografía$$xCatalogación
+001679447 650 4 L $$aÁlbumes de fotografías$$xCatalogación
+001679447 7001  L $$aMirande Lamedica, Gabriela$$eautora$$4aut
+001679447 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 87-90$$w(AR-BaBN)001034294
+001679447 LKR   L $$aDN$$b001034294$$lBNA01$$mDocumentación y catalogación de álbumes fotográficos / Elizabeth D'Amico, Gabriela Mirande Lamedica$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 87-90
+001679447 OWN   L $$aCAT_FOTO
+001679447 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1603
+001679447 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001679449 FMT   L BK
+001679449 LDR   L 00000naa^a22^^^^^^a^4500
+001679449 001   L 001679449
+001679449 005   L 20261103160906.0
+001679449 007   L ta
+001679449 008   L 261103s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679449 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679449 043   L $$as-ag---
+001679449 1001  L $$aDi Biaso, Pascualina$$eautora$$4aut
+001679449 24510 L $$aCaptación y difusión del acervo fotográfico /$$cPascualina Di Biaso.
+001679449 5050  L $$aAcervo fotográfico -- Retratos -- Vistas y paisajes -- Fotografías periodísticas -- La fotografía como documento histórico.
+001679449 61024 L $$aArchivo General de la Provincia de Santa Fe$$xColecciones de fotografías
+001679449 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 91-94$$w(AR-BaBN)001034294
+001679449 LKR   L $$aDN$$b001034294$$lBNA01$$mCaptación y difusión del acervo fotográfico / Pascualina Di Biaso$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 91-94
+001679449 OWN   L $$aCAT_FOTO
+001679449 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1609
+001679450 FMT   L BK
+001679450 LDR   L 00000naa^a22^^^^^^a^4500
+001679450 001   L 001679450
+001679450 005   L 20261103161314.0
+001679450 007   L ta
+001679450 008   L 261103s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679450 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679450 043   L $$as-ag---
+001679450 1001  L $$aDodd, Stella Maris$$eautora$$4aut
+001679450 24513 L $$aLa evolución de los medios de transporte en Chubut :$$bdesde sus comienzos hasta 1930 /$$cStella Maris Dodd.
+001679450 504   L $$aBibliografía: p. 98.
+001679450 650 4 L $$aTransportes$$zChubut (Provincia)$$xHistoria
+001679450 651 4 L $$aChubut (Provincia)$$xHistoria
+001679450 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 95-98$$w(AR-BaBN)001034294
+001679450 LKR   L $$aDN$$b001034294$$lBNA01$$mLa evolución de los medios de transporte en Chubut : desde sus comienzos hasta 1930 / Stella Maris Dodd$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 95-98
+001679450 OWN   L $$aCAT_FOTO
+001679450 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1613
+001679451 FMT   L BK
+001679451 LDR   L 00000naa^a22^^^^^^a^4500
+001679451 001   L 001679451
+001679451 005   L 20261103161658.0
+001679451 007   L ta
+001679451 008   L 261103s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679451 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679451 1001  L $$aDozo, Ana Luisa$$eautora$$4aut
+001679451 24513 L $$aLa magia en los retratos de Alejandro Wolk /$$cAna Luisa Dozo.
+001679451 5050  L $$aDe Rusia a la Argentina -- Su primera exposición individual -- Lo novedoso en los retratos de Alejandro Wolk -- Un artista distinguido -- Una familia de fotógrafos -- La personalidad de Alejandro Wolk.
+001679451 60014 L $$aWolk, Alejandro,$$d1903-1983$$xCrítica e interpretación
+001679451 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 99-103$$w(AR-BaBN)001034294
+001679451 LKR   L $$aDN$$b001034294$$lBNA01$$mLa magia en los retratos de Alejandro Wolk / Ana Luisa Dozo$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 99-103
+001679451 OWN   L $$aCAT_FOTO
+001679451 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1616
+001679453 FMT   L BK
+001679453 LDR   L 00000naa^a22^^^^^^a^4500
+001679453 001   L 001679453
+001679453 005   L 20261103162734.0
+001679453 007   L ta
+001679453 008   L 261103s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679453 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679453 1001  L $$aFaure, Patricia$$eautora$$4aut
+001679453 24510 L $$aHoracio Quiroga y la fotografía /$$cPatricia Faure.
+001679453 60014 L $$aQuiroga, Horacio,$$d1878-1937$$xRetratos
+001679453 650 4 L $$aFotografía$$xEn la literatura
+001679453 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 105-108$$w(AR-BaBN)001034294
+001679453 LKR   L $$aDN$$b001034294$$lBNA01$$mHoracio Quiroga y la fotografía / Patricia Faure$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 105-108
+001679453 OWN   L $$aCAT_FOTO
+001679453 CAT   L $$aFORTIZ$$b20$$c20261103$$lBNA01$$h1627
+001679548 FMT   L BK
+001679548 LDR   L 00000naa^a22^^^^^^a^4500
+001679548 001   L 001679548
+001679548 005   L 20261117180152.0
+001679548 007   L ta
+001679548 008   L 261104s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679548 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679548 043   L $$as-ag---
+001679548 1001  L $$aFranco, Alfredo M.$$eautor$$4aut
+001679548 24510 L $$aFotógrafos en Tucumán recorren el siglo XIX /$$cAlfredo M. Franco.
+001679548 504   L $$aBibliografía: p. 114-115.
+001679548 5050  L $$aDaguerrotipistas -- Fotógrafos -- Conclusiones.
+001679548 60014 L $$aPaganelli, Angel,$$d1832-1928
+001679548 650 4 L $$aFotografía$$zTucumán (Provincia)$$xHistoria
+001679548 650 4 L $$aFotógrafos argentinos$$xHistoria
+001679548 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 109-115$$w(AR-BaBN)001034294
+001679548 LKR   L $$aDN$$b001034294$$lBNA01$$mFotógrafos en Tucumán recorren el siglo XIX / Alfredo M. Franco$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina
+001679548 OWN   L $$aCAT_FOTO
+001679548 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h1827
+001679548 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001680577 FMT   L BK
+001680577 LDR   L 00000naa^a22^^^^^^a^4500
+001680577 001   L 001680577
+001680577 005   L 20261117174240.0
+001680577 007   L ta
+001680577 008   L 261117s2003^^^^ag^o^^^gr^^^^^010^0^spa^^
+001680577 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680577 24500 L $$aEn memoria :$$bMiguel Angel Cuarterolo.
+001680577 5050  L $$aMiguel Angel Cuarterolo, historiador -- Al maestro con cariño.
+001680577 60014 L $$aCuarterolo, Miguel Angel,$$d1950-2002$$xHomenajes
+001680577 7001  L $$aGómez, Juan,$$d1932-2018$$eautor$$4aut
+001680577 7001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+001680577 7001  L $$aFuentes, Ángel$$eautor$$4aut
+001680577 7001  L $$aAlexander, Abel,$$d1943-$$eautor$$4aut
+001680577 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 209-212$$w(AR-BaBN)001034294
+001680577 LKR   L $$aDN$$b001034294$$lBNA01$$mEn memoria : Miguel Angel Cuarterolo$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 209-212
+001680577 OWN   L $$aCAT_FOTO
+001680577 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1742
+001679550 FMT   L BK
+001679550 LDR   L 00000naa^a22^^^^^^a^4500
+001679550 001   L 001679550
+001679550 005   L 20261117180150.0
+001679550 007   L ta
+001679550 008   L 261104s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001679550 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679550 1001  L $$aGranese, Luis$$eautor$$4aut
+001679550 24510 L $$aOdber Wellesley Heffer Bisset :$$b1 junio 1860-12 mayo 1945 /$$cLuis Granese.
+001679550 5050  L $$aMister Heffer -- El archivo.
+001679550 60014 L $$aHeffer, Odber,$$d1860-1945
+001679550 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 119-120$$w(AR-BaBN)001034294
+001679550 LKR   L $$aDN$$b001034294$$lBNA01$$mOdber Wellesley Heffer Bisset : 1 junio 1860-12 mayo 1945 / Luis Granese$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 119-120
+001679550 OWN   L $$aCAT_FOTO
+001679550 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h1843
+001679550 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h1843
+001679550 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001679551 FMT   L BK
+001679551 LDR   L 00000naa^a22^^^^^^a^4500
+001679551 001   L 001679551
+001679551 005   L 20261104185334.0
+001679551 007   L ta
+001679551 008   L 261104s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001679551 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679551 1001  L $$aGuarrera, Lucrecia$$eautora$$4aut
+001679551 24510 L $$aTrabajando juntos en la reconstrucción de la memoria /$$cLucrecia Guarrera y Susana Castillo.
+001679551 5050  L $$aIntroducción -- Desarrollo -- Conclusiones.
+001679551 650 4 L $$aMemoria colectiva
+001679551 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 121-122$$w(AR-BaBN)001034294
+001679551 LKR   L $$aDN$$b001034294$$lBNA01$$mTrabajando juntos en la reconstrucción de la memoria / Lucrecia Guarrera y Susana Castillo$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 121-122
+001679551 OWN   L $$aCAT_FOTO
+001679551 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h1853
+001679552 FMT   L BK
+001679552 LDR   L 00000naa^a22^^^^^^a^4500
+001679552 001   L 001679552
+001679552 005   L 20261104191202.0
+001679552 007   L ta
+001679552 008   L 261104s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001679552 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679552 1001  L $$aGutiérrez, Ramón,$$d1939-2026$$eautor$$4aut
+001679552 24510 L $$aPresencia de Martín Chambi en La Argentina /$$cRamón Gutiérrez.
+001679552 5050  L $$a1. La articulación entre Cuzco y Buenos Aires -- 2. Martín Chambi y su fotografía en Buenos Aires.
+001679552 60014 L $$aChambi, Martín,$$d1891-1973
+001679552 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 123-125$$w(AR-BaBN)001034294
+001679552 LKR   L $$aDN$$b001034294$$lBNA01$$mPresencia de Martín Chambi en La Argentina / Ramón Gutiérrez$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 123-125
+001679552 OWN   L $$aCAT_FOTO
+001679552 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h1912
+001679553 FMT   L BK
+001679553 LDR   L 00000naa^a22^^^^^^a^4500
+001679553 001   L 001679553
+001679553 005   L 20261104191538.0
+001679553 007   L ta
+001679553 008   L 261104s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001679553 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679553 1001  L $$aHornia, Graciela$$eautora$$4aut
+001679553 24510 L $$aFotografía de primera comunión :$$bel rastro de la gracia /$$cGraciela Hornia.
+001679553 504   L $$aBibliografía: p. 129.
+001679553 650 4 L $$aRetratos fotográficos$$xHistoria
+001679553 650 4 L $$aPrimera comunión
+001679553 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 127-129$$w(AR-BaBN)001034294
+001679553 LKR   L $$aDN$$b001034294$$lBNA01$$mFotografía de primera comunión : el rastro de la gracia / Graciela Hornia$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 127-129
+001679553 OWN   L $$aCAT_FOTO
+001679553 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h1915
+001680438 FMT   L BK
+001680438 LDR   L 00000naa^a22^^^^^^a^4500
+001680438 001   L 001680438
+001680438 005   L 20261116172149.0
+001680438 007   L ta
+001680438 008   L 261116s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001680438 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680438 043   L $$as-ag---
+001680438 1001  L $$aIncorvaia, Mónica$$eautora$$4aut
+001680438 24513 L $$aLa mirada a través del tiempo :$$bmuestra de fotografía antigua /$$cMónica S. Incorvaia.
+001680438 504   L $$aBibliografía: p. 133.
+001680438 650 4 L $$aFotografía$$zArgentina$$xHistoria
+001680438 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 131-133$$w(AR-BaBN)001034294
+001680438 LKR   L $$aDN$$b001034294$$lBNA01$$mLa mirada a través del tiempo : muestra de fotografía antigua / Mónica S. Incorvaia$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 131-133
+001680438 OWN   L $$aCAT_FOTO
+001680438 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1721
+001680439 FMT   L BK
+001680439 LDR   L 00000naa^a22^^^^^^a^4500
+001680439 001   L 001680439
+001680439 005   L 20261116172937.0
+001680439 007   L ta
+001680439 008   L 261116s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001680439 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680439 043   L $$as-ag---
+001680439 1001  L $$aLópez Castro, Guillermo$$eautor$$4aut
+001680439 24513 L $$aLa memoria en imágenes :$$buna experiencia de digitalización, Archivo Histórico Provincial Fernando E. Aráoz /$$cGuillermo López Castro, Norma Medus, Stella Maris Prado.
+001680439 5050  L $$aComentarios previos -- Algunas cuestiones conceptuales -- La historia del Fondo fotografía -- Los nuevos soportes en busca de la preservación -- Conclusiones.
+001680439 61024 L $$aArchivo Histórico Provincial Prof. Fernando E. Aráoz (La Pampa)$$xColecciones de fotografías
+001680439 650 4 L $$aFotografía$$xDigitalización
+001680439 7001  L $$aPrado, Stella Maris$$eautora$$4aut
+001680439 7001  L $$aMedus, Norma$$eautora$$4aut
+001680439 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 141-143$$w(AR-BaBN)001034294
+001680439 LKR   L $$aDN$$b001034294$$lBNA01$$mLa memoria en imágenes : una experiencia de digitalización, Archivo Histórico Provincial Fernando E. Aráoz / Guillermo López Castro, Norma Medus, Stella Maris Prado$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 141-143
+001680439 OWN   L $$aCAT_FOTO
+001680439 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1729
+001680439 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1729
+001680442 FMT   L BK
+001680442 LDR   L 00000naa^a22^^^^^^a^4500
+001680442 001   L 001680442
+001680442 005   L 20261117180142.0
+001680442 007   L ta
+001680442 008   L 261116s2003^^^^ag^^^^^grb^^^^000^0^spa^^
+001680442 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680442 043   L $$as-ag---$$ae-uk-st
+001680442 1001  L $$aMarcet, Eduardo Luis$$eautor$$4aut
+001680442 24510 L $$aAclaraciones sobre Mr. Robert Leys :$$bun escocés orfebre, comerciante y fotógrafo /$$cEduardo Luis Marcet, Haydée Epifanio.
+001680442 504   L $$aBibliografía: p. 149-151.
+001680442 5050  L $$aOrigen de la familia -- Mr. Robert Leys en Escocia -- Mr. Robert Leys en Buenos Aires -- Los viajes de negocios -- Panorama de la fotografía entre 1840-1843 -- Vida familiar -- Conclusiones.
+001680442 60014 L $$aLeys, Robert,$$d1816-1877
+001680442 650 4 L $$aFotografía$$zArgentina$$xHistoria
+001680442 7001  L $$aEpifanio, Haydeé$$eautora$$4aut
+001680442 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 145-151$$w(AR-BaBN)001034294
+001680442 LKR   L $$aDN$$b001034294$$lBNA01$$mAclaraciones sobre Mr. Robert Leys : un escocés orfebre, comerciante y fotógrafo / Eduardo Luis Marcet, Haydée Epifanio$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 145-151
+001680442 OWN   L $$aCAT_FOTO
+001680442 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1744
+001680442 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001679554 FMT   L BK
+001679554 LDR   L 00000naa^a22^^^^^^a^4500
+001679554 001   L 001679554
+001679554 005   L 20261104200523.0
+001679554 007   L ta
+001679554 008   L 261104s2003^^^^ag^^^^^grb^^^^000^0^spa^^
+001679554 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679554 043   L $$as-ag---
+001679554 1001  L $$aMayol Laferrere, Carlos$$eautor$$4aut
+001679554 24510 L $$aRío Cuarto visto a través de sus tarjetas postales /$$cCarlos Mayol Laferrere.
+001679554 504   L $$aBibliografía: p. 139.
+001679554 650 4 L $$aFotografía$$zCórdoba (Provincia)$$zRío Cuarto$$xHistoria
+001679554 650 4 L $$aTarjetas postales$$zArgentina$$xHistoria
+001679554 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 135-139$$w(AR-BaBN)001034294
+001679554 LKR   L $$aDN$$b001034294$$lBNA01$$mRío Cuarto visto a través de sus tarjetas postales / Carlos Mayol Laferrere$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 135-139
+001679554 OWN   L $$aCAT_FOTO
+001679554 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h1951
+001679554 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h2005
+001680443 FMT   L BK
+001680443 LDR   L 00000naa^a22^^^^^^a^4500
+001680443 001   L 001680443
+001680443 005   L 20261116180146.0
+001680443 007   L ta
+001680443 008   L 261116s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001680443 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680443 043   L $$as-ag---
+001680443 1001  L $$aMéndez, Patricia,$$d1964-$$eautora$$4aut
+001680443 24514 L $$aLas imágenes del progreso :$$bTorcuato de Alvear y Emilio Halitzky /$$cPatricia Méndez, Elisa Radovanovic.
+001680443 5050  L $$aIntroducción -- El espacio como imagen de poder -- Los espacios verdes -- Espacios urbanos -- Espacios para salud -- Espacios para descanso eterno -- Conclusiones.
+001680443 60014 L $$aAlvear, Torcuato de,$$d1822-1890
+001680443 60014 L $$aHalitzky, Emilio
+001680443 650 4 L $$aFotografía$$zArgentina$$xHistoria
+001680443 651 4 L $$aBuenos Aires$$xObras públicas$$xHistoria
+001680443 7001  L $$aRadovanovic, Elisa,$$d1946-$$eautora$$4aut
+001680443 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 153-156$$w(AR-BaBN)001034294
+001680443 LKR   L $$aDN$$b001034294$$lBNA01$$mLas imágenes del progreso : Torcuato de Alvear y Emilio Halitzky / Patricia Méndez, Elisa Radovanovic$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 153-156
+001680443 OWN   L $$aCAT_FOTO
+001680443 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1801
+001680446 FMT   L BK
+001680446 LDR   L 00000naa^a22^^^^^^a^4500
+001680446 001   L 001680446
+001680446 005   L 20261116182947.0
+001680446 007   L ta
+001680446 008   L 261116s2003^^^^ag^^^^^grb^^^^000^0^spa^^
+001680446 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680446 1001  L $$aNiedermaier, Alejandra,$$d1956-$$eautora$$4aut
+001680446 24510 L $$aSignificación de la serie Sueños de Grete Stern en la memoria colectiva /$$cAlejandra Niedermaier.
+001680446 504   L $$aBibliografía: p. 164.
+001680446 60014 L $$aStern, Grete,$$d1904-1999$$xCrítica e interpretación
+001680446 60014 L $$aStern, Grete,$$d1904-1999.$$tSueños
+001680446 650 4 L $$aMemoria colectiva
+001680446 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 161-164$$w(AR-BaBN)001034294
+001680446 LKR   L $$aDN$$b001034294$$lBNA01$$mSignificación de la serie Sueños de Grete Stern en la memoria colectiva / Alejandra Niedermaier$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 161-164
+001680446 OWN   L $$aCAT_FOTO
+001680446 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1829
+001680449 FMT   L BK
+001680449 LDR   L 00000naa^a22^^^^^^a^4500
+001680449 001   L 001680449
+001680449 005   L 20261116184529.0
+001680449 007   L ta
+001680449 008   L 261116s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001680449 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680449 043   L $$as-cl---
+001680449 1001  L $$aPereira Viale, Ricardo$$eautor$$4aut
+001680449 24510 L $$aArchivo fotográfico Chilectra :$$bSantiago de Chile 1910-1930, rescate y puesta en valor /$$cRicardo Pereira Viale.
+001680449 61024 L $$aArchivo Fotográfico Chilectra (Chile)
+001680449 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 165-166$$w(AR-BaBN)001034294
+001680449 LKR   L $$aDN$$b001034294$$lBNA01$$mArchivo fotográfico Chilectra : Santiago de Chile 1910-1930, rescate y puesta en valor / Ricardo Pereira Viale$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 165-166
+001680449 OWN   L $$aCAT_FOTO
+001680449 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1845
+001680451 FMT   L BK
+001680451 LDR   L 00000naa^a22^^^^^^a^4500
+001680451 001   L 001680451
+001680451 005   L 20261116185022.0
+001680451 007   L ta
+001680451 008   L 261116s2003^^^^ag^o^^^gr^^^^^000^0^por^^
+001680451 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680451 043   L $$as-bl---$$ae-po---
+001680451 1001  L $$aPinheiro, Nuno$$eautor$$4aut
+001680451 24510 L $$aBrasil, Africa, novos Eldorados /$$cNuno Pinheiro.
+001680451 650 4 L $$aFotografía$$zBrasil$$xHistoria
+001680451 651 4 L $$aPortugal$$xColonias
+001680451 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 167-171$$w(AR-BaBN)001034294
+001680451 LKR   L $$aDN$$b001034294$$lBNA01$$mBrasil, Africa, novos Eldorados / Nuno Pinheiro$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 167-171
+001680451 OWN   L $$aCAT_FOTO
+001680451 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h1850
+001680456 FMT   L BK
+001680456 LDR   L 00000naa^a22^^^^^^a^4500
+001680456 001   L 001680456
+001680456 005   L 20261116200117.0
+001680456 007   L ta
+001680456 008   L 261116s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001680456 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680456 043   L $$as-ag---
+001680456 1001  L $$aPriamo, Luis,$$d1941-$$eautor$$4aut
+001680456 24510 L $$aFotografía y Estado :$$bArchivo de la Subsecretaría de Informaciones de la Presidencia de la Nación en el Archivo General de la Nación /$$cLuis Priamo.
+001680456 61024 L $$aArchivo General de la Nación (Argentina)$$xColecciones de fotografías
+001680456 61014 L $$aArgentina.$$bSubsecretaría de Informaciones y Prensa
+001680456 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 173-175$$w(AR-BaBN)001034294
+001680456 LKR   L $$aDN$$b001034294$$lBNA01$$mFotografía y Estado : Archivo de la Subsecretaría de Informaciones de la Presidencia de la Nación en el Archivo General de la Nación / Luis Priamo$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 173-175
+001680456 OWN   L $$aCAT_FOTO
+001680456 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h2001
+001680457 FMT   L BK
+001680457 LDR   L 00000naa^a22^^^^^^a^4500
+001680457 001   L 001680457
+001680457 005   L 20261116200651.0
+001680457 007   L ta
+001680457 008   L 261116s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001680457 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680457 043   L $$as-pe---
+001680457 1001  L $$aRetter, Yolanda,$$d1947-2007$$eautora$$4aut
+001680457 24510 L $$aTras los pasos de Max T. Vargas /$$cYolanda Retter V.
+001680457 60014 L $$aVargas, Max. T.,$$d1874-1959
+001680457 650 4 L $$aFotografía$$zPerú$$xHistoria
+001680457 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 177-179$$w(AR-BaBN)001034294
+001680457 LKR   L $$aDN$$b001034294$$lBNA01$$mTras los pasos de Max T. Vargas / Yolanda Retter V.$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 177-179
+001680457 OWN   L $$aCAT_FOTO
+001680457 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h2006
+001680457 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h2006
+001680457 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h2006
+001680458 FMT   L BK
+001680458 LDR   L 00000naa^a22^^^^^^a^4500
+001680458 001   L 001680458
+001680458 005   L 20261116201438.0
+001680458 007   L ta
+001680458 008   L 261116s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001680458 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680458 043   L $$as-ag---
+001680458 1001  L $$aRodríguez Aguilar, María Inés$$eautora$$4aut
+001680458 24513 L $$aUn primer relevamiento del patrimonio fotográfico del Museo Histórico Nacional /$$cMaría Inés Rodríguez Aguilar, Miguel José Ruffo, María Rosa Espinoza.
+001680458 61024 L $$aMuseo Histórico Nacional (Argentina)$$xColecciones de fotografías
+001680458 7001  L $$aRuffo, Miguel José$$eautor$$4aut
+001680458 7001  L $$aEspinoza, María Rosa$$eautora$$4aut
+001680458 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 181-184$$w(AR-BaBN)001034294
+001680458 LKR   L $$aDN$$b001034294$$lBNA01$$mUn primer relevamiento del patrimonio fotográfico del Museo Histórico Nacional / María Inés Rodríguez Aguilar, Miguel José Ruffo, María Rosa Espinoza$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 181-184
+001680458 OWN   L $$aCAT_FOTO
+001680458 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h2014
+001680458 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h2014
+001680459 FMT   L BK
+001680459 LDR   L 00000naa^a22^^^^^^a^4500
+001680459 001   L 001680459
+001680459 005   L 20261116201737.0
+001680459 007   L ta
+001680459 008   L 261116s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001680459 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680459 043   L $$as-ag---
+001680459 1001  L $$aRodríguez, Joaquín R.$$eautor$$4aut
+001680459 24513 L $$aLa fotografía policial en el territorio nacional pampeano /$$cJoaquín R. Rodríguez, Estela Antonio.
+001680459 650 4 L $$aPolicía$$zLa Pampa (Territorio Nacional)$$xHistoria
+001680459 7001  L $$aAntonio, Estela$$eautora$$4aut
+001680459 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 185-186$$w(AR-BaBN)001034294
+001680459 LKR   L $$aDN$$b001034294$$lBNA01$$mLa fotografía policial en el territorio nacional pampeano / Joaquín R. Rodríguez, Estela Antonio$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 185-186
+001680459 OWN   L $$aCAT_FOTO
+001680459 CAT   L $$aFORTIZ$$b20$$c20261116$$lBNA01$$h2017
+001680569 FMT   L BK
+001680569 LDR   L 00000naa^a22^^^^^^a^4500
+001680569 001   L 001680569
+001680569 005   L 20261117165521.0
+001680569 007   L ta
+001680569 008   L 261117s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001680569 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680569 043   L $$asn-----$$as-ag---
+001680569 1001  L $$aRodríguez, Oscar Luis$$eautor$$4aut
+001680569 24510 L $$aFotografiando la Cordillera de los Andes :$$bdesde avión con cabina descubierta en 1931, a 7000 metros de altura y 25º C bajo cero /$$cOscar Luis Rodríguez.
+001680569 650 4 L $$aFotografía aérea$$zArgentina$$xHistoria
+001680569 651 4 L $$aCordillera de los Andes$$xDescripciones y viajes
+001680569 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 187-188$$w(AR-BaBN)001034294
+001680569 LKR   L $$aDN$$b001034294$$lBNA01$$mFotografiando la Cordillera de los Andes : desde avión con cabina descubierta en 1931, a 7000 metros de altura y 25º C bajo cero / Oscar Luis Rodríguez$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 187-188
+001680569 OWN   L $$aCAT_FOTO
+001680569 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1655
+001680570 FMT   L BK
+001680570 LDR   L 00000naa^a22^^^^^^a^4500
+001680570 001   L 001680570
+001680570 005   L 20261117180147.0
+001680570 007   L ta
+001680570 008   L 261117s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001680570 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680570 043   L $$as-ag---
+001680570 1001  L $$aRomero, Gabriel$$eautor$$4aut
+001680570 24514 L $$aUna mirada fotográfica al desarrollo industrial de la Provincia de Corrientes a principios del siglo XX :$$bimágenes del Ingenio Primer Correntino /$$cGabriel Romero, Mariana Giordano.
+001680570 5050  L $$aIntroducción -- Un representante del "progreso correntino": Adriano Nalda -- La fotografía en Corrientes -- Nalda y los fotógrafos: las imágenes del ingenio y el vasco -- La difusión de la imagen: las fotografías inéditas -- Conclusiones.
+001680570 60014 L $$aNalda, Adriano,$$d1867-1940
+001680570 650 4 L $$aFotografía$$zCorrientes (Provincia)$$xHistoria
+001680570 7001  L $$aGiordano, Mariana,$$d1968-$$eautora$$4aut
+001680570 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 189-192$$w(AR-BaBN)001034294
+001680570 LKR   L $$aDN$$b001034294$$lBNA01$$mUna mirada fotográfica al desarrollo industrial de la Provincia de Corrientes a principios del siglo XX : imágenes del Ingenio Primer Correntino / Gabriel Romero, Mariana Giordano$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 189-192
+001680570 OWN   L $$aCAT_FOTO
+001680570 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1706
+001680570 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001680571 FMT   L BK
+001680571 LDR   L 00000naa^a22^^^^^^a^4500
+001680571 001   L 001680571
+001680571 005   L 20261117171508.0
+001680571 007   L ta
+001680571 008   L 261117s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001680571 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680571 043   L $$as-ag---
+001680571 1001  L $$aSchávelzon, Daniel,$$d1950-$$eautor$$4aut
+001680571 24510 L $$aPostales y arqueología histórica :$$bel caso de las ruinas de San Francisco 1906-1907 /$$cDaniel Schávelzon.
+001680571 504   L $$aBibliografía: p. 196.
+001680571 650 4 L $$aTarjetas postales$$zArgentina$$xHistoria
+001680571 651 4 L $$aMendoza (Provincia)$$xRestos arqueológicos
+001680571 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 193-196$$w(AR-BaBN)001034294
+001680571 LKR   L $$aDN$$b001034294$$lBNA01$$mPostales y arqueología histórica : el caso de las ruinas de San Francisco 1906-1907 / Daniel Schávelzon$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 193-196
+001680571 OWN   L $$aCAT_FOTO
+001680571 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1715
+001679549 FMT   L BK
+001679549 LDR   L 00000naa^a22^^^^^^a^4500
+001679549 001   L 001679549
+001679549 005   L 20261104183542.0
+001679549 007   L ta
+001679549 008   L 261104s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001679549 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001679549 043   L $$as-ag---
+001679549 1001  L $$aTarchini, Gustavo Luis$$eautor$$4aut
+001679549 24510 L $$aEl Liberal de Santiago del Estero /$$cGustavo Tarchini y Hugo Gustavo Gez.
+001679549 63004 L $$aEl Liberal (Diario : Santiago del Estero, Argentina)
+001679549 650 4 L $$aFotografía$$zSantiago del Estero (Provincia)$$xHistoria
+001679549 7001  L $$aGez, Hugo Gustavo$$eautor$$4aut
+001679549 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 117-118$$w(AR-BaBN)001034294
+001679549 LKR   L $$aDN$$b001034294$$lBNA01$$mEl Liberal de Santiago del Estero / Gustavo Tarchini y Hugo Gustavo Gez$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 117-118
+001679549 OWN   L $$aCAT_FOTO
+001679549 CAT   L $$aFORTIZ$$b20$$c20261104$$lBNA01$$h1835
+001680574 FMT   L BK
+001680574 LDR   L 00000naa^a22^^^^^^a^4500
+001680574 001   L 001680574
+001680574 005   L 20261117172639.0
+001680574 007   L ta
+001680574 008   L 261117s2003^^^^ag^o^^^gr^^^^^000^0^spa^^
+001680574 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680574 043   L $$as-ag---
+001680574 1001  L $$aTell, Verónica$$eautora$$4aut
+001680574 24513 L $$aEl poder de la auto-representación :$$bla fotografía en la Campaña al desierto /$$cVerónica Tell.
+001680574 650 4 L $$aConquista del desierto, 1878-1885$$xHistoria
+001680574 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XIX
+001680574 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 197-200$$w(AR-BaBN)001034294
+001680574 LKR   L $$aDN$$b001034294$$lBNA01$$mEl poder de la auto-representación : la fotografía en la Campaña al desierto / Verónica Tell$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 197-200
+001680574 OWN   L $$aCAT_FOTO
+001680574 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1726
+001680575 FMT   L BK
+001680575 LDR   L 00000naa^a22^^^^^^a^4500
+001680575 001   L 001680575
+001680575 005   L 20261117180144.0
+001680575 007   L ta
+001680575 008   L 261117s2003^^^^ag^^^^^gr^^^^^000^0^spa^^
+001680575 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680575 043   L $$as-ag---
+001680575 1001  L $$aVallmitjana, Ricardo$$eautor$$4aut
+001680575 24510 L $$aArchivo histórico regional /$$cRicardo Vallmitjana.
+001680575 5050  L $$aEs interesante conocer la particularidad de un archivo regional -- El archivo en marcha.
+001680575 61024 L $$aArchivo Histórico Regional de San Carlos de Bariloche$$xColecciones de fotografías
+001680575 651 4 L $$aSan Carlos de Bariloche$$xHistoria
+001680575 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 201-203$$w(AR-BaBN)001034294
+001680575 LKR   L $$aDN$$b001034294$$lBNA01$$mArchivo histórico regional / Ricardo Vallmitjana$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina, p. 201-203
+001680575 OWN   L $$aCAT_FOTO
+001680575 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1732
+001680575 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1801
+001680576 FMT   L BK
+001680576 LDR   L 00000naa^a22^^^^^^a^4500
+001680576 001   L 001680576
+001680576 005   L 20261117173809.0
+001680576 007   L ta
+001680576 008   L 261117s2003^^^^ag^o^^^grb^^^^000^0^spa^^
+001680576 040   L $$aAR-BaBN$$bspa$$cAR-BaBN$$eaacr
+001680576 043   L $$as-ag---
+001680576 1001  L $$aYujnovsky, Inés,$$d1970-$$eautora$$4aut
+001680576 24510 L $$aSellos, firmas y propagandas de la representación fotográfica en el siglo XIX /$$cInés Yujnovsky.
+001680576 504   L $$aBibliografía: p. 207-208.
+001680576 650 4 L $$aFotografía$$zArgentina$$xHistoria$$ySiglo XIX
+001680576 650 4 L $$aPublicidad$$zArgentina$$xHistoria
+001680576 7731  L $$aCongreso de Historia de la Fotografía (7o : 2001 : Buenos Aires, Argentina)$$t7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina$$gp. 205-208$$w(AR-BaBN)001034294
+001680576 LKR   L $$aDN$$b001034294$$lBNA01$$mSellos, firmas y propagandas de la representación fotográfica en el siglo XIX / Inés Yujnovsky$$n7º Congreso de Historia de la Fotografía 1839-1960 : las imágenes y la memoria colectiva, el rol de los archivos fotográficos 23 y 24 de noviembre de 2001, Buenos Aires, Argentina
+001680576 OWN   L $$aCAT_FOTO
+001680576 CAT   L $$aFORTIZ$$b20$$c20261117$$lBNA01$$h1738
